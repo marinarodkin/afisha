@@ -2,6 +2,11 @@
 
 ## 2026-07-09
 
+- В `scripts/lib/source-workflow.mjs` добавлена `pruneStoreByDate()`, а `scripts/update-sources.mjs` теперь автоматически очищает `sourceBase.json` и `exceptedItems.json` от прошедших событий перед дальнейшим workflow.
+- Выполнен `SKIP_SCRAPE=true ITEMS_FOR_TEST=0 npm run update:sources`: из `sourceBase.json` удалено 511 прошедших событий, база сокращена с 582 до 71 актуального события; из `exceptedItems.json` удалено 93 старых исключения.
+- Выполнены `npm run build`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`; live-сайт теперь показывает 71 актуальное событие и проходит smoke-test.
+- Обновлен `scripts/test.mjs`: liked/disliked smoke-test теперь ищет карточки по `href`, а не по одному только тексту заголовка, чтобы не падать на повторяющихся названиях.
+
 - Добавлены рабочие парсеры официальных городских TVM-календарей `Bad Schwalbach` и `Idstein` через общий HTML-парсер `parseTvmEventListEvents()` в `scripts/lib/source-parsers.mjs`.
 - `scripts/scrape-raw.mjs` теперь умеет автоматически извлекать `event-list.html` endpoint из официальной страницы календаря, подставлять `start=${START_DATE}` и обрабатывать эти TVM-календари для `Bad Schwalbach` и `Idstein`.
 - Добавлены unit-tests в `scripts/test-workflow.mjs` на реальные HTML-фрагменты карточек `Bad Schwalbach` и `Idstein`.

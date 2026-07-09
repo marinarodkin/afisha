@@ -23,6 +23,7 @@ try {
   const secondCard = page.locator(".event-card").nth(1);
   const firstTitle = (await firstCard.locator(".event-title").innerText()).trim();
   const secondTitle = (await secondCard.locator(".event-title").innerText()).trim();
+  const secondTitleHref = await secondCard.locator(".event-title-link").getAttribute("href");
   const firstLikeButton = firstCard.locator('[data-reaction="liked"]');
   const firstDislikeButton = firstCard.locator('[data-reaction="disliked"]');
   const firstLikeText = await firstLikeButton.evaluate((button) => button.textContent?.trim() ?? "");
@@ -52,8 +53,8 @@ try {
   await page.reload({ waitUntil: "networkidle" });
   await page.waitForSelector(".event-card", { timeout: 10000 });
 
-  const likedCardAfterReload = page.locator(".event-card", { hasText: firstTitle });
-  const dislikedCardAfterReload = page.locator(".event-card", { hasText: secondTitle });
+  const likedCardAfterReload = page.locator(`.event-card:has(.event-title-link[href="${firstTitleHref}"])`);
+  const dislikedCardAfterReload = page.locator(`.event-card:has(.event-title-link[href="${secondTitleHref}"])`);
   await page.waitForTimeout(200);
   if ((await likedCardAfterReload.locator('[data-reaction="liked"]').getAttribute("aria-pressed")) !== "true") {
     throw new Error("Liked state did not persist after reload");
@@ -75,7 +76,7 @@ try {
   if (afterHideDislikedCount >= totalCountBeforeReactionFilters) {
     throw new Error("Hide disliked filter did not reduce the visible card count");
   }
-  if (await page.locator(".event-card", { hasText: secondTitle }).count()) {
+  if (await page.locator(`.event-card:has(.event-title-link[href="${secondTitleHref}"])`).count()) {
     throw new Error("Disliked card is still visible after hide disliked");
   }
   await page.locator("#hideDislikedFilter").click();
@@ -85,10 +86,10 @@ try {
   await page.waitForTimeout(200);
   const favoritesCount = await page.locator(".event-card").count();
   if (favoritesCount < 1) throw new Error("Favorites filter returned no cards");
-  if (await page.locator(".event-card", { hasText: firstTitle }).count() !== 1) {
+  if (await page.locator(`.event-card:has(.event-title-link[href="${firstTitleHref}"])`).count() !== 1) {
     throw new Error("Liked card is missing from favorites");
   }
-  if (await page.locator(".event-card", { hasText: secondTitle }).count()) {
+  if (await page.locator(`.event-card:has(.event-title-link[href="${secondTitleHref}"])`).count()) {
     throw new Error("Disliked card should not appear in favorites");
   }
   await page.locator("#favoritesFilter").click();

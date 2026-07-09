@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { appendToSourceBase, collectNewEvents, eventKey, splitByAiTagExceptions } from "./lib/source-workflow.mjs";
+import { appendToSourceBase, collectNewEvents, eventKey, pruneStoreByDate, splitByAiTagExceptions } from "./lib/source-workflow.mjs";
 import { categoryHints, hasFreeEntryEvidence, hasLanguageEvidence } from "./lib/events.mjs";
 import { extractEventfinderEvents, parseEltvilleFesteEvents } from "./lib/eltville.mjs";
 import { buildEffectiveExcludeKeywords, buildPersonalIndex, scoreEventForPreferences } from "./lib/personalization.mjs";
@@ -69,6 +69,14 @@ assert.equal(split.exceptedEvents.length, 1);
 const appended = appendToSourceBase({ events: [baseEvent] }, { events: [baseEvent, { ...baseEvent, id: "fresh", titleDe: "FRESH" }] });
 assert.equal(appended.events.length, 2);
 assert.equal(appended.appendedCount, 1);
+const pruned = pruneStoreByDate({ events: [
+  { ...baseEvent, id: "old", date: "2026-07-01" },
+  { ...baseEvent, id: "today", date: "2026-07-09" },
+  { ...baseEvent, id: "future", date: "2026-07-10" }
+] }, "2026-07-09");
+assert.equal(pruned.eventCount, 2);
+assert.equal(pruned.prunedCount, 1);
+assert.deepEqual(pruned.events.map((event) => event.id), ["today", "future"]);
 const unbounded = collectNewEvents(rawSources, { events: [] }, { events: [] }, { events: [] }, [], 0);
 assert.equal(unbounded.events.length, 5);
 

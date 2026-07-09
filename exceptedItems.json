@@ -1,1256 +1,7 @@
 {
-  "generatedAt": "2026-07-09T12:00:40.775Z",
-  "eventCount": 124,
+  "generatedAt": "2026-07-09T12:05:36.724Z",
+  "eventCount": 31,
   "events": [
-    {
-      "id": "info-networking-event-166696-2026-05-27T17:30:00+02:00",
-      "date": "2026-05-27",
-      "time": "17:30",
-      "venue": "Hochschul- und Landesbibliothek RheinMain - Bibliothek Rheinstraße",
-      "titleDe": "Buchclub der HLB",
-      "title": "Buchclub der HLB / Клуб книг HLB",
-      "key": "2026-05-27|17:30|hochschulundlandesbibliothekrheinmainbibliothekrheinstrae|buchc",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "reading_club",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.615Z"
-    },
-    {
-      "id": "info-networking-event-166609-2026-05-27T18:30:00+02:00",
-      "date": "2026-05-27",
-      "time": "18:30",
-      "venue": "Hessisches Staatstheater",
-      "titleDe": "Die Kunst des Archivs",
-      "title": "Die Kunst des Archivs / Искусство архива",
-      "key": "2026-05-27|18:30|hessischesstaatstheater|dieku",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "lecture",
-        "spektakl"
-      ],
-      "addedAt": "2026-05-27T12:27:18.615Z"
-    },
-    {
-      "id": "info-networking-event-167158-2026-05-27T19:00:00+02:00",
-      "date": "2026-05-27",
-      "time": "19:00",
-      "venue": "Kulturzentrum Schlachthof",
-      "titleDe": "\"Defend Democracy!\" mit Ronja Pohl: Rechtsextreme Angriffe auf den CSD",
-      "title": "\"Defend Democracy!\" mit Ronja Pohl: Rechtsextreme Angriffe auf den CSD / \"Защита демократии!\" с Роней Похл: Праворадикальные атаки на CSD",
-      "key": "2026-05-27|19:00|kulturzentrumschlachthof|defen",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.615Z"
-    },
-    {
-      "id": "info-networking-event-167416-2026-05-27T19:00:00+02:00",
-      "date": "2026-05-27",
-      "time": "19:00",
-      "venue": "Pfarrscheune Igstadt",
-      "titleDe": "Hessen. Ein bewegtes Land.",
-      "title": "Hessen. Ein bewegtes Land. / Гессен. Динамичная страна.",
-      "key": "2026-05-27|19:00|pfarrscheuneigstadt|hesse",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "lecture",
-        "other"
-      ],
-      "addedAt": "2026-05-27T12:27:18.615Z"
-    },
-    {
-      "id": "info-networking-event-167208-2026-05-27T19:30:00+02:00",
-      "date": "2026-05-27",
-      "time": "19:30",
-      "venue": "Kulturzentrum Schlachthof",
-      "titleDe": "Angriffsziel Pride - Queerfeindlichkeit als rechtsextreme Brückenideologie",
-      "title": "Angriffsziel Pride - Queerfeindlichkeit als rechtsextreme Brückenideologie / Цель атаки Pride - Квирфобия как крайне правая идеология",
-      "key": "2026-05-27|19:30|kulturzentrumschlachthof|angri",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-167221-2026-05-27T19:30:00+02:00",
-      "date": "2026-05-27",
-      "time": "19:30",
-      "venue": "Haus an der Marktkirche, Friedrich-Naumann-Saal",
-      "titleDe": "Ist Gott tot? Lesung und Gespräch mit Kirchenpräsidentin Dr. Tietz über Friedrich Nietzsche",
-      "title": "Ist Gott tot? Lesung und Gespräch mit Kirchenpräsidentin Dr. Tietz über Friedrich Nietzsche / Мертв ли Бог? Чтение и разговор с президентом церкви д-ром Тиц о Фридрихе Ницше",
-      "key": "2026-05-27|19:30|hausandermarktkirchefriedrichnaumannsaal|istgo",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "lecture"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-167159-2026-05-27T19:30:00+02:00",
-      "date": "2026-05-27",
-      "time": "19:30",
-      "venue": "Kulturzentrum Schlachthof",
-      "titleDe": "Where The Wild Words Are. - Poetry Slam",
-      "title": "Where The Wild Words Are. - Poetry Slam / Где дикие слова. - Поэтический слэм",
-      "key": "2026-05-27|19:30|kulturzentrumschlachthof|where",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "poetry_slam",
-        "lang_ru"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-167253-2026-05-28T18:00:00+02:00",
-      "date": "2026-05-28",
-      "time": "18:00",
-      "venue": "Heimathafen im Alten Gericht",
-      "titleDe": "DemokratieKiosk: The Jodel Experience",
-      "title": "DemokratieKiosk: The Jodel Experience / ДемократияКиоск: Опыт Йодля",
-      "key": "2026-05-28|18:00|heimathafenimaltengericht|demok",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "creative_meeting",
-        "concert"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-163560-2026-05-28T19:30:00+02:00",
-      "date": "2026-05-28",
-      "time": "19:30",
-      "venue": "Theater im Pariser Hof",
-      "titleDe": "Anna Schäfer // Schlafende Hunde – Comedy-Theater",
-      "title": "Anna Schäfer // Schlafende Hunde – Comedy-Theater / Анна Шефер // Спящие собаки – Комедийный театр",
-      "key": "2026-05-28|19:30|theaterimpariserhof|annas",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-165619-2026-05-28T19:30:00+02:00",
-      "date": "2026-05-28",
-      "time": "19:30",
-      "venue": "Theater kuenstlerhaus43 im Palasthotel",
-      "titleDe": "Poetry Slam 43",
-      "title": "Poetry Slam 43 / Поэтический слэм 43",
-      "key": "2026-05-28|19:30|theaterkuenstlerhaus43impalasthotel|poetr",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "poetry_slam",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-166803-2026-05-28T20:00:00+02:00",
-      "date": "2026-05-28",
-      "time": "20:00",
-      "venue": "Sombrero Latino",
-      "titleDe": "Noche Mágica - Zauberkunst hautnah in Wiesbaden",
-      "title": "Noche Mágica - Zauberkunst hautnah in Wiesbaden / Ночь магии - Искусство иллюзий в Висбадене",
-      "key": "2026-05-28|20:00|sombrerolatino|noche",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-167493-2026-05-28T20:00:00+02:00",
-      "date": "2026-05-28",
-      "time": "20:00",
-      "venue": "Galli Theater",
-      "titleDe": "Schmetterling",
-      "title": "Schmetterling / Бабочка",
-      "key": "2026-05-28|20:00|gallitheater|schme",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-162454-2026-05-28T20:00:00+02:00",
-      "date": "2026-05-28",
-      "time": "20:00",
-      "venue": "thalhaus Theater",
-      "titleDe": "Stephan Bauer „Am Ende der Nerven und noch so viel Ehe übrig“ - Kabarett",
-      "title": "Stephan Bauer „Am Ende der Nerven und noch so viel Ehe übrig“ - Kabarett / Штефан Бауэр «На краю нервов и еще столько же брака» - Кабаре",
-      "key": "2026-05-28|20:00|thalhaustheater|steph",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-166943-2026-05-29T15:00:00+02:00",
-      "date": "2026-05-29",
-      "time": "15:00",
-      "venue": "Schloss Freudenberg",
-      "titleDe": "Garten Taten — Eine offene Gartenwerkstatt zur Einstimmung ins Wochenende (Mitmachaktion)",
-      "title": "Garten Taten — Eine offene Gartenwerkstatt zur Einstimmung ins Wochenende (Mitmachaktion) / Садовые дела — Открытая садовая мастерская для подготовки к выходным (акция участия)",
-      "key": "2026-05-29|15:00|schlossfreudenberg|garte",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "master_class",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-167419-2026-05-29T16:00:00+02:00",
-      "date": "2026-05-29",
-      "time": "16:00",
-      "venue": "Stadtteilzentrum Schelmengraben",
-      "titleDe": "Tiny Friday - Schelmengraben Demokratiesalat",
-      "title": "Tiny Friday - Schelmengraben Demokratiesalat / Маленькая пятница - Демократический салат Шельменграбен",
-      "key": "2026-05-29|16:00|stadtteilzentrumschelmengraben|tinyf",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "free"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-167420-2026-05-29T16:30:00+02:00",
-      "date": "2026-05-29",
-      "time": "16:30",
-      "venue": "Büchergilde Wiesbaden",
-      "titleDe": "Ann-Kathrin Peuthen-Künstlerinnengespräch",
-      "title": "Ann-Kathrin Peuthen-Künstlerinnengespräch / Беседа с художницей Анн-Катрин Пойтен",
-      "key": "2026-05-29|16:30|buchergildewiesbaden|annka",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "lecture",
-        "other"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-162455-2026-05-29T20:00:00+02:00",
-      "date": "2026-05-29",
-      "time": "20:00",
-      "venue": "thalhaus Theater",
-      "titleDe": "Stephan Bauer „Am Ende der Nerven und noch so viel Ehe übrig“ - Kabarett",
-      "title": "Stephan Bauer „Am Ende der Nerven und noch so viel Ehe übrig“ - Kabarett / Штефан Бауэр «На краю нервов и еще так много брака» - Кабаре",
-      "key": "2026-05-29|20:00|thalhaustheater|steph",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-161920-2026-05-30T11:00:00+02:00",
-      "date": "2026-05-30",
-      "time": "11:00",
-      "venue": "Tourist Information",
-      "titleDe": "Führung - Stadtgeflüster Wiesbaden",
-      "title": "Führung - Stadtgeflüster Wiesbaden / Экскурсия - Городские слухи Висбадена",
-      "key": "2026-05-30|11:00|touristinformation|fuhru",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "excursion",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.616Z"
-    },
-    {
-      "id": "info-networking-event-167014-2026-05-30T13:30:00+02:00",
-      "date": "2026-05-30",
-      "time": "13:30",
-      "venue": "Robert-Krekel-Anlage",
-      "titleDe": "Biebrich grünt auf - mach mit (Mitmachaktion)",
-      "title": "Biebrich grünt auf - mach mit (Mitmachaktion) / Бибрих зеленеет - присоединяйтесь (акция участия)",
-      "key": "2026-05-30|13:30|robertkrekelanlage|biebr",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "children",
-        "free"
-      ],
-      "addedAt": "2026-05-27T12:27:18.617Z"
-    },
-    {
-      "id": "info-networking-event-166609-2026-05-30T17:00:00+02:00",
-      "date": "2026-05-30",
-      "time": "17:00",
-      "venue": "Hessisches Staatstheater",
-      "titleDe": "Die Kunst des Archivs",
-      "title": "Die Kunst des Archivs / Искусство архива",
-      "key": "2026-05-30|17:00|hessischesstaatstheater|dieku",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "lecture",
-        "spektakl"
-      ],
-      "addedAt": "2026-05-27T12:27:18.617Z"
-    },
-    {
-      "id": "info-networking-event-166324-2026-05-30T19:00:00+02:00",
-      "date": "2026-05-30",
-      "time": "19:00",
-      "venue": "Literaturhaus Villa Clementine",
-      "titleDe": "Hooked on a Book - Eine Expedition",
-      "title": "Hooked on a Book - Eine Expedition / Зацепившись за книгу - Экспедиция",
-      "key": "2026-05-30|19:00|literaturhausvillaclementine|hooke",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "reading_club",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.617Z"
-    },
-    {
-      "id": "info-networking-event-163681-2026-05-30T19:30:00+02:00",
-      "date": "2026-05-30",
-      "time": "19:30",
-      "venue": "Theater im Pariser Hof",
-      "titleDe": "Ulrike Neradt, Jürgen Streck und Klaus Brantzen // Sternstunden",
-      "title": "Ulrike Neradt, Jürgen Streck und Klaus Brantzen // Sternstunden / Ульрика Нерадт, Юрген Стрек и Клаус Бранцен // Звёздные часы",
-      "key": "2026-05-30|19:30|theaterimpariserhof|ulrik",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.617Z"
-    },
-    {
-      "id": "info-networking-event-162456-2026-05-30T20:00:00+02:00",
-      "date": "2026-05-30",
-      "time": "20:00",
-      "venue": "thalhaus Theater",
-      "titleDe": "Emmi & Willnowsky \"TOUR ́26\" - Comedy",
-      "title": "Emmi & Willnowsky \"TOUR ́26\" - Comedy / Эмми и Вилновски \"ТУР ́26\" - Комедия",
-      "key": "2026-05-30|20:00|thalhaustheater|emmiw",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T12:27:18.617Z"
-    },
-    {
-      "id": "info-networking-event-166043-2026-05-31T17:00:00+02:00",
-      "date": "2026-05-31",
-      "time": "17:00",
-      "venue": "thalhaus Theater",
-      "titleDe": "Anna Bieler \"Das Kreisen der Dinge\" - Künstlerinnengespräch",
-      "title": "Anna Bieler \"Das Kreisen der Dinge\" - Künstlerinnengespräch / Анна Билер \"Кружение вещей\" - разговор с художницей",
-      "key": "2026-05-31|17:00|thalhaustheater|annab",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic",
-        "creative_meeting"
-      ],
-      "addedAt": "2026-05-27T12:27:18.617Z"
-    },
-    {
-      "id": "info-networking-event-167344-2026-05-31T11:00:00+02:00",
-      "date": "2026-05-31",
-      "time": "11:00",
-      "venue": "Campus Scholz & Volkmer (ehem. Städtische Kliniken)",
-      "titleDe": "Campus-Flohmarkt – Lieblingsstücke, Leckereien & Lebensfreude",
-      "title": "Campus-Flohmarkt – Lieblingsstücke, Leckereien & Lebensfreude / Кампусный блошиный рынок – любимые вещи, угощения и радость жизни",
-      "key": "2026-05-31|11:00|campusscholzvolkmerehemstadtischekliniken|campu",
-      "reason": "exceptionCategories-after-ai",
-      "categories": [],
-      "tags": [
-        "wochenmarkt",
-        "other"
-      ],
-      "addedAt": "2026-05-27T12:29:47.096Z"
-    },
-    {
-      "id": "info-networking-event-167508-2026-06-02T09:00:00+02:00",
-      "date": "2026-06-02",
-      "time": "09:00",
-      "venue": "Asklepios Interdisziplinäre Schmerztagesklinik",
-      "titleDe": "Tag der offenen Tür der Schmerztagesklinik",
-      "title": "Tag der offenen Tür der Schmerztagesklinik / День открытых дверей в клинике боли",
-      "key": "2026-06-02|09:00|asklepiosinterdisziplinareschmerztagesklinik|tagde",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "other",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T14:32:23.266Z"
-    },
-    {
-      "id": "info-networking-event-161326-2026-06-02T14:00:00+02:00",
-      "date": "2026-06-02",
-      "time": "14:00",
-      "venue": "Tourist Information",
-      "titleDe": "Öffentliche Führung jeden Dienstag",
-      "title": "Öffentliche Führung jeden Dienstag / Общественная экскурсия каждый вторник",
-      "key": "2026-06-02|14:00|touristinformation|offen",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "excursion",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T14:32:23.266Z"
-    },
-    {
-      "id": "info-networking-event-166474-2026-06-03T10:00:00+02:00",
-      "date": "2026-06-03",
-      "time": "10:00",
-      "venue": "Asklepios Paulinen Klinik",
-      "titleDe": "Tag der offenen Tür zum Aktionstag gegen den Schmerz",
-      "title": "Tag der offenen Tür zum Aktionstag gegen den Schmerz / День открытых дверей в рамках акции против боли",
-      "key": "2026-06-03|10:00|asklepiospaulinenklinik|tagde",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "other",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T14:32:23.266Z"
-    },
-    {
-      "id": "info-networking-event-167175-2026-06-03T12:15:00+02:00",
-      "date": "2026-06-03",
-      "time": "12:15",
-      "venue": "Museum Wiesbaden",
-      "titleDe": "Gift im Boden",
-      "title": "Gift im Boden / Яд в почве",
-      "key": "2026-06-03|12:15|museumwiesbaden|gifti",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "excursion",
-        "civic",
-        "museum"
-      ],
-      "addedAt": "2026-05-27T14:32:23.266Z"
-    },
-    {
-      "id": "info-networking-event-167108-2026-06-03T17:00:00+02:00",
-      "date": "2026-06-03",
-      "time": "17:00",
-      "venue": "L-Gebäude, Campus Kurt-Schumacher-Ring (KSR)",
-      "titleDe": "Veranstaltungsreihe Doing Democracy: Ins Gespräch kommen & Demokratie stärken.",
-      "title": "Veranstaltungsreihe Doing Democracy: Ins Gespräch kommen & Demokratie stärken. / Серия мероприятий Doing Democracy: Вступить в разговор и укрепить демократию.",
-      "key": "2026-06-03|17:00|lgebaudecampuskurtschumacherringksr|veran",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic"
-      ],
-      "addedAt": "2026-05-27T14:32:23.266Z"
-    },
-    {
-      "id": "info-networking-event-166682-2026-06-08T18:00:00+02:00",
-      "date": "2026-06-08",
-      "time": "18:00",
-      "venue": "Schloss Freudenberg",
-      "titleDe": "Freudenberger Forum für Gegenwartsfragen",
-      "title": "Freudenberger Forum für Gegenwartsfragen / Форум Фройденберга по вопросам современности",
-      "key": "2026-06-08|18:00|schlossfreudenberg|freud",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "course",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.035Z"
-    },
-    {
-      "id": "info-networking-event-167025-2026-06-08T21:30:00+02:00",
-      "date": "2026-06-08",
-      "time": "21:30",
-      "venue": null,
-      "titleDe": "Nächtliche Beleuchtung - Auswirkungen auf Natur und Umwelt (Vortrag)",
-      "title": "Nächtliche Beleuchtung - Auswirkungen auf Natur und Umwelt (Vortrag) / Ночной свет - влияние на природу и окружающую среду (лекция)",
-      "key": "2026-06-08|21:30||nacht",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "excursion",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.035Z"
-    },
-    {
-      "id": "info-networking-event-165801-2026-06-09T10:00:00+02:00",
-      "date": "2026-06-09",
-      "time": "10:00",
-      "venue": "Freiwilligen Zentrum Wiesbaden e.V.",
-      "titleDe": "Neu im Ruhestand? Ab ins Ehrenamt! Informationsveranstaltung",
-      "title": "Neu im Ruhestand? Ab ins Ehrenamt! Informationsveranstaltung / Новый на пенсии? В волонтерство! Информационное мероприятие",
-      "key": "2026-06-09|10:00|freiwilligenzentrumwiesbadenev|neuim",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-05-27T16:57:55.035Z"
-    },
-    {
-      "id": "info-networking-event-165647-2026-06-09T10:00:00+02:00",
-      "date": "2026-06-09",
-      "time": "10:00",
-      "venue": "Zukunftswerk Luisen Forum",
-      "titleDe": "Zweiteiliger Workshop : „KI für Senior:innen: ChatGPT praxisnah anwenden“",
-      "title": "Zweiteiliger Workshop : „KI für Senior:innen: ChatGPT praxisnah anwenden“ / Двухдневный семинар: «Искусственный интеллект для пожилых: практическое применение ChatGPT»",
-      "key": "2026-06-09|10:00|zukunftswerkluisenforum|zweit",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "master_class",
-        "civic",
-        "free"
-      ],
-      "addedAt": "2026-05-27T16:57:55.035Z"
-    },
-    {
-      "id": "info-networking-event-161326-2026-06-09T14:00:00+02:00",
-      "date": "2026-06-09",
-      "time": "14:00",
-      "venue": "Tourist Information",
-      "titleDe": "Öffentliche Führung jeden Dienstag",
-      "title": "Öffentliche Führung jeden Dienstag / Общественная экскурсия каждый вторник",
-      "key": "2026-06-09|14:00|touristinformation|offen",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "excursion",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.035Z"
-    },
-    {
-      "id": "info-networking-event-165802-2026-06-09T18:00:00+02:00",
-      "date": "2026-06-09",
-      "time": "18:00",
-      "venue": "Online Meeting /Veranstaltung (siehe Beschreibung, Link)",
-      "titleDe": "„KulturBAZAR“ – Engagement in der Kultur",
-      "title": "„KulturBAZAR“ – Engagement in der Kultur / «КультураБАЗАР» – участие в культуре",
-      "key": "2026-06-09|18:00|onlinemeetingveranstaltungsiehebeschreibunglink|kultu",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-05-27T16:57:55.035Z"
-    },
-    {
-      "id": "info-networking-event-166902-2026-06-09T18:00:00+02:00",
-      "date": "2026-06-09",
-      "time": "18:00",
-      "venue": "Umweltladen Wiesbaden",
-      "titleDe": "Ein(Blick) in das geheimnisvolle Reich der Pilze (Vortrag)",
-      "title": "Ein(Blick) in das geheimnisvolle Reich der Pilze (Vortrag) / Взгляд в загадочное царство грибов (лекция)",
-      "key": "2026-06-09|18:00|umweltladenwiesbaden|einbl",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-165889-2026-06-09T18:00:00+02:00",
-      "date": "2026-06-09",
-      "time": "18:00",
-      "venue": "Freiwilligen Zentrum Wiesbaden",
-      "titleDe": "KulturBAZAR (Online)",
-      "title": "KulturBAZAR (Online) / КультураБАЗАР (онлайн)",
-      "key": "2026-06-09|18:00|freiwilligenzentrumwiesbaden|kultu",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167182-2026-06-09T18:00:00+02:00",
-      "date": "2026-06-09",
-      "time": "18:00",
-      "venue": "Museum Wiesbaden",
-      "titleDe": "Steril statt Gift: Insektenbekämpfung mit Präzision und ohne Nebenwirkungen",
-      "title": "Steril statt Gift: Insektenbekämpfung mit Präzision und ohne Nebenwirkungen / Стерильный вместо яда: борьба с насекомыми с точностью и без побочных эффектов",
-      "key": "2026-06-09|18:00|museumwiesbaden|steri",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167097-2026-06-10T13:30:00+02:00",
-      "date": "2026-06-10",
-      "time": "13:30",
-      "venue": "Jägerhofplatz",
-      "titleDe": "Buntes Leben in Biebrich, Kindertag",
-      "title": "Buntes Leben in Biebrich, Kindertag / Яркая жизнь в Бибрихе, День детей",
-      "key": "2026-06-10|13:30|jagerhofplatz|bunte",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "children",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167252-2026-06-11T15:00:00+02:00",
-      "date": "2026-06-11",
-      "time": "15:00",
-      "venue": "Heimathafen im Alten Gericht",
-      "titleDe": "DemokratieKiosk für Jugendliche: Druck-Workshop",
-      "title": "DemokratieKiosk für Jugendliche: Druck-Workshop / Демократический киоск для молодежи: Мастерская печати",
-      "key": "2026-06-11|15:00|heimathafenimaltengericht|demok",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "children",
-        "master_class",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167392-2026-06-11T18:00:00+02:00",
-      "date": "2026-06-11",
-      "time": "18:00",
-      "venue": "WerkRaum (frühere Sportarena)",
-      "titleDe": "Literarisch-lyrische Begegnung",
-      "title": "Literarisch-lyrische Begegnung / Литературно-лирическая встреча",
-      "key": "2026-06-11|18:00|werkraumfruheresportarena|liter",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "museum",
-        "exhibition",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-165681-2026-06-11T19:00:00+02:00",
-      "date": "2026-06-11",
-      "time": "19:00",
-      "venue": "Asklepios Paulinen Klinik",
-      "titleDe": "Infoabend \"Geburt für werdende Eltern\"",
-      "title": "Infoabend \"Geburt für werdende Eltern\" / Информационный вечер \"Рождение для будущих родителей\"",
-      "key": "2026-06-11|19:00|asklepiospaulinenklinik|infoa",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "children",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "sitzung-3502870@piwi.wiesbaden.de-2026-06-11T19:00:00+02:00",
-      "date": "2026-06-11",
-      "time": "19:00",
-      "venue": null,
-      "titleDe": "Sitzung Ortsbeirat Rheingauviertel/Hollerborn",
-      "title": "Sitzung Ortsbeirat Rheingauviertel/Hollerborn / Заседание местного совета Рейнгау/Холлерборн",
-      "key": "2026-06-11|19:00||sitzu",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167199-2026-06-12T20:00:00+02:00",
-      "date": "2026-06-12",
-      "time": "20:00",
-      "venue": "Galli Theater",
-      "titleDe": "Die MamaMänner",
-      "title": "Die MamaMänner / МамаМужчины",
-      "key": "2026-06-12|20:00|gallitheater|diema",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-164351-2026-06-12T20:00:00+02:00",
-      "date": "2026-06-12",
-      "time": "20:00",
-      "venue": "Kammerspiele Wiesbaden e.V.",
-      "titleDe": "Geheimnisse",
-      "title": "Geheimnisse / Тайны",
-      "key": "2026-06-12|20:00|kammerspielewiesbadenev|gehei",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167229-2026-06-12T20:00:00+02:00",
-      "date": "2026-06-12",
-      "time": "20:00",
-      "venue": "Caligari FilmBühne",
-      "titleDe": "Josephine Baker – Ikone der Befreiung",
-      "title": "Josephine Baker – Ikone der Befreiung / Жозефина Бейкер – Икона освобождения",
-      "key": "2026-06-12|20:00|caligarifilmbuhne|josep",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "kino",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167207-2026-06-12T22:30:00+02:00",
-      "date": "2026-06-12",
-      "time": "22:30",
-      "venue": "Kulturzentrum Schlachthof",
-      "titleDe": "80-90-00 Meets Karaoke",
-      "title": "80-90-00 Meets Karaoke / 80-90-00 Встречается с Караоке",
-      "key": "2026-06-12|22:30|kulturzentrumschlachthof|80900",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-166797-2026-06-13T10:00:00+02:00",
-      "date": "2026-06-13",
-      "time": "10:00",
-      "venue": "Sportplatz Saareck",
-      "titleDe": "17. Turnier der Herzen",
-      "title": "17. Turnier der Herzen / 17-й Турнир Сердец",
-      "key": "2026-06-13|10:00|sportplatzsaareck|17tur",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "sport",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167422-2026-06-13T10:30:00+02:00",
-      "date": "2026-06-13",
-      "time": "10:30",
-      "venue": "art.ist",
-      "titleDe": "gemeinsam Festival",
-      "title": "gemeinsam Festival / вместе Фестиваль",
-      "key": "2026-06-13|10:30|artist|gemei",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167104-2026-06-13T15:00:00+02:00",
-      "date": "2026-06-13",
-      "time": "15:00",
-      "venue": "Dern'sches Gelände",
-      "titleDe": "Kidical Mass Wiesbaden",
-      "title": "Kidical Mass Wiesbaden / Кидикал Масс Висбаден",
-      "key": "2026-06-13|15:00|dernschesgelande|kidic",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "children",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T16:57:55.036Z"
-    },
-    {
-      "id": "info-networking-event-167339-2026-06-22T16:00:00+02:00",
-      "date": "2026-06-22",
-      "time": "16:00",
-      "venue": "Zukunftswerk Luisen Forum",
-      "titleDe": "AI Open Learning Lab for Women",
-      "title": "AI Open Learning Lab for Women / Открытая лаборатория обучения ИИ для женщин",
-      "key": "2026-06-22|16:00|zukunftswerkluisenforum|aiope",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "other",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.790Z"
-    },
-    {
-      "id": "info-networking-event-167499-2026-06-22T19:30:00+02:00",
-      "date": "2026-06-22",
-      "time": "19:30",
-      "venue": "IHK Wiesbaden",
-      "titleDe": "Cathryn clüver Ashbrook liest aus \"Der amerikanische Weckruf\"",
-      "title": "Cathryn clüver Ashbrook liest aus \"Der amerikanische Weckruf\" / Кэтрин Клювер Эшбрук читает из \"Американского пробуждения\"",
-      "key": "2026-06-22|19:30|ihkwiesbaden|cathr",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "lecture"
-      ],
-      "addedAt": "2026-05-27T18:03:30.790Z"
-    },
-    {
-      "id": "info-networking-event-167244-2026-06-25T15:00:00+02:00",
-      "date": "2026-06-25",
-      "time": "15:00",
-      "venue": "Heimathafen im Alten Gericht",
-      "titleDe": "DemokratieKiosk für Kinder & Jugendliche: Stempel-Workshop",
-      "title": "DemokratieKiosk für Kinder & Jugendliche: Stempel-Workshop / ДемократияКиоск для детей и молодежи: Мастерская печати",
-      "key": "2026-06-25|15:00|heimathafenimaltengericht|demok",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "master_class",
-        "children",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.790Z"
-    },
-    {
-      "id": "info-networking-event-167350-2026-06-25T18:00:00+02:00",
-      "date": "2026-06-25",
-      "time": "18:00",
-      "venue": "Literaturhaus Villa Clementine",
-      "titleDe": "Jina Khayyer: „Im Herzen der Katze“",
-      "title": "Jina Khayyer: „Im Herzen der Katze“ / Джина Хайер: «В сердце кошки»",
-      "key": "2026-06-25|18:00|literaturhausvillaclementine|jinak",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.790Z"
-    },
-    {
-      "id": "info-networking-event-167383-2026-06-26T13:30:00+02:00",
-      "date": "2026-06-26",
-      "time": "13:30",
-      "venue": "Literaturhaus Villa Clementine",
-      "titleDe": "Literaturforum: „Was wir wissen können“ von Ian McEwan",
-      "title": "Literaturforum: „Was wir wissen können“ von Ian McEwan / Литературный форум: «Что мы можем знать» Иана Макьюэна",
-      "key": "2026-06-26|13:30|literaturhausvillaclementine|liter",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.790Z"
-    },
-    {
-      "id": "info-networking-event-167382-2026-06-26T15:00:00+02:00",
-      "date": "2026-06-26",
-      "time": "15:00",
-      "venue": "Literaturhaus Villa Clementine",
-      "titleDe": "Julia Erler: „Dunkelblaue Stunden“",
-      "title": "Julia Erler: „Dunkelblaue Stunden“ / Юлия Эрлер: «Темно-синие часы»",
-      "key": "2026-06-26|15:00|literaturhausvillaclementine|julia",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.790Z"
-    },
-    {
-      "id": "info-networking-event-167472-2026-06-26T15:00:00+02:00",
-      "date": "2026-06-26",
-      "time": "15:00",
-      "venue": "Stadtteilzentrum Schelmengraben",
-      "titleDe": "Tiny Friday",
-      "title": "Tiny Friday / Маленькая пятница",
-      "key": "2026-06-26|15:00|stadtteilzentrumschelmengraben|tinyf",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "children",
-        "handicraft"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-161868-2026-06-26T16:00:00+02:00",
-      "date": "2026-06-26",
-      "time": "16:00",
-      "venue": "Tourist Information",
-      "titleDe": "Schnuppertour Wiesbaden",
-      "title": "Schnuppertour Wiesbaden / Обзорная экскурсия по Висбадену",
-      "key": "2026-06-26|16:00|touristinformation|schnu",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "excursion",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167368-2026-06-26T16:30:00+02:00",
-      "date": "2026-06-26",
-      "time": "16:30",
-      "venue": "Literaturhaus Villa Clementine",
-      "titleDe": "Lina Schwenk: „Blinde Geister“",
-      "title": "Lina Schwenk: „Blinde Geister“ / Лина Швенк: «Слепые духи»",
-      "key": "2026-06-26|16:30|literaturhausvillaclementine|linas",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167318-2026-06-26T17:30:00+02:00",
-      "date": "2026-06-26",
-      "time": "17:30",
-      "venue": "Caligari FilmBühne",
-      "titleDe": "Lolita lesen in Teheran",
-      "title": "Lolita lesen in Teheran / Читать «Лолиту» в Тегеране",
-      "key": "2026-06-26|17:30|caligarifilmbuhne|lolit",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "kino",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167381-2026-06-26T18:00:00+02:00",
-      "date": "2026-06-26",
-      "time": "18:00",
-      "venue": "Literaturhaus Villa Clementine",
-      "titleDe": "Miriam Carbe: „Unerwünschte Töchter“",
-      "title": "Miriam Carbe: „Unerwünschte Töchter“ / Мириам Карбе: «Нежеланные дочери»",
-      "key": "2026-06-26|18:00|literaturhausvillaclementine|miria",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167498-2026-06-26T18:30:00+02:00",
-      "date": "2026-06-26",
-      "time": "18:30",
-      "venue": "Haus an der Marktkirche, Friedrich-Naumann-Saal",
-      "titleDe": "Lesung Daniel Schreiber \"Allein\"",
-      "title": "Lesung Daniel Schreiber \"Allein\" / Чтение Даниэля Шрайбера «Один»",
-      "key": "2026-06-26|18:30|hausandermarktkirchefriedrichnaumannsaal|lesun",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "church",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167361-2026-06-26T19:30:00+02:00",
-      "date": "2026-06-26",
-      "time": "19:30",
-      "venue": "Burggarten der Burg Sonnenberg",
-      "titleDe": "Grand Slam Semifinale Open Air",
-      "title": "Grand Slam Semifinale Open Air / Полуфинал Гранд Слама на открытом воздухе",
-      "key": "2026-06-26|19:30|burggartenderburgsonnenberg|grand",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "poetry_slam"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-164344-2026-06-26T20:00:00+02:00",
-      "date": "2026-06-26",
-      "time": "20:00",
-      "venue": "Kammerspiele Wiesbaden e.V.",
-      "titleDe": "Was War und Was Wird",
-      "title": "Was War und Was Wird / Что было и что будет",
-      "key": "2026-06-26|20:00|kammerspielewiesbadenev|waswa",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167319-2026-06-26T20:00:00+02:00",
-      "date": "2026-06-26",
-      "time": "20:00",
-      "venue": "Caligari FilmBühne",
-      "titleDe": "Ingeborg Bachmann – Jemand, der einmal ich war",
-      "title": "Ingeborg Bachmann – Jemand, der einmal ich war / Ингеборга Бахманн – кто-то, кем я когда-то был",
-      "key": "2026-06-26|20:00|caligarifilmbuhne|ingeb",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "kino",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167234-2026-06-26T20:00:00+02:00",
-      "date": "2026-06-26",
-      "time": "20:00",
-      "venue": "Galli Theater",
-      "titleDe": "Mann, stress mich nich'!",
-      "title": "Mann, stress mich nich'! / Мужчина, не нервируй меня!",
-      "key": "2026-06-26|20:00|gallitheater|manns",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "info-networking-event-167169-2026-06-26T20:30:00+02:00",
-      "date": "2026-06-26",
-      "time": "20:30",
-      "venue": "Walhalla im Exil",
-      "titleDe": "The Kapellmeister's Farewell",
-      "title": "The Kapellmeister's Farewell / Прощание капельмейстера",
-      "key": "2026-06-26|20:30|walhallaimexil|theka",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "concert",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T18:03:30.791Z"
-    },
-    {
-      "id": "eventfinder-3187155-2026-05-28-19:00",
-      "date": "2026-05-28",
-      "time": "19:00",
-      "venue": "eltville hattenheim",
-      "titleDe": "Zwischen Himmel und Herz",
-      "title": "Zwischen Himmel und Herz / Между небом и сердцем",
-      "key": "2026-05-28|19:00|eltvillehattenheim|zwisc",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "concert",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.644Z"
-    },
-    {
-      "id": "eventfinder-3005304-2026-05-31-19:00",
-      "date": "2026-05-31",
-      "time": "19:00",
-      "venue": "ingo oschmann in oestrich winkel",
-      "titleDe": "Ingo Oschmann - Wunderbar, es ist ja so",
-      "title": "Ingo Oschmann - Wunderbar, es ist ja so / Инго Ошманн - Замечательно, это же так",
-      "key": "2026-05-31|19:00|ingooschmanninoestrichwinkel|ingoo",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.644Z"
-    },
-    {
-      "id": "eltville-erbacher-erdbeerfest-2026-06-12-all-day",
-      "date": "2026-06-12",
-      "time": null,
-      "venue": "Stadtteil Erbach",
-      "titleDe": "Erbacher Erdbeerfest",
-      "title": "Erbacher Erdbeerfest / Эрбахское клубничное фестиваль",
-      "key": "2026-06-12||stadtteilerbach|erbac",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.644Z"
-    },
-    {
-      "id": "eventfinder-3244531-2026-06-14-19:00",
-      "date": "2026-06-14",
-      "time": "19:00",
-      "venue": "guggemo in oestrich winkel",
-      "titleDe": "GUGGEMO - mir gugge WM",
-      "title": "GUGGEMO - mir gugge WM / GUGGEMO - мы смотрим ЧМ",
-      "key": "2026-06-14|19:00|guggemoinoestrichwinkel|gugge",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "sport",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.644Z"
-    },
-    {
-      "id": "eventfinder-3042858-2026-06-19-19:00",
-      "date": "2026-06-19",
-      "time": "19:00",
-      "venue": "das kriminal dinner in budenheim",
-      "titleDe": "Das Kriminal Dinner - Hauptkommissar Schröder ermittelt",
-      "title": "Das Kriminal Dinner - Hauptkommissar Schröder ermittelt / Криминальный ужин - Главный комиссар Шрёдер расследует",
-      "key": "2026-06-19|19:00|daskriminaldinnerinbudenheim|daskr",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.644Z"
-    },
-    {
-      "id": "eventfinder-2796412-2026-07-02-19:00",
-      "date": "2026-07-02",
-      "time": "19:00",
-      "venue": "das kriminal dinner in budenheim",
-      "titleDe": "Das Kriminal Dinner - Testament à la Carte – Krimi & Menü",
-      "title": "Das Kriminal Dinner - Testament à la Carte – Krimi & Menü / Криминальный ужин - Завещание à la Carte – Криминал и меню",
-      "key": "2026-07-02|19:00|daskriminaldinnerinbudenheim|daskr",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.645Z"
-    },
-    {
-      "id": "eventfinder-3168319-2026-07-03-19:30",
-      "date": "2026-07-03",
-      "time": "19:30",
-      "venue": "florian wagner in eltville martinsthal",
-      "titleDe": "Rheingau Musik Festival 2026",
-      "title": "Rheingau Musik Festival 2026 / Музыкальный фестиваль Рейнгау 2026",
-      "key": "2026-07-03|19:30|florianwagnerineltvillemartinsthal|rhein",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.645Z"
-    },
-    {
-      "id": "eventfinder-3168325-2026-07-04-19:00",
-      "date": "2026-07-04",
-      "time": "19:00",
-      "venue": "irmgard knef in eltville martinsthal",
-      "titleDe": "Rheingau Musik Festival 2026",
-      "title": "Rheingau Musik Festival 2026 / Рейнгау Музыкальный Фестиваль 2026",
-      "key": "2026-07-04|19:00|irmgardknefineltvillemartinsthal|rhein",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.645Z"
-    },
-    {
-      "id": "eventfinder-3168326-2026-07-05-19:00",
-      "date": "2026-07-05",
-      "time": "19:00",
-      "venue": "irmgard knef in eltville martinsthal",
-      "titleDe": "Rheingau Musik Festival 2026",
-      "title": "Rheingau Musik Festival 2026 / Рейнгау Музыкальный Фестиваль 2026",
-      "key": "2026-07-05|19:00|irmgardknefineltvillemartinsthal|rhein",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-27T19:08:35.645Z"
-    },
     {
       "id": "eventfinder-3168296-2026-07-09-19:00",
       "date": "2026-07-09",
@@ -1268,6 +19,70 @@
       "addedAt": "2026-05-27T19:08:35.645Z"
     },
     {
+      "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-09-idsteiner-weinprobierstand-am-hexenturm-58144-40-2026-07-10-17:00",
+      "date": "2026-07-10",
+      "time": "17:00",
+      "venue": "Altstadt Idstein",
+      "titleDe": "Idsteiner Weinprobierstand am Hexenturm",
+      "title": "Idsteiner Weinprobierstand am Hexenturm / Идштейнский винный стенд у Хексентурма",
+      "key": "2026-07-10|17:00|altstadtidstein|idste",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.774Z"
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-juni-2026-06-19-golfspass-ohne-ende-59171-3-2026-07-10-17:00",
+      "date": "2026-07-10",
+      "time": "17:00",
+      "venue": "Golfpark Idstein Nordkurs, Idsteiner Straße 54",
+      "titleDe": "Golfspaß ohne Ende",
+      "title": "Golfspaß ohne Ende / Гольф-удовольствие без конца",
+      "key": "2026-07-10|17:00|golfparkidsteinnordkursidsteinerstrae54|golfs",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "course",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.774Z"
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-maerz-2026-03-14-altstadt-geschichte-und-geschichten-53805-8-2026-07-11-12:00",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "venue": "Altstadt Idstein",
+      "titleDe": "Altstadt - Geschichte und Geschichten",
+      "title": "Altstadt - Geschichte und Geschichten / Старый город - История и истории",
+      "key": "2026-07-11|12:00|altstadtidstein|altst",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.774Z"
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-09-idsteiner-weinprobierstand-am-hexenturm-58144-41-2026-07-11-17:00",
+      "date": "2026-07-11",
+      "time": "17:00",
+      "venue": "Altstadt Idstein",
+      "titleDe": "Idsteiner Weinprobierstand am Hexenturm",
+      "title": "Idsteiner Weinprobierstand am Hexenturm / Идштейнский винный стенд у Хексентурма",
+      "key": "2026-07-11|17:00|altstadtidstein|idste",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.775Z"
+    },
+    {
       "id": "eventfinder-3168334-2026-07-12-19:00",
       "date": "2026-07-12",
       "time": "19:00",
@@ -1282,6 +97,22 @@
         "civic"
       ],
       "addedAt": "2026-05-27T19:08:35.645Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-offenes-ohr-im-quartier-offene-sprechstunde-der-gemeindepflegerin-900010891-29880-html-naviid-0-2026-07-16-14:30",
+      "date": "2026-07-16",
+      "time": "14:30",
+      "venue": "Quartier- Offene Sprechstunde der Gemeindepflegerin Jeden dritten Donnerstag bietet die neue Gemeindepflegerin in der offenen Sprechstunde ein offenes Ohr zu Themen wie Pflege",
+      "titleDe": "Offenes Ohr im Quartier- Offene Sprechstunde der Gemeindepflegerin",
+      "title": "Offenes Ohr im Quartier- Offene Sprechstunde der Gemeindepflegerin / Открытое ухо в квартале - открытая консультация социального работника",
+      "key": "2026-07-16|14:30|quartieroffenesprechstundedergemeindepflegerinjedendrittendonnerstagbietetdieneuegemeindepflegerininderoffenensprechstundeeinoffenesohrzuthemenwiepflege|offen",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "free"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
     },
     {
       "id": "eventfinder-3168267-2026-07-18-16:00",
@@ -1316,6 +147,54 @@
       "addedAt": "2026-05-27T19:08:35.645Z"
     },
     {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-trauergruppe-fuer-verwaiste-eltern-900011218-29880-html-naviid-0-2026-07-22-18:15",
+      "date": "2026-07-22",
+      "time": "18:15",
+      "venue": null,
+      "titleDe": "Trauergruppe für verwaiste Eltern",
+      "title": "Trauergruppe für verwaiste Eltern / Группа поддержки для родителей, потерявших детей",
+      "key": "2026-07-22|18:15||traue",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "other"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-caf-alte-post-900011354-29880-html-naviid-0-2026-07-31-14:00",
+      "date": "2026-07-31",
+      "time": "14:00",
+      "venue": "Taunusstein",
+      "titleDe": "Café Alte Post",
+      "title": "Café Alte Post / Кафе Альте Пост",
+      "key": "2026-07-31|14:00|taunusstein|cafea",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "other",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-bleischter-weinprobierstand-900011370-29880-html-naviid-0-2026-08-01-17:00",
+      "date": "2026-08-01",
+      "time": "17:00",
+      "venue": "Bleidenstadt",
+      "titleDe": "Bleischter Weinprobierstand",
+      "title": "Bleischter Weinprobierstand / Выставка вин Bleischter",
+      "key": "2026-08-01|17:00|bleidenstadt|bleis",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
       "id": "eventfinder-3168364-2026-08-04-19:30",
       "date": "2026-08-04",
       "time": "19:30",
@@ -1346,6 +225,38 @@
         "civic"
       ],
       "addedAt": "2026-05-27T19:08:35.645Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-caf-alte-post-900011355-29880-html-naviid-0-2026-08-07-14:00",
+      "date": "2026-08-07",
+      "time": "14:00",
+      "venue": "Taunusstein",
+      "titleDe": "Café Alte Post",
+      "title": "Café Alte Post / Кафе Альте Пост",
+      "key": "2026-08-07|14:00|taunusstein|cafea",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "other",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-bleischter-weinprobierstand-900011378-29880-html-naviid-0-2026-08-07-17:00",
+      "date": "2026-08-07",
+      "time": "17:00",
+      "venue": "Bleidenstadt",
+      "titleDe": "Bleischter Weinprobierstand",
+      "title": "Bleischter Weinprobierstand / Выставка вин Bleischter",
+      "key": "2026-08-07|17:00|bleidenstadt|bleis",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
     },
     {
       "id": "eventfinder-3168271-2026-08-27-19:00",
@@ -1591,421 +502,6 @@
         "civic"
       ],
       "addedAt": "2026-05-27T19:08:35.646Z"
-    },
-    {
-      "id": "limburg-https-limburger-dommusik-de-kalender-dommusik-tag-der-offenen-tuer-und-familienkonzert-2026-05-31",
-      "date": "2026-05-31",
-      "time": "13:00",
-      "venue": "Limburger Dommusik - Pädagogisches Haus und Verwaltung",
-      "titleDe": "Tag der offenen Tür und Familienkonzert",
-      "title": "Tag der offenen Tür und Familienkonzert / День открытых дверей и семейный концерт",
-      "key": "2026-05-31|13:00|limburgerdommusikpadagogischeshausundverwaltung|tagde",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "children"
-      ],
-      "addedAt": "2026-05-28T06:28:52.282Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-lets-glow-bremen-2026-06-13-Бремен-Pentahotel",
-      "date": "2026-06-13",
-      "time": "Сб, 12:00",
-      "venue": "Pentahotel",
-      "titleDe": "Женский энерго-форум LET’S GLOW в Бремене, билеты от 69 €",
-      "title": "Женский энерго-форум LET’S GLOW в Бремене, билеты от 69 € / Женский энерго-форум LET’S GLOW в Бремене, билеты от 69 €",
-      "key": "2026-06-13|Сб, 12:00|pentahotel|женск",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.282Z"
-    },
-    {
-      "id": "limburg-https-limburger-dommusik-de-kalender-dommusik-hochamt-25-1-1-1-1-1-1-1-1-1-1-1-1-3-1-2-2026-06-14",
-      "date": "2026-06-14",
-      "time": null,
-      "venue": "Hoher Dom zu Limburg",
-      "titleDe": "Familiengottesdienst",
-      "title": "Familiengottesdienst / Семейное богослужение",
-      "key": "2026-06-14||hoherdomzulimburg|famil",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "church",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.282Z"
-    },
-    {
-      "id": "limburg-https-limburger-dommusik-de-kalender-dommusik-evensong-1-1-1-1-1-1-2026-06-17",
-      "date": "2026-06-17",
-      "time": null,
-      "venue": "Hoher Dom zu Limburg",
-      "titleDe": "Evensong",
-      "title": "Evensong / Вечерняя служба",
-      "key": "2026-06-17||hoherdomzulimburg|evens",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "church",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.282Z"
-    },
-    {
-      "id": "limburg-https-limburger-dommusik-de-kalender-dommusik-musicalauffuehrung-und-nachts-die-freiheit-2026-06-19",
-      "date": "2026-06-19",
-      "time": null,
-      "venue": "Jump'n Fun Arena",
-      "titleDe": "Musicalaufführung \"Und nachts die Freiheit\"",
-      "title": "Musicalaufführung \"Und nachts die Freiheit\" / Музыкальная постановка \"И ночью свобода\"",
-      "key": "2026-06-19||jumpnfunarena|music",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.282Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-mikhail-labkovsky-2026-2026-06-22-Гамбург-Rudolf Steiner Haus",
-      "date": "2026-06-22",
-      "time": "Пн, 19:00",
-      "venue": "Rudolf Steiner Haus",
-      "titleDe": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "title": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты / Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "key": "2026-06-22|Пн, 19:00|rudolfsteinerhaus|михаи",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.282Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-mikhail-labkovsky-2026-2026-06-23-Берлин-Babylon",
-      "date": "2026-06-23",
-      "time": "Вт, 19:00",
-      "venue": "Babylon",
-      "titleDe": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "title": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты / Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "key": "2026-06-23|Вт, 19:00|babylon|михаи",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.282Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-mikhail-labkovsky-2026-2026-06-26-Мюнхен-Kulturzentrum Trudering",
-      "date": "2026-06-26",
-      "time": "Пт, 19:00",
-      "venue": "Kulturzentrum Trudering",
-      "titleDe": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "title": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты / Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "key": "2026-06-26|Пт, 19:00|kulturzentrumtrudering|михаи",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-anton-dolin-europa-2026-06-26-Будва-Akademija znanja",
-      "date": "2026-06-26",
-      "time": "Пт, 20:00",
-      "venue": "Akademija znanja",
-      "titleDe": "Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн",
-      "title": "Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн / Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн",
-      "key": "2026-06-26|Пт, 20:00|akademijaznanja|антон",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-after-party-26-juni-duesseldorf-2026-06-26-Дюссельдорф-KÖ Club",
-      "date": "2026-06-26",
-      "time": "Пт, 23:00",
-      "venue": "KÖ Club",
-      "titleDe": "AFTER PARTY Макса Коржа в Дюссельдорфе 26 июня, билеты",
-      "title": "AFTER PARTY Макса Коржа в Дюссельдорфе 26 июня, билеты / AFTER PARTY Макса Коржа в Дюссельдорфе 26 июня, билеты",
-      "key": "2026-06-26|Пт, 23:00|koclub|after",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-mikhail-labkovsky-2026-2026-06-27-Франкфурт-на-Майне-Haus Sindlingen",
-      "date": "2026-06-27",
-      "time": "Сб, 19:00",
-      "venue": "Haus Sindlingen",
-      "titleDe": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "title": "Михаил Лабковский в Германии 2026: «Хочу и буду», билеты / Михаил Лабковский в Германии 2026: «Хочу и буду», билеты",
-      "key": "2026-06-27|Сб, 19:00|haussindlingen|михаи",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-anton-dolin-europa-2026-06-27-Берлин-Genezarethkirche",
-      "date": "2026-06-27",
-      "time": "Сб, 20:00",
-      "venue": "Genezarethkirche",
-      "titleDe": "Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн",
-      "title": "Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн / Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн",
-      "key": "2026-06-27|Сб, 20:00|genezarethkirche|антон",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "info-networking-event-167464-2026-06-28T10:15:00+02:00",
-      "date": "2026-06-28",
-      "time": "10:15",
-      "venue": "Museum Wiesbaden",
-      "titleDe": "3. Internationale Flötenwettbewerb Ferdinand W. Neess",
-      "title": "3. Internationale Flötenwettbewerb Ferdinand W. Neess / 3-й Международный конкурс флейтистов Фердинанда В. Несс",
-      "key": "2026-06-28|10:15|museumwiesbaden|3inte",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "concert",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "info-networking-event-167470-2026-06-28T14:00:00+02:00",
-      "date": "2026-06-28",
-      "time": "14:00",
-      "venue": "Museum Wiesbaden",
-      "titleDe": "Ophelia im Jugendstil — Taylor Swift Spezial",
-      "title": "Ophelia im Jugendstil — Taylor Swift Spezial / Офелия в стиле ар-нуво — Специальный выпуск о Тейлор Свифт",
-      "key": "2026-06-28|14:00|museumwiesbaden|ophel",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "exhibition",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "info-networking-event-164344-2026-06-28T20:00:00+02:00",
-      "date": "2026-06-28",
-      "time": "20:00",
-      "venue": "Kammerspiele Wiesbaden e.V.",
-      "titleDe": "Was War und Was Wird",
-      "title": "Was War und Was Wird / Что было и что будет",
-      "key": "2026-06-28|20:00|kammerspielewiesbadenev|waswa",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "spektakl",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "artist-production-https-artist-production-de-anton-dolin-europa-2026-06-28-Мюнхен-Kulturzentrum Gorod",
-      "date": "2026-06-28",
-      "time": "Вс, 20:00",
-      "venue": "Kulturzentrum Gorod",
-      "titleDe": "Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн",
-      "title": "Антон Долин в Европе 2026: Radio Долин Live, билеты онлайн / Антон Долин в Европе 2026: Radio Долин Live",
-      "key": "2026-06-28|Вс, 20:00|kulturzentrumgorod|антон",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "lecture",
-        "civic"
-      ],
-      "addedAt": "2026-05-28T06:28:52.283Z"
-    },
-    {
-      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-offenes-ohr-im-quartier-offene-sprechstunde-der-gemeindepflegerin-900010891-29880-html-naviid-0-2026-07-16-14:30",
-      "date": "2026-07-16",
-      "time": "14:30",
-      "venue": "Quartier- Offene Sprechstunde der Gemeindepflegerin Jeden dritten Donnerstag bietet die neue Gemeindepflegerin in der offenen Sprechstunde ein offenes Ohr zu Themen wie Pflege",
-      "titleDe": "Offenes Ohr im Quartier- Offene Sprechstunde der Gemeindepflegerin",
-      "title": "Offenes Ohr im Quartier- Offene Sprechstunde der Gemeindepflegerin / Открытое ухо в квартале - открытая консультация социального работника",
-      "key": "2026-07-16|14:30|quartieroffenesprechstundedergemeindepflegerinjedendrittendonnerstagbietetdieneuegemeindepflegerininderoffenensprechstundeeinoffenesohrzuthemenwiepflege|offen",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "free"
-      ],
-      "addedAt": "2026-07-09T11:43:16.057Z"
-    },
-    {
-      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-trauergruppe-fuer-verwaiste-eltern-900011218-29880-html-naviid-0-2026-07-22-18:15",
-      "date": "2026-07-22",
-      "time": "18:15",
-      "venue": null,
-      "titleDe": "Trauergruppe für verwaiste Eltern",
-      "title": "Trauergruppe für verwaiste Eltern / Группа поддержки для родителей, потерявших детей",
-      "key": "2026-07-22|18:15||traue",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "civic",
-        "other"
-      ],
-      "addedAt": "2026-07-09T11:43:16.057Z"
-    },
-    {
-      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-caf-alte-post-900011354-29880-html-naviid-0-2026-07-31-14:00",
-      "date": "2026-07-31",
-      "time": "14:00",
-      "venue": "Taunusstein",
-      "titleDe": "Café Alte Post",
-      "title": "Café Alte Post / Кафе Альте Пост",
-      "key": "2026-07-31|14:00|taunusstein|cafea",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "other",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T11:43:16.057Z"
-    },
-    {
-      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-bleischter-weinprobierstand-900011370-29880-html-naviid-0-2026-08-01-17:00",
-      "date": "2026-08-01",
-      "time": "17:00",
-      "venue": "Bleidenstadt",
-      "titleDe": "Bleischter Weinprobierstand",
-      "title": "Bleischter Weinprobierstand / Выставка вин Bleischter",
-      "key": "2026-08-01|17:00|bleidenstadt|bleis",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T11:43:16.057Z"
-    },
-    {
-      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-caf-alte-post-900011355-29880-html-naviid-0-2026-08-07-14:00",
-      "date": "2026-08-07",
-      "time": "14:00",
-      "venue": "Taunusstein",
-      "titleDe": "Café Alte Post",
-      "title": "Café Alte Post / Кафе Альте Пост",
-      "key": "2026-08-07|14:00|taunusstein|cafea",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "other",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T11:43:16.057Z"
-    },
-    {
-      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-bleischter-weinprobierstand-900011378-29880-html-naviid-0-2026-08-07-17:00",
-      "date": "2026-08-07",
-      "time": "17:00",
-      "venue": "Bleidenstadt",
-      "titleDe": "Bleischter Weinprobierstand",
-      "title": "Bleischter Weinprobierstand / Выставка вин Bleischter",
-      "key": "2026-08-07|17:00|bleidenstadt|bleis",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T11:43:16.057Z"
-    },
-    {
-      "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-09-idsteiner-weinprobierstand-am-hexenturm-58144-40-2026-07-10-17:00",
-      "date": "2026-07-10",
-      "time": "17:00",
-      "venue": "Altstadt Idstein",
-      "titleDe": "Idsteiner Weinprobierstand am Hexenturm",
-      "title": "Idsteiner Weinprobierstand am Hexenturm / Идштейнский винный стенд у Хексентурма",
-      "key": "2026-07-10|17:00|altstadtidstein|idste",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T12:00:40.774Z"
-    },
-    {
-      "id": "idstein-https-www-idstein-de-kalender-2026-juni-2026-06-19-golfspass-ohne-ende-59171-3-2026-07-10-17:00",
-      "date": "2026-07-10",
-      "time": "17:00",
-      "venue": "Golfpark Idstein Nordkurs, Idsteiner Straße 54",
-      "titleDe": "Golfspaß ohne Ende",
-      "title": "Golfspaß ohne Ende / Гольф-удовольствие без конца",
-      "key": "2026-07-10|17:00|golfparkidsteinnordkursidsteinerstrae54|golfs",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "course",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T12:00:40.774Z"
-    },
-    {
-      "id": "idstein-https-www-idstein-de-kalender-2026-maerz-2026-03-14-altstadt-geschichte-und-geschichten-53805-8-2026-07-11-12:00",
-      "date": "2026-07-11",
-      "time": "12:00",
-      "venue": "Altstadt Idstein",
-      "titleDe": "Altstadt - Geschichte und Geschichten",
-      "title": "Altstadt - Geschichte und Geschichten / Старый город - История и истории",
-      "key": "2026-07-11|12:00|altstadtidstein|altst",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "excursion",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T12:00:40.774Z"
-    },
-    {
-      "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-09-idsteiner-weinprobierstand-am-hexenturm-58144-41-2026-07-11-17:00",
-      "date": "2026-07-11",
-      "time": "17:00",
-      "venue": "Altstadt Idstein",
-      "titleDe": "Idsteiner Weinprobierstand am Hexenturm",
-      "title": "Idsteiner Weinprobierstand am Hexenturm / Идштейнский винный стенд у Хексентурма",
-      "key": "2026-07-11|17:00|altstadtidstein|idste",
-      "reason": "exceptionAiTags",
-      "categories": [],
-      "tags": [
-        "fest",
-        "civic"
-      ],
-      "addedAt": "2026-07-09T12:00:40.775Z"
     }
   ]
 }

@@ -2,7 +2,7 @@ import { appendFile, mkdir, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { spawn } from "node:child_process";
 import { readJson, sortEvents } from "./lib/events.mjs";
-import { appendToSourceBase, collectNewEvents, emptyStore, splitByAiTagExceptions } from "./lib/source-workflow.mjs";
+import { appendToSourceBase, collectNewEvents, emptyStore, pruneStoreByDate, splitByAiTagExceptions } from "./lib/source-workflow.mjs";
 
 const ROOT = process.cwd();
 const RAW_DIR = path.join(ROOT, "rawSources");
@@ -20,9 +20,11 @@ async function main() {
     await run("npm", ["run", "scrape:raw"]);
   }
   const rawSources = await readRawSources();
-  const sourceBase = await readStore("sourceBase.json");
-  const exceptedItems = await readStore("exceptedItems.json");
+  const sourceBase = pruneStoreByDate(await readStore("sourceBase.json"), todayIso());
+  const exceptedItems = pruneStoreByDate(await readStore("exceptedItems.json"), todayIso());
   const exceptionCategories = await readJson(path.join(ROOT, "exceptionCategories.json"), []);
+
+  await log("pruned-stores", { sourceBasePruned: sourceBase.prunedCount ?? 0, exceptedPruned: exceptedItems.prunedCount ?? 0, sourceBaseTotal: sourceBase.eventCount, exceptedTotal: exceptedItems.eventCount });
 
   const collected = collectNewEvents(rawSources, sourceBase, emptyStore(), exceptedItems, exceptionCategories, ITEMS_FOR_TEST);
   let newSources = {
@@ -113,6 +115,10 @@ function run(command, args) {
 
 function parseBoolean(value) {
   return ["1", "true", "yes", "on"].includes(String(value).toLowerCase());
+}
+
+function todayIso() {
+  return new Date().toISOString().slice(0, 10);
 }
 
 main().catch(async (error) => {

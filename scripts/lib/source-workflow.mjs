@@ -147,6 +147,17 @@ export function appendToSourceBase(sourceBase, newSources) {
   };
 }
 
+export function pruneStoreByDate(store, today) {
+  const kept = (store.events ?? []).filter((event) => !event?.date || event.date >= today);
+  return {
+    ...store,
+    generatedAt: new Date().toISOString(),
+    events: sortEvents(kept),
+    eventCount: kept.length,
+    prunedCount: (store.events ?? []).length - kept.length
+  };
+}
+
 export function emptyStore(extra = {}) {
   return {
     generatedAt: new Date().toISOString(),
