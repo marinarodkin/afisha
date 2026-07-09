@@ -1,0 +1,1543 @@
+{
+  "generatedAt": "2026-05-27T10:00:09.862Z",
+  "startDate": "2026-05-27",
+  "endDate": "2026-08-27",
+  "eventLimit": 50,
+  "sourcesAmount": 2,
+  "sources": [
+    {
+      "fileName": "source-001.json",
+      "source": {
+        "link": "https://www.wiesbaden.de/veranstaltungen",
+        "description": "Официальный Veranstaltungskalender города Висбаден: концерты, театры, фесты, ярмарки и многое другое."
+      },
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "exportedUntil": "2026-08-27",
+      "exportedAt": "2026-05-27T09:59:42.085Z",
+      "eventCount": 835,
+      "notes": []
+    },
+    {
+      "fileName": "source-002.json",
+      "source": {
+        "link": "https://www.wiesbaden.de/kultur/kultur-erleben/musik/kirchenmusik-choere-orchester",
+        "description": "Раздел города Висбаден про Kirchenmusik, хоры и оркестры – обзор церковной музыки и коллективов."
+      },
+      "sourceName": "Kirchenmusik, Chöre und Orchester",
+      "exportedUntil": "2026-08-27",
+      "exportedAt": "2026-05-27T09:59:42.235Z",
+      "eventCount": 0,
+      "notes": [
+        "Processed as a static reference page. It contains 69 links, but no dated event records were available on the selected page."
+      ]
+    }
+  ],
+  "exclusions": [
+    "wochenmarkt"
+  ],
+  "eventCountBeforeExclusions": 835,
+  "eventCountAfterExclusions": 765,
+  "eventCount": 50,
+  "events": [
+    {
+      "id": "info-networking-event-166836-2026-05-27T12:15:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Zwischen Himmel und Erde — Der Rabenbaum von Rebecca Horn",
+      "date": "2026-05-27",
+      "time": "12:15",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Museum Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166836",
+      "descriptionDe": "MuWi Stars – Kunst – Mit Dr. Martina Brand Jeden Mittwoch um 12:15 Uhr bieten wir eine spannende Kurzführung zu wechselnden Themen an. Dabei werden sowohl Werke aus den Kunstsammlungen als auch Exponate der Naturhistorischen Sammlung vorgestellt.",
+      "rawType": "Führungen",
+      "exportedAt": "2026-05-27T09:59:41.685Z",
+      "rawCategoryHints": [
+        "excursion",
+        "museum"
+      ],
+      "tags": [
+        "excursion",
+        "museum"
+      ],
+      "type": "museum",
+      "title": "Zwischen Himmel und Erde — Der Rabenbaum von Rebecca Horn",
+      "description": "MuWi Stars – Kunst – Mit Dr. Martina Brand Jeden Mittwoch um 12:15 Uhr bieten wir eine spannende Kurzführung zu wechselnden Themen an. Dabei werden sowohl Werke aus den Kunstsammlungen als auch Exponate der Naturhistorischen Sammlung vorgestellt."
+    },
+    {
+      "id": "info-networking-event-166935-2026-05-27T17:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Fahrrad-Exkursion zu Hotspots der Biodiversität im Wiesbadener Osten (Exkursion)",
+      "date": "2026-05-27",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": null,
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166935",
+      "descriptionDe": "Die ca. 20 km lange Radtour führt zu einigen Biodiversitäts-Highlights im Wiesbadener Osten: extensives Grünland, Streuobstwiesen, Feldraine und ökologische Ausgleichsflächen wie etwa am Fähncheskreuz sowie die Delkenheimer Kiesgruben bieten vielen Arten wertvolle Lebensräume und sind Juwelen in der Kulturlandschaft. …",
+      "rawType": "Natur und Umwelt Umwelt",
+      "exportedAt": "2026-05-27T09:59:41.686Z",
+      "rawCategoryHints": [
+        "course",
+        "excursion"
+      ],
+      "tags": [
+        "course",
+        "excursion"
+      ],
+      "type": "course",
+      "title": "Fahrrad-Exkursion zu Hotspots der Biodiversität im Wiesbadener Osten (Exkursion)",
+      "description": "Die ca. 20 km lange Radtour führt zu einigen Biodiversitäts-Highlights im Wiesbadener Osten: extensives Grünland, Streuobstwiesen, Feldraine und ökologische Ausgleichsflächen wie etwa am Fähncheskreuz sowie die Delkenheimer Kiesgruben bieten vielen Arten wertvolle Lebensräume und sind Juwelen in der Kulturlandschaft. …"
+    },
+    {
+      "id": "info-networking-event-166696-2026-05-27T17:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Buchclub der HLB",
+      "date": "2026-05-27",
+      "time": "17:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Hochschul- und Landesbibliothek RheinMain - Bibliothek Rheinstraße",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166696",
+      "descriptionDe": "Alleine lesen macht keinen Spaß? Der Held der Geschichte stellt sich dumm an und man braucht jemanden zum Reden? Da hilft es in unserem Buchclub gemeinsam neue Perspektiven zu entdecken. Komm vorbei und lass uns gemeinsam über Bücher sprechen! Wir tauschen uns aus, diskutieren und teilen unsere Erfahrungen und …",
+      "rawType": "Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.686Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Buchclub der HLB",
+      "description": "Alleine lesen macht keinen Spaß? Der Held der Geschichte stellt sich dumm an und man braucht jemanden zum Reden? Da hilft es in unserem Buchclub gemeinsam neue Perspektiven zu entdecken. Komm vorbei und lass uns gemeinsam über Bücher sprechen! Wir tauschen uns aus, diskutieren und teilen unsere Erfahrungen und …"
+    },
+    {
+      "id": "info-networking-event-166999-2026-05-27T18:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Mein neues altes Ich",
+      "date": "2026-05-27",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Caligari FilmBühne",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166999",
+      "descriptionDe": "DK/D/N 2026, 74 Min., FSK: ab 12, OmU Am 27.05.26 mit thematischer Einführung und anschließendem Austausch mit Patricia Kocherscheidt, Wechseljahreberaterin und Vorstandsmitglied im Deutschen Verband für Wechseljahreberatung e.V. Filmemacherin Louise Unmack Kjeldsen begibt sich auf eine emotionale Reise in das …",
+      "rawType": "Kino Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.686Z",
+      "rawCategoryHints": [
+        "excursion",
+        "kino"
+      ],
+      "tags": [
+        "excursion",
+        "kino"
+      ],
+      "type": "kino",
+      "title": "Mein neues altes Ich",
+      "description": "DK/D/N 2026, 74 Min., FSK: ab 12, OmU Am 27.05.26 mit thematischer Einführung und anschließendem Austausch mit Patricia Kocherscheidt, Wechseljahreberaterin und Vorstandsmitglied im Deutschen Verband für Wechseljahreberatung e.V. Filmemacherin Louise Unmack Kjeldsen begibt sich auf eine emotionale Reise in das …"
+    },
+    {
+      "id": "info-networking-event-166609-2026-05-27T18:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Die Kunst des Archivs",
+      "date": "2026-05-27",
+      "time": "18:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Hessisches Staatstheater",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166609",
+      "descriptionDe": "Archive sind das zentrale Motiv der diesjährigen Internationalen Maifestspiele. Die Diskursreihe „Die Kunst des Archivs“ beleuchtet an fünf Terminen ihre Bedeutung für unsere Gesellschaft aus unterschiedlichen Perspektiven – von Macht und Erinnerung über Nachhaltigkeit und Digitalisierung bis hin zu ihrer Rolle …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "course",
+        "spektakl",
+        "fest"
+      ],
+      "tags": [
+        "course",
+        "spektakl",
+        "fest"
+      ],
+      "type": "spektakl",
+      "title": "Die Kunst des Archivs",
+      "description": "Archive sind das zentrale Motiv der diesjährigen Internationalen Maifestspiele. Die Diskursreihe „Die Kunst des Archivs“ beleuchtet an fünf Terminen ihre Bedeutung für unsere Gesellschaft aus unterschiedlichen Perspektiven – von Macht und Erinnerung über Nachhaltigkeit und Digitalisierung bis hin zu ihrer Rolle …"
+    },
+    {
+      "id": "info-networking-event-167158-2026-05-27T19:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "\"Defend Democracy!\" mit Ronja Pohl: Rechtsextreme Angriffe auf den CSD",
+      "date": "2026-05-27",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kulturzentrum Schlachthof",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167158",
+      "descriptionDe": "In der gemeinsamen Reihe und Kampagne #defenddemocracy stellen die Initiative Moment Mal! und das Kulturzentrum Schlachthof Wiesbaden durch hochwertige Bildungsangebote die wachsende Gefahr von Rechts in den Fokus und rufen auf, gemeinsam Freiheit, Vielfalt und Demokratie zu verteidigen.",
+      "rawType": "Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "\"Defend Democracy!\" mit Ronja Pohl: Rechtsextreme Angriffe auf den CSD",
+      "description": "In der gemeinsamen Reihe und Kampagne #defenddemocracy stellen die Initiative Moment Mal! und das Kulturzentrum Schlachthof Wiesbaden durch hochwertige Bildungsangebote die wachsende Gefahr von Rechts in den Fokus und rufen auf, gemeinsam Freiheit, Vielfalt und Demokratie zu verteidigen."
+    },
+    {
+      "id": "info-networking-event-167416-2026-05-27T19:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Hessen. Ein bewegtes Land.",
+      "date": "2026-05-27",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Pfarrscheune Igstadt",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167416",
+      "descriptionDe": "Was macht Hessen so einzigartig? Das erzählen uns sehr unterhaltsam Sabine Königs und Hans Sarkowicz. Bildcopyright: privat",
+      "rawType": "Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Hessen. Ein bewegtes Land.",
+      "description": "Was macht Hessen so einzigartig? Das erzählen uns sehr unterhaltsam Sabine Königs und Hans Sarkowicz. Bildcopyright: privat"
+    },
+    {
+      "id": "info-networking-event-167208-2026-05-27T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Angriffsziel Pride - Queerfeindlichkeit als rechtsextreme Brückenideologie",
+      "date": "2026-05-27",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kulturzentrum Schlachthof",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167208",
+      "descriptionDe": "Queerfeindlichkeit hat sich in den letzten Jahren zu einem zentralen Mobilisierungsthema der extremen Rechten entwickelt. Von Russland über Ungarn bis in die USA mobilisieren autoritäre und rechtsextreme Akteur*innen gegen „Gender“, Transrechte und queere Sichtbarkeit. Queerfeindlichkeit funktioniert als …",
+      "rawType": "Geistes- und Sozialwissenschaft Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Angriffsziel Pride - Queerfeindlichkeit als rechtsextreme Brückenideologie",
+      "description": "Queerfeindlichkeit hat sich in den letzten Jahren zu einem zentralen Mobilisierungsthema der extremen Rechten entwickelt. Von Russland über Ungarn bis in die USA mobilisieren autoritäre und rechtsextreme Akteur*innen gegen „Gender“, Transrechte und queere Sichtbarkeit. Queerfeindlichkeit funktioniert als …"
+    },
+    {
+      "id": "info-networking-event-167221-2026-05-27T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Ist Gott tot? Lesung und Gespräch mit Kirchenpräsidentin Dr. Tietz über Friedrich Nietzsche",
+      "date": "2026-05-27",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Haus an der Marktkirche, Friedrich-Naumann-Saal",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167221",
+      "descriptionDe": "Was kritisierte Nietzsche am Christentum? Wie kam er zu seiner berühmt gewordenen Feststellung „Gott ist tot!“? Und warum lohnt es sich, den Philosophen heute noch zu lesen? Christiane Tietz blickt mit ihrer neuesten Veröffentlichung „Nietzsche. Leben und Denken im Banne des Christentums“ als Theologin auf den …",
+      "rawType": "Gläubige Geistes- und Sozialwissenschaft",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "fest"
+      ],
+      "tags": [
+        "fest"
+      ],
+      "type": "fest",
+      "title": "Ist Gott tot? Lesung und Gespräch mit Kirchenpräsidentin Dr. Tietz über Friedrich Nietzsche",
+      "description": "Was kritisierte Nietzsche am Christentum? Wie kam er zu seiner berühmt gewordenen Feststellung „Gott ist tot!“? Und warum lohnt es sich, den Philosophen heute noch zu lesen? Christiane Tietz blickt mit ihrer neuesten Veröffentlichung „Nietzsche. Leben und Denken im Banne des Christentums“ als Theologin auf den …"
+    },
+    {
+      "id": "info-networking-event-165923-2026-05-27T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Spieleabend: Der Impro-Workshop für Neugierige & Freaks",
+      "date": "2026-05-27",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Emma - die Theaterwerkstatt",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=165923",
+      "descriptionDe": "Mit Barbara Haker Auf die Bühne-Impro-los! Ein Spieleabend für alle, die neugierig auf Improtheater sind und für Impro-erfahrenen Freaks, die Spaß am gemeinsamen Spiel haben. 90 Minuten Warm-Up, Spiel, Spaß und neue Mitspielende. Kopf ausschalten, scheitern und viel Humor sind an diesem Abend die beste …",
+      "rawType": "Theater / Kleinkunst Sonstiges",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "master_class",
+        "spektakl"
+      ],
+      "tags": [
+        "master_class",
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Spieleabend: Der Impro-Workshop für Neugierige & Freaks",
+      "description": "Mit Barbara Haker Auf die Bühne-Impro-los! Ein Spieleabend für alle, die neugierig auf Improtheater sind und für Impro-erfahrenen Freaks, die Spaß am gemeinsamen Spiel haben. 90 Minuten Warm-Up, Spiel, Spaß und neue Mitspielende. Kopf ausschalten, scheitern und viel Humor sind an diesem Abend die beste …"
+    },
+    {
+      "id": "info-networking-event-167159-2026-05-27T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Where The Wild Words Are. - Poetry Slam",
+      "date": "2026-05-27",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kulturzentrum Schlachthof",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167159",
+      "descriptionDe": "Seit 1999 rocken die Wilden Worte Wiesbaden mit den spannendsten Poet*innen des Landes die Bühne. Pfeilgiftfeine Lyrik trifft geschliffene Prosa, ein Wettbewerb mit Schwert und Feder, den die Publikumsjury entscheidet.",
+      "rawType": "Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Where The Wild Words Are. - Poetry Slam",
+      "description": "Seit 1999 rocken die Wilden Worte Wiesbaden mit den spannendsten Poet*innen des Landes die Bühne. Pfeilgiftfeine Lyrik trifft geschliffene Prosa, ein Wettbewerb mit Schwert und Feder, den die Publikumsjury entscheidet."
+    },
+    {
+      "id": "info-networking-event-166271-2026-05-27T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Der Zauberberg",
+      "date": "2026-05-27",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Caligari FilmBühne",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166271",
+      "descriptionDe": "BRD 1981, 153 Min., FSK: ab 16 Im Jahr 1907 besucht der Hamburger Großbürgersohn Hans Castorp seinen lungenkranken Cousin in einem vornehmen Sanatorium im schweizerischen Davos. Die morbide Atmosphäre der Klinik mit all ihren schwer kranken Patienten fasziniert ihn so sehr, dass er sich ebenfalls dort einweisen …",
+      "rawType": "Kino Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.688Z",
+      "rawCategoryHints": [
+        "kino"
+      ],
+      "tags": [
+        "kino"
+      ],
+      "type": "kino",
+      "title": "Der Zauberberg",
+      "description": "BRD 1981, 153 Min., FSK: ab 16 Im Jahr 1907 besucht der Hamburger Großbürgersohn Hans Castorp seinen lungenkranken Cousin in einem vornehmen Sanatorium im schweizerischen Davos. Die morbide Atmosphäre der Klinik mit all ihren schwer kranken Patienten fasziniert ihn so sehr, dass er sich ebenfalls dort einweisen …"
+    },
+    {
+      "id": "info-networking-event-166542-2026-05-28T16:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Jugend+Kunst+Club",
+      "date": "2026-05-28",
+      "time": "16:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Museum Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166542",
+      "descriptionDe": "Kreatives Arbeiten inspiriert durch Kunst und Natur – Mit Patricia Sant’Ana Scheld Freies, kreatives Arbeiten zu den Sonderausstellungen und Kunstsammlungen mit der Künstlerin Patricia Sant’Ana. Anmeldung unter jugendkunstclub@gmail.de",
+      "rawType": "Kinder / Jugendliche Kreative",
+      "exportedAt": "2026-05-27T09:59:41.689Z",
+      "rawCategoryHints": [
+        "children",
+        "museum"
+      ],
+      "tags": [
+        "children",
+        "museum"
+      ],
+      "type": "museum",
+      "title": "Jugend+Kunst+Club",
+      "description": "Kreatives Arbeiten inspiriert durch Kunst und Natur – Mit Patricia Sant’Ana Scheld Freies, kreatives Arbeiten zu den Sonderausstellungen und Kunstsammlungen mit der Künstlerin Patricia Sant’Ana. Anmeldung unter jugendkunstclub@gmail.de"
+    },
+    {
+      "id": "info-networking-event-166541-2026-05-28T16:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Zeichenzeit — Kreatives Zeichnen für Kinder",
+      "date": "2026-05-28",
+      "time": "16:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Museum Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166541",
+      "descriptionDe": "Mit Leo [ Kirstin Pflaum ideenReich Kreativwerkstatt in Kooperation mit dem Museum Wiesbaden Für Kinder von 8 bis 12 Jahren. Die Vielfalt der Natur fasziniert Menschen seit jeher. Sie befördert unsere Kreativität und prägt unser Kunstschaffen. Auch wir lassen uns von Natur und Kunst inspirieren und erkunden …",
+      "rawType": "Kinder / Jugendliche Kreative",
+      "exportedAt": "2026-05-27T09:59:41.689Z",
+      "rawCategoryHints": [
+        "children",
+        "master_class",
+        "museum",
+        "opera"
+      ],
+      "tags": [
+        "children",
+        "master_class",
+        "museum",
+        "opera"
+      ],
+      "type": "opera",
+      "title": "Zeichenzeit — Kreatives Zeichnen für Kinder",
+      "description": "Mit Leo [ Kirstin Pflaum ideenReich Kreativwerkstatt in Kooperation mit dem Museum Wiesbaden Für Kinder von 8 bis 12 Jahren. Die Vielfalt der Natur fasziniert Menschen seit jeher. Sie befördert unsere Kreativität und prägt unser Kunstschaffen. Auch wir lassen uns von Natur und Kunst inspirieren und erkunden …"
+    },
+    {
+      "id": "info-networking-event-167441-2026-05-28T17:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Der Raum zwischen uns",
+      "date": "2026-05-28",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Museum Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167441",
+      "descriptionDe": "Museumsspiele Teens – Kreatives 5-tägiges Projekt für geflüchtete Jugendliche aus der Ukraine (12—17 Jahre) – Mit Kateryna Okremova, Oksana Byrka Neu in einem anderen Land zu sein, bringt viele Fragen, Gefühle und Herausforderungen mit sich. Museumsspiele Teens ist ein Angebot, das ukrainischen Jugendlichen …",
+      "rawType": "Kinder / Jugendliche Kreative",
+      "exportedAt": "2026-05-27T09:59:41.690Z",
+      "rawCategoryHints": [
+        "children",
+        "museum"
+      ],
+      "tags": [
+        "children",
+        "museum"
+      ],
+      "type": "museum",
+      "title": "Der Raum zwischen uns",
+      "description": "Museumsspiele Teens – Kreatives 5-tägiges Projekt für geflüchtete Jugendliche aus der Ukraine (12—17 Jahre) – Mit Kateryna Okremova, Oksana Byrka Neu in einem anderen Land zu sein, bringt viele Fragen, Gefühle und Herausforderungen mit sich. Museumsspiele Teens ist ein Angebot, das ukrainischen Jugendlichen …"
+    },
+    {
+      "id": "info-networking-event-167000-2026-05-28T17:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Rose",
+      "date": "2026-05-28",
+      "time": "17:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Caligari FilmBühne",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167000",
+      "descriptionDe": "A/D 2026, 94 Min., FSK: ab 12, AD In den Wirren des 30-jährigen Krieges erscheint ein mysteriöser Soldat in einem abgeschiedenen protestantischen Dorf. Schweigsam, schmal, das Gesicht durch eine Narbe entstellt. Der Fremde behauptet, Erbe eines seit langem verlassenen Gutshofs zu sein, und kann ein Dokument …",
+      "rawType": "Kino Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.690Z",
+      "rawCategoryHints": [
+        "kino"
+      ],
+      "tags": [
+        "kino"
+      ],
+      "type": "kino",
+      "title": "Rose",
+      "description": "A/D 2026, 94 Min., FSK: ab 12, AD In den Wirren des 30-jährigen Krieges erscheint ein mysteriöser Soldat in einem abgeschiedenen protestantischen Dorf. Schweigsam, schmal, das Gesicht durch eine Narbe entstellt. Der Fremde behauptet, Erbe eines seit langem verlassenen Gutshofs zu sein, und kann ein Dokument …"
+    },
+    {
+      "id": "info-networking-event-167253-2026-05-28T18:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "DemokratieKiosk: The Jodel Experience",
+      "date": "2026-05-28",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Heimathafen im Alten Gericht",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167253",
+      "descriptionDe": "Gemeinsames Singen erfordert die Fähigkeit von gleichzeitigem Zuhören und Selbstausdruck, von gleichzeitigem Geben und Nehmen, von Frage und Antwort und damit von Verantwortung aller Beteiligten für den gemeinsamen Gesang. Mit einfachen Übungen erweitern wir unser Körper- und Stimmbewusstsein und erlernen dabei …",
+      "rawType": "Konzerte / Musik Kreative",
+      "exportedAt": "2026-05-27T09:59:41.690Z",
+      "rawCategoryHints": [
+        "concert"
+      ],
+      "tags": [
+        "concert"
+      ],
+      "type": "concert",
+      "title": "DemokratieKiosk: The Jodel Experience",
+      "description": "Gemeinsames Singen erfordert die Fähigkeit von gleichzeitigem Zuhören und Selbstausdruck, von gleichzeitigem Geben und Nehmen, von Frage und Antwort und damit von Verantwortung aller Beteiligten für den gemeinsamen Gesang. Mit einfachen Übungen erweitern wir unser Körper- und Stimmbewusstsein und erlernen dabei …"
+    },
+    {
+      "id": "info-networking-event-167485-2026-05-28T18:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Impact II - 60 Minuten Klassisches Schlagzeug",
+      "date": "2026-05-28",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kulturforum, Eingang Friedrichstraße",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167485",
+      "descriptionDe": "Studierende der Wiesbadener Musikakademie, Klasse Edzard Locher laden zur ihrem Klassenabend IMPACT II und Kulturforum ein. Freuen Sie sich auf ein abwechslungsreiches Konzert mit Klassischem Schlagzeug. Bildcopyright: Wiesbadener Musikakademie",
+      "rawType": "Konzerte / Musik",
+      "exportedAt": "2026-05-27T09:59:41.690Z",
+      "rawCategoryHints": [
+        "concert"
+      ],
+      "tags": [
+        "concert"
+      ],
+      "type": "concert",
+      "title": "Impact II - 60 Minuten Klassisches Schlagzeug",
+      "description": "Studierende der Wiesbadener Musikakademie, Klasse Edzard Locher laden zur ihrem Klassenabend IMPACT II und Kulturforum ein. Freuen Sie sich auf ein abwechslungsreiches Konzert mit Klassischem Schlagzeug. Bildcopyright: Wiesbadener Musikakademie"
+    },
+    {
+      "id": "info-networking-event-166939-2026-05-28T18:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Vogelbestimmung mit dem Smartphone (Exkursion)",
+      "date": "2026-05-28",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": null,
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166939",
+      "descriptionDe": "Anhand von zwei Vogel-Bestimmungs-Apps (\"Merlin\" und \"Birdnet\") wird bei einer ca. 2-stündigen Exkursion die Nutzung der Apps erläutert. Veranstaltung im Rahmen der Wiesbadener Wochen der biologischen Vielfalt #WieWoBiodiv Eine Anmeldung ist nicht erforderlich. Das Angebot richtet sich an alle Interessierte …",
+      "rawType": "Natur und Umwelt Umwelt",
+      "exportedAt": "2026-05-27T09:59:41.690Z",
+      "rawCategoryHints": [
+        "course",
+        "excursion"
+      ],
+      "tags": [
+        "course",
+        "excursion"
+      ],
+      "type": "course",
+      "title": "Vogelbestimmung mit dem Smartphone (Exkursion)",
+      "description": "Anhand von zwei Vogel-Bestimmungs-Apps (\"Merlin\" und \"Birdnet\") wird bei einer ca. 2-stündigen Exkursion die Nutzung der Apps erläutert. Veranstaltung im Rahmen der Wiesbadener Wochen der biologischen Vielfalt #WieWoBiodiv Eine Anmeldung ist nicht erforderlich. Das Angebot richtet sich an alle Interessierte …"
+    },
+    {
+      "id": "info-networking-event-167173-2026-05-28T18:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Zeichnen und Skizzieren im Museum",
+      "date": "2026-05-28",
+      "time": "18:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Museum Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167173",
+      "descriptionDe": "Zeichenkurs ab 14 Jahren – Dauerausstellung Natur – Mit Katja Rosenberg Mit Katja Rosenberg, Diplom-Designerin (FH) — eine Kooperation mit der Kunstwerkstatt Wiesbaden. Für Anfänger und Fortgeschrittene ab 14 Jahren. Anmeldung unter: 0171 5825195 oder kontakt@katja-rosenberg.de. Wer zeichnet, sieht genau …",
+      "rawType": "Kinder / Jugendliche Kreative",
+      "exportedAt": "2026-05-27T09:59:41.690Z",
+      "rawCategoryHints": [
+        "children",
+        "master_class",
+        "course",
+        "museum",
+        "opera"
+      ],
+      "tags": [
+        "children",
+        "master_class",
+        "course",
+        "museum",
+        "opera"
+      ],
+      "type": "opera",
+      "title": "Zeichnen und Skizzieren im Museum",
+      "description": "Zeichenkurs ab 14 Jahren – Dauerausstellung Natur – Mit Katja Rosenberg Mit Katja Rosenberg, Diplom-Designerin (FH) — eine Kooperation mit der Kunstwerkstatt Wiesbaden. Für Anfänger und Fortgeschrittene ab 14 Jahren. Anmeldung unter: 0171 5825195 oder kontakt@katja-rosenberg.de. Wer zeichnet, sieht genau …"
+    },
+    {
+      "id": "info-networking-event-165623-2026-05-28T19:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Albert Weis und Martin Brüger (1:1-Format) - BELLES VUES",
+      "date": "2026-05-28",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kunstverein Bellevue-Saal",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=165623",
+      "descriptionDe": "Martin Brüger und Albert Weis planen als gemeinsames und dialogisches Projekt für den Bellevuesaal in Wiesbaden eine raumgreifende Installation, die gleichzeitig auch zum Träger für Skulpturen, Foto- und Papierarbeiten der beiden Künstler wird. Die hohe verwinkelte Wandkonstruktion besteht aus Trockenbauprofilen, …",
+      "rawType": "Ausstellungen",
+      "exportedAt": "2026-05-27T09:59:41.691Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Albert Weis und Martin Brüger (1:1-Format) - BELLES VUES",
+      "description": "Martin Brüger und Albert Weis planen als gemeinsames und dialogisches Projekt für den Bellevuesaal in Wiesbaden eine raumgreifende Installation, die gleichzeitig auch zum Träger für Skulpturen, Foto- und Papierarbeiten der beiden Künstler wird. Die hohe verwinkelte Wandkonstruktion besteht aus Trockenbauprofilen, …"
+    },
+    {
+      "id": "info-networking-event-167487-2026-05-28T19:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Das Dschungelbuch",
+      "date": "2026-05-28",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kultur-Dschungel",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167487",
+      "descriptionDe": "Im Jubiläumsjahr des Kultur-Dschungels wartet ein ganz besonderes Sommertheater-Erlebnis auf der Freilichtbühne am Wiesbadener Stadtrand: Mit „Das Dschungelbuch“ inszeniert die freie Produktionsgemeinschaft erstmals den berühmten Stoff rund um Mowgli. Passend zum zehnjährigen Bestehen des Sommertheaters und fünf …",
+      "rawType": "Theater / Kleinkunst Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.691Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Das Dschungelbuch",
+      "description": "Im Jubiläumsjahr des Kultur-Dschungels wartet ein ganz besonderes Sommertheater-Erlebnis auf der Freilichtbühne am Wiesbadener Stadtrand: Mit „Das Dschungelbuch“ inszeniert die freie Produktionsgemeinschaft erstmals den berühmten Stoff rund um Mowgli. Passend zum zehnjährigen Bestehen des Sommertheaters und fünf …"
+    },
+    {
+      "id": "info-networking-event-166837-2026-05-28T19:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Natur und Raum bei Rebecca Horn",
+      "date": "2026-05-28",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Museum Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166837",
+      "descriptionDe": "Art after Work – Sammlungspräsentation Kunst – Mit Dr. Annkatrin Kaul-Trivolis Lassen Sie den Arbeitstag mit Kolleg:innen und Freund:innen bei einem besonderen Rundgang im Museum Wiesbaden ausklingen. Nach einer Führung durch die Ausstellungen erwartet Sie ein Getränk und nette Gespräche im Museumscafé. Maximal …",
+      "rawType": "Führungen",
+      "exportedAt": "2026-05-27T09:59:41.691Z",
+      "rawCategoryHints": [
+        "excursion",
+        "museum"
+      ],
+      "tags": [
+        "excursion",
+        "museum"
+      ],
+      "type": "museum",
+      "title": "Natur und Raum bei Rebecca Horn",
+      "description": "Art after Work – Sammlungspräsentation Kunst – Mit Dr. Annkatrin Kaul-Trivolis Lassen Sie den Arbeitstag mit Kolleg:innen und Freund:innen bei einem besonderen Rundgang im Museum Wiesbaden ausklingen. Nach einer Führung durch die Ausstellungen erwartet Sie ein Getränk und nette Gespräche im Museumscafé. Maximal …"
+    },
+    {
+      "id": "info-networking-event-163560-2026-05-28T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Anna Schäfer // Schlafende Hunde – Comedy-Theater",
+      "date": "2026-05-28",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Theater im Pariser Hof",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=163560",
+      "descriptionDe": "Von Dietmar Jacobs Was passiert nicht alles in einer verrückten schlaflosen Nacht? Marie, die Hauptfigur in Anna Schäfers neuem und fulminantem Solo, kennt das Problem. Wie viele Menschen schläft sie schlecht, weil sie ihre Gedanken nicht stoppen kann. In der Nacht ploppen deshalb regelmäßig alle ihre seltsamen …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Anna Schäfer // Schlafende Hunde – Comedy-Theater",
+      "description": "Von Dietmar Jacobs Was passiert nicht alles in einer verrückten schlaflosen Nacht? Marie, die Hauptfigur in Anna Schäfers neuem und fulminantem Solo, kennt das Problem. Wie viele Menschen schläft sie schlecht, weil sie ihre Gedanken nicht stoppen kann. In der Nacht ploppen deshalb regelmäßig alle ihre seltsamen …"
+    },
+    {
+      "id": "info-networking-event-167417-2026-05-28T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Lesung Markus Orths \"Die Enthusiasten\"",
+      "date": "2026-05-28",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kammerspiele Wiesbaden e.V.",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167417",
+      "descriptionDe": "Glauben Sie uns: Der irrwitzigste Lesespaß seit Langem! Für alle, die die Welt der Literatur lieben! Ein erzählerisches Feuerwerk über eine ziemlich besondere Familie, bei der Bücherplateaus von der Decke hängen und in der Geschichten zum Leben erweckt werden. Und über drei Geschwister, die eine innige Liebe …",
+      "rawType": "Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Lesung Markus Orths \"Die Enthusiasten\"",
+      "description": "Glauben Sie uns: Der irrwitzigste Lesespaß seit Langem! Für alle, die die Welt der Literatur lieben! Ein erzählerisches Feuerwerk über eine ziemlich besondere Familie, bei der Bücherplateaus von der Decke hängen und in der Geschichten zum Leben erweckt werden. Und über drei Geschwister, die eine innige Liebe …"
+    },
+    {
+      "id": "info-networking-event-165619-2026-05-28T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Poetry Slam 43",
+      "date": "2026-05-28",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Theater kuenstlerhaus43 im Palasthotel",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=165619",
+      "descriptionDe": "Goethe & Schiller vom Sockel gehauen! Poetisches Entertainment… das ist Poetry Slam. Schlamm-Catchen der Worte. Jeweils am letzten Donnerstag im Monat tragen Slammer Geschichten, Gedanken und Gefühle auf die Bühne. In Zimmertheater-Atmosphäre. Poeten aus ganz Deutschland oder regionale Verbal-Urgesteine! Lyrische …",
+      "rawType": "Theater / Kleinkunst Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Poetry Slam 43",
+      "description": "Goethe & Schiller vom Sockel gehauen! Poetisches Entertainment… das ist Poetry Slam. Schlamm-Catchen der Worte. Jeweils am letzten Donnerstag im Monat tragen Slammer Geschichten, Gedanken und Gefühle auf die Bühne. In Zimmertheater-Atmosphäre. Poeten aus ganz Deutschland oder regionale Verbal-Urgesteine! Lyrische …"
+    },
+    {
+      "id": "info-networking-event-165621-2026-05-28T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Poetry Slam 43",
+      "date": "2026-05-28",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Theater kuenstlerhaus43 im Palasthotel",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=165621",
+      "descriptionDe": "Goethe & Schiller vom Sockel gehauen! Poetisches Entertainment… das ist Poetry Slam. Schlamm-Catchen der Worte. Jeweils am letzten Donnerstag im Monat tragen Slammer Geschichten, Gedanken und Gefühle auf die Bühne. In Zimmertheater-Atmosphäre. Poeten aus ganz Deutschland oder regionale Verbal-Urgesteine! Lyrische …",
+      "rawType": "Theater / Kleinkunst Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Poetry Slam 43",
+      "description": "Goethe & Schiller vom Sockel gehauen! Poetisches Entertainment… das ist Poetry Slam. Schlamm-Catchen der Worte. Jeweils am letzten Donnerstag im Monat tragen Slammer Geschichten, Gedanken und Gefühle auf die Bühne. In Zimmertheater-Atmosphäre. Poeten aus ganz Deutschland oder regionale Verbal-Urgesteine! Lyrische …"
+    },
+    {
+      "id": "info-networking-event-166847-2026-05-28T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "TOMMY WIERINGA \"Nirwana\" - ABSAGE",
+      "date": "2026-05-28",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Literaturhaus Villa Clementine",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166847",
+      "descriptionDe": "DIE LESUNG MUSS LEIDER ABGESAGT WERDEN. BEREITS ERWORBENE TICKETS WERDEN IN DER TOURIST-INFO ERSTATTET. Reihe: Talking about my Generation Autorenlesung & Gespräch Moderation: Alexander Wasner (SWR) Lesung auf Deutsch: Oliver Wronka Hugo und Willem sind ungleiche Zwillinge: Während sich der eine der Kunst …",
+      "rawType": "Online-Buchung Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "TOMMY WIERINGA \"Nirwana\" - ABSAGE",
+      "description": "DIE LESUNG MUSS LEIDER ABGESAGT WERDEN. BEREITS ERWORBENE TICKETS WERDEN IN DER TOURIST-INFO ERSTATTET. Reihe: Talking about my Generation Autorenlesung & Gespräch Moderation: Alexander Wasner (SWR) Lesung auf Deutsch: Oliver Wronka Hugo und Willem sind ungleiche Zwillinge: Während sich der eine der Kunst …"
+    },
+    {
+      "id": "info-networking-event-167132-2026-05-28T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Improvisierte Musik : Turbulences CD-Release-Konzert",
+      "date": "2026-05-28",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "art.ist",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167132",
+      "descriptionDe": "Hans Tammen – just another worker in rhythms, frequencies and intensities – kommt aus seiner Wahlheimat New York City zu Besuch, um uns mit den ungewöhnlichen Sounds, die er seinem kleinen, von Chicken-Head-Knöpfen dominierten Synthesizer – der Blippoo Box – entlockt, zu begeistern. Unterstützt wird er von …",
+      "rawType": "Konzerte / Musik",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "concert"
+      ],
+      "tags": [
+        "concert"
+      ],
+      "type": "concert",
+      "title": "Improvisierte Musik : Turbulences CD-Release-Konzert",
+      "description": "Hans Tammen – just another worker in rhythms, frequencies and intensities – kommt aus seiner Wahlheimat New York City zu Besuch, um uns mit den ungewöhnlichen Sounds, die er seinem kleinen, von Chicken-Head-Knöpfen dominierten Synthesizer – der Blippoo Box – entlockt, zu begeistern. Unterstützt wird er von …"
+    },
+    {
+      "id": "info-networking-event-165179-2026-05-28T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Irish Roots",
+      "date": "2026-05-28",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kurhaus – Friedrich-von-Thiersch-Saal",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=165179",
+      "descriptionDe": "Daniel Hope und die irische Kultur verbindet eine lange, gemeinsame Familiengeschichte. Die grüne Insel, reich an Traditionen, Legenden und Musik, hat den international gefeierten Geiger seit jeher fasziniert. Es war sein Urgroßvater väterlicherseits, der ihm die Liebe zu Irland vermittelte – eine Sehnsucht nach …",
+      "rawType": "Konzerte / Musik Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "children",
+        "concert"
+      ],
+      "tags": [
+        "children",
+        "concert"
+      ],
+      "type": "concert",
+      "title": "Irish Roots",
+      "description": "Daniel Hope und die irische Kultur verbindet eine lange, gemeinsame Familiengeschichte. Die grüne Insel, reich an Traditionen, Legenden und Musik, hat den international gefeierten Geiger seit jeher fasziniert. Es war sein Urgroßvater väterlicherseits, der ihm die Liebe zu Irland vermittelte – eine Sehnsucht nach …"
+    },
+    {
+      "id": "info-networking-event-167001-2026-05-28T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Mr. May und das Flüstern der Ewigkeit",
+      "date": "2026-05-28",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Caligari FilmBühne",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167001",
+      "descriptionDe": "GB/I 2013, 92 Min., FSK: ab 12, DF John May ist ein Mensch der besonderen Art: ein Einzelgänger, penibel, akribisch, aber mit einem großen Herz für andere. Mit wahrer Engelsgeduld kümmert er sich als \"Funeral Officer\" im Auftrag der Londoner Stadtverwaltung um die würdevolle Beerdigung einsam verstorbener Menschen. …",
+      "rawType": "Kino Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "kino"
+      ],
+      "tags": [
+        "kino"
+      ],
+      "type": "kino",
+      "title": "Mr. May und das Flüstern der Ewigkeit",
+      "description": "GB/I 2013, 92 Min., FSK: ab 12, DF John May ist ein Mensch der besonderen Art: ein Einzelgänger, penibel, akribisch, aber mit einem großen Herz für andere. Mit wahrer Engelsgeduld kümmert er sich als \"Funeral Officer\" im Auftrag der Londoner Stadtverwaltung um die würdevolle Beerdigung einsam verstorbener Menschen. …"
+    },
+    {
+      "id": "info-networking-event-166803-2026-05-28T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Noche Mágica - Zauberkunst hautnah in Wiesbaden",
+      "date": "2026-05-28",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Sombrero Latino",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166803",
+      "descriptionDe": "Wir laden Sie ein, mit uns einen Abend voller Zauberkunst in der Region Mainz-Wiesbaden zu erleben. Kommen Sie zu uns und vergessen Sie für ein paar Stunden die Realität, verlieren Sie sich in der Phantasie und vor allem: staunen Sie. Wir möchten Sie entführen in eine wunderbar magische Welt der Illusionen, Träume …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Noche Mágica - Zauberkunst hautnah in Wiesbaden",
+      "description": "Wir laden Sie ein, mit uns einen Abend voller Zauberkunst in der Region Mainz-Wiesbaden zu erleben. Kommen Sie zu uns und vergessen Sie für ein paar Stunden die Realität, verlieren Sie sich in der Phantasie und vor allem: staunen Sie. Wir möchten Sie entführen in eine wunderbar magische Welt der Illusionen, Träume …"
+    },
+    {
+      "id": "info-networking-event-167493-2026-05-28T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Schmetterling",
+      "date": "2026-05-28",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Galli Theater",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167493",
+      "descriptionDe": "Ein Abend voller Verwandlung, tolldreister Figuren und eine Menge Erkenntnis. Die Schauspielerin Viviane Hanna springt hinein ins Leben. Doch überall wird sie konfrontiert mit vorgegebenen Rollenmustern wie Kleidungsidealen, politischen Meinungen, und das typische Bild: So muss die ideale Frau sein. Immer wieder …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Schmetterling",
+      "description": "Ein Abend voller Verwandlung, tolldreister Figuren und eine Menge Erkenntnis. Die Schauspielerin Viviane Hanna springt hinein ins Leben. Doch überall wird sie konfrontiert mit vorgegebenen Rollenmustern wie Kleidungsidealen, politischen Meinungen, und das typische Bild: So muss die ideale Frau sein. Immer wieder …"
+    },
+    {
+      "id": "info-networking-event-162454-2026-05-28T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Stephan Bauer „Am Ende der Nerven und noch so viel Ehe übrig“ - Kabarett",
+      "date": "2026-05-28",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "thalhaus Theater",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=162454",
+      "descriptionDe": "Nach 20 Jahren Ehe stellt sich jeder die Frage „War es das jetzt schon? Wie lange dauert das denn noch? Was ist aus meinen Träumen geworden, wenn mir mein Ehepartner nichts mehr zu sagen hat - außer „nimm deine Tabletten.“ Das Geheimnis einer glücklichen Ehe ist offenbar ein Geheimnis. Weshalb es ja „hei-raten“ …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.692Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Stephan Bauer „Am Ende der Nerven und noch so viel Ehe übrig“ - Kabarett",
+      "description": "Nach 20 Jahren Ehe stellt sich jeder die Frage „War es das jetzt schon? Wie lange dauert das denn noch? Was ist aus meinen Träumen geworden, wenn mir mein Ehepartner nichts mehr zu sagen hat - außer „nimm deine Tabletten.“ Das Geheimnis einer glücklichen Ehe ist offenbar ein Geheimnis. Weshalb es ja „hei-raten“ …"
+    },
+    {
+      "id": "info-networking-event-167080-2026-05-29T12:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Biebricher Höfefest",
+      "date": "2026-05-29",
+      "time": "12:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Wiesbaden-Biebrich",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167080",
+      "descriptionDe": "Beliebtes Stadtteilfest mit zwanzig Bands, DJs und Musikern, Flohmärkten, Oldtimer Shuttle-Bus, Stadtteilrundgänge, Stempeljagd und wie immer Eintritt kostenfrei. - Biebricher Höfefest 2026 vom 29. bis 31. Mai 2026 - Ein Wochenende voller Musik, Kultur und Miteinander in Wiesbadens lebendigsten und größten …",
+      "rawType": "Konzerte / Musik Hoffeste / Kulinarien",
+      "exportedAt": "2026-05-27T09:59:41.694Z",
+      "rawCategoryHints": [
+        "fest",
+        "concert"
+      ],
+      "tags": [
+        "fest",
+        "concert"
+      ],
+      "type": "concert",
+      "title": "Biebricher Höfefest",
+      "description": "Beliebtes Stadtteilfest mit zwanzig Bands, DJs und Musikern, Flohmärkten, Oldtimer Shuttle-Bus, Stadtteilrundgänge, Stempeljagd und wie immer Eintritt kostenfrei. - Biebricher Höfefest 2026 vom 29. bis 31. Mai 2026 - Ein Wochenende voller Musik, Kultur und Miteinander in Wiesbadens lebendigsten und größten …"
+    },
+    {
+      "id": "info-networking-event-167418-2026-05-29T13:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Musterausstellung Belle Wi: Tag der offenen Tür",
+      "date": "2026-05-29",
+      "time": "13:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Musterausstellung Belle Wi",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167418",
+      "descriptionDe": "Die Musterausstellung Belle Wi feiert ihr 10-jähriges Bestehen und lädt aus diesem Anlass zu einem Tag der offenen Tür ein. Besucherinnen und Besucher erwartet ein vielfältiges Programm rund um Mobilität, Sicherheit, Digitalisierung und barrierefreies Wohnen. Bei einem Bewegungs-Parcours kann die Geschicklichkeit …",
+      "rawType": "Familien Senioren",
+      "exportedAt": "2026-05-27T09:59:41.694Z",
+      "rawCategoryHints": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "type": "children",
+      "title": "Musterausstellung Belle Wi: Tag der offenen Tür",
+      "description": "Die Musterausstellung Belle Wi feiert ihr 10-jähriges Bestehen und lädt aus diesem Anlass zu einem Tag der offenen Tür ein. Besucherinnen und Besucher erwartet ein vielfältiges Programm rund um Mobilität, Sicherheit, Digitalisierung und barrierefreies Wohnen. Bei einem Bewegungs-Parcours kann die Geschicklichkeit …"
+    },
+    {
+      "id": "info-networking-event-166943-2026-05-29T15:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Garten Taten — Eine offene Gartenwerkstatt zur Einstimmung ins Wochenende (Mitmachaktion)",
+      "date": "2026-05-29",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Schloss Freudenberg",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166943",
+      "descriptionDe": "Mit Lust & Laune gemeinsam im Garten arbeiten. Büro, Computer oder Klassenzimmer hinter mir lassen. Im Einklang mit Jahreszeit, Erde, Pflanzen und all den anderen Wesen. Und merken: an Gesundheit, Lebendigkeit, Vielfalt und Schönheit des Gartens habe ich mit geschaffen. Und bin dabei selber lebendiger (und irgendwie …",
+      "rawType": "Natur und Umwelt Umwelt",
+      "exportedAt": "2026-05-27T09:59:41.694Z",
+      "rawCategoryHints": [
+        "master_class"
+      ],
+      "tags": [
+        "master_class"
+      ],
+      "type": "master_class",
+      "title": "Garten Taten — Eine offene Gartenwerkstatt zur Einstimmung ins Wochenende (Mitmachaktion)",
+      "description": "Mit Lust & Laune gemeinsam im Garten arbeiten. Büro, Computer oder Klassenzimmer hinter mir lassen. Im Einklang mit Jahreszeit, Erde, Pflanzen und all den anderen Wesen. Und merken: an Gesundheit, Lebendigkeit, Vielfalt und Schönheit des Gartens habe ich mit geschaffen. Und bin dabei selber lebendiger (und irgendwie …"
+    },
+    {
+      "id": "info-networking-event-166800-2026-05-29T15:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "StadtteilLesen im Westend",
+      "date": "2026-05-29",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Georg-Buch-Haus",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166800",
+      "descriptionDe": "Auch in diesem Jahr organisieren Bildungsbüro und lokale Kooperationspartnerinnen und -partner ein Lesefestival im Wiesbadener Westend. Ziel ist es, bei Kindern, Jugendlichen und Erwachsenen die Lust am Lesen zu wecken. Die Veranstaltung findet am Freitag, den 29. Mai, von 15 bis 18 Uhr statt, diesmal konzentriert …",
+      "rawType": "Kinder / Jugendliche Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.694Z",
+      "rawCategoryHints": [
+        "children",
+        "opera",
+        "fest"
+      ],
+      "tags": [
+        "children",
+        "opera",
+        "fest"
+      ],
+      "type": "opera",
+      "title": "StadtteilLesen im Westend",
+      "description": "Auch in diesem Jahr organisieren Bildungsbüro und lokale Kooperationspartnerinnen und -partner ein Lesefestival im Wiesbadener Westend. Ziel ist es, bei Kindern, Jugendlichen und Erwachsenen die Lust am Lesen zu wecken. Die Veranstaltung findet am Freitag, den 29. Mai, von 15 bis 18 Uhr statt, diesmal konzentriert …"
+    },
+    {
+      "id": "info-networking-event-167010-2026-05-29T15:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Hundeartige und Katzenverwandte im Fokus - Führung zu den Raubtieren (Exkursion)",
+      "date": "2026-05-29",
+      "time": "15:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Tier- und Pflanzenpark Fasanerie",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167010",
+      "descriptionDe": "Wir lernen die faszinierende Welt der Raubtiere näher kennen. Im Mittelpunkt stehen die Hundeartigen und die Katzenartigen. An ausgewählten Tierarten werden Gemeinsamkeiten, Unterschiede und spannende Anpassungsstrategien vermittelt. Die Führung zeigt, wie vielfältig diese Tiergruppen sind und welche ökologische …",
+      "rawType": "Natur und Umwelt Umwelt",
+      "exportedAt": "2026-05-27T09:59:41.694Z",
+      "rawCategoryHints": [
+        "course",
+        "excursion"
+      ],
+      "tags": [
+        "course",
+        "excursion"
+      ],
+      "type": "course",
+      "title": "Hundeartige und Katzenverwandte im Fokus - Führung zu den Raubtieren (Exkursion)",
+      "description": "Wir lernen die faszinierende Welt der Raubtiere näher kennen. Im Mittelpunkt stehen die Hundeartigen und die Katzenartigen. An ausgewählten Tierarten werden Gemeinsamkeiten, Unterschiede und spannende Anpassungsstrategien vermittelt. Die Führung zeigt, wie vielfältig diese Tiergruppen sind und welche ökologische …"
+    },
+    {
+      "id": "info-networking-event-167011-2026-05-29T16:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Führung durch den Sortengarten Medenbach - Vielfalt mit 160 Apfelsorten (Exkursion)",
+      "date": "2026-05-29",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": null,
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167011",
+      "descriptionDe": "Wir erfahren Wissenswertes über die Geschichte des Streuobstes, seinen ökologischen Wert, Interessantes zu Obstsorten und Informationen zur Apfelallergie. Natürlich gibt es auch Hinweise zur Pflege und Tipps, wo ausgewählte Sorten erhältlich sind. Veranstaltung im Rahmen der Wiesbadener Wochen der biologischen …",
+      "rawType": "Natur und Umwelt Umwelt",
+      "exportedAt": "2026-05-27T09:59:41.694Z",
+      "rawCategoryHints": [
+        "course",
+        "excursion"
+      ],
+      "tags": [
+        "course",
+        "excursion"
+      ],
+      "type": "course",
+      "title": "Führung durch den Sortengarten Medenbach - Vielfalt mit 160 Apfelsorten (Exkursion)",
+      "description": "Wir erfahren Wissenswertes über die Geschichte des Streuobstes, seinen ökologischen Wert, Interessantes zu Obstsorten und Informationen zur Apfelallergie. Natürlich gibt es auch Hinweise zur Pflege und Tipps, wo ausgewählte Sorten erhältlich sind. Veranstaltung im Rahmen der Wiesbadener Wochen der biologischen …"
+    },
+    {
+      "id": "info-networking-event-161868-2026-05-29T16:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Schnuppertour Wiesbaden",
+      "date": "2026-05-29",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Tourist Information",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=161868",
+      "descriptionDe": "Zeitweilige Schnuppertour durch Wiesbaden Ihr seid das erste Mal in Wiesbaden? Dann ist unsere Schnuppertour genau das richtige für Euch! Unsere Einsteigerführung bietet Euch eine gute Möglichkeit, die Highlights der Stadt in einer guten Stunde, zu Fuß, kennenzulernen. Die wichtigsten Highlights in einer …",
+      "rawType": "Führungen Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.694Z",
+      "rawCategoryHints": [
+        "excursion"
+      ],
+      "tags": [
+        "excursion"
+      ],
+      "type": "excursion",
+      "title": "Schnuppertour Wiesbaden",
+      "description": "Zeitweilige Schnuppertour durch Wiesbaden Ihr seid das erste Mal in Wiesbaden? Dann ist unsere Schnuppertour genau das richtige für Euch! Unsere Einsteigerführung bietet Euch eine gute Möglichkeit, die Highlights der Stadt in einer guten Stunde, zu Fuß, kennenzulernen. Die wichtigsten Highlights in einer …"
+    },
+    {
+      "id": "info-networking-event-167419-2026-05-29T16:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Tiny Friday - Schelmengraben Demokratiesalat",
+      "date": "2026-05-29",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Stadtteilzentrum Schelmengraben",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167419",
+      "descriptionDe": "Austausch zwischen Bewohner:innen und Kommunalpolitik im Mittelpunkt. Unter dem Motto „Demokratiesalat - Gemeinsam Schnippeln und Reden mit dem Ortsbeirat“ sind Menschen aus dem Stadtteil eingeladen, gemeinsam Salate zuzubereiten und in lockerer Atmosphäre miteinander ins Gespräch zu kommen. Die Mitmach-Aktion findet …",
+      "rawType": "Sonstiges",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Tiny Friday - Schelmengraben Demokratiesalat",
+      "description": "Austausch zwischen Bewohner:innen und Kommunalpolitik im Mittelpunkt. Unter dem Motto „Demokratiesalat - Gemeinsam Schnippeln und Reden mit dem Ortsbeirat“ sind Menschen aus dem Stadtteil eingeladen, gemeinsam Salate zuzubereiten und in lockerer Atmosphäre miteinander ins Gespräch zu kommen. Die Mitmach-Aktion findet …"
+    },
+    {
+      "id": "info-networking-event-167420-2026-05-29T16:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Ann-Kathrin Peuthen-Künstlerinnengespräch",
+      "date": "2026-05-29",
+      "time": "16:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Büchergilde Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167420",
+      "descriptionDe": "Die Illustratorin Ann-Kathrin Peuthen präsentiert ihre eindrucksvollen Schwarz-Weiß-Illustrationen in den japanischen Kriminalromanen von Seishi Yokomizo. Gerade neu erschienen bei der Büchergilde ist der Band 3:»Der Inugami-Fluch«. Ann-Kathrin Peuthen wird uns einiges über den Entstehungsprozess dieser …",
+      "rawType": "Medien und Kommunikation Vorträge / Literatur",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "tags": [
+        "other"
+      ],
+      "type": "other",
+      "title": "Ann-Kathrin Peuthen-Künstlerinnengespräch",
+      "description": "Die Illustratorin Ann-Kathrin Peuthen präsentiert ihre eindrucksvollen Schwarz-Weiß-Illustrationen in den japanischen Kriminalromanen von Seishi Yokomizo. Gerade neu erschienen bei der Büchergilde ist der Band 3:»Der Inugami-Fluch«. Ann-Kathrin Peuthen wird uns einiges über den Entstehungsprozess dieser …"
+    },
+    {
+      "id": "info-networking-event-167002-2026-05-29T18:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Denn dieses Leben lebst nur du",
+      "date": "2026-05-29",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Caligari FilmBühne",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167002",
+      "descriptionDe": "D 2025, 80 Min., FSK: ab 12 Im konservativ geprägten Südwesten Deutschlands stellen sich vier Menschen einer elementaren Herausforderung, um den Weg zu einem glücklicheren Leben zu finden. Dabei ändert sich alles für sie: ihr Name, ihr Geschlecht, ihr einzigartiges Leben. An einem Punkt ihres Lebens wussten sie …",
+      "rawType": "Kino Online-Buchung",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "kino"
+      ],
+      "tags": [
+        "kino"
+      ],
+      "type": "kino",
+      "title": "Denn dieses Leben lebst nur du",
+      "description": "D 2025, 80 Min., FSK: ab 12 Im konservativ geprägten Südwesten Deutschlands stellen sich vier Menschen einer elementaren Herausforderung, um den Weg zu einem glücklicheren Leben zu finden. Dabei ändert sich alles für sie: ihr Name, ihr Geschlecht, ihr einzigartiges Leben. An einem Punkt ihres Lebens wussten sie …"
+    },
+    {
+      "id": "info-networking-event-167357-2026-05-29T19:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "A Rendezvous with Peppone",
+      "date": "2026-05-29",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kurhaus Wiesbaden",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167357",
+      "descriptionDe": "Mit „A RENDEZVOUS WITH PEPPONE“ erwartet Wiesbaden Ende Mai ein außergewöhnliches Kunst- und Lifestyle-Event im historischen Kurhaus Wiesbaden. Am Freitag, den 29. Mai 2026, sowie am Samstag, den 30. Mai 2026, präsentiert der international renommierte Pop-Art-Künstler PEPPONE persönlich seine neuesten Werke und …",
+      "rawType": "Ausstellungen Kreative",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "fest"
+      ],
+      "tags": [
+        "fest"
+      ],
+      "type": "fest",
+      "title": "A Rendezvous with Peppone",
+      "description": "Mit „A RENDEZVOUS WITH PEPPONE“ erwartet Wiesbaden Ende Mai ein außergewöhnliches Kunst- und Lifestyle-Event im historischen Kurhaus Wiesbaden. Am Freitag, den 29. Mai 2026, sowie am Samstag, den 30. Mai 2026, präsentiert der international renommierte Pop-Art-Künstler PEPPONE persönlich seine neuesten Werke und …"
+    },
+    {
+      "id": "info-networking-event-167126-2026-05-29T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "An den Grenzen des Pulses",
+      "date": "2026-05-29",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kunsthaus",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=167126",
+      "descriptionDe": "Live-Konzert mit immersiver Elektronik und interaktiver Installation Irene de Luis Ballesteros (Saxophon) Olga Pacheco Lagutienko (Violine) Juan David Bermúdez (Ton/Mischung)",
+      "rawType": "Konzerte / Musik Ausstellungen",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "concert"
+      ],
+      "tags": [
+        "concert"
+      ],
+      "type": "concert",
+      "title": "An den Grenzen des Pulses",
+      "description": "Live-Konzert mit immersiver Elektronik und interaktiver Installation Irene de Luis Ballesteros (Saxophon) Olga Pacheco Lagutienko (Violine) Juan David Bermúdez (Ton/Mischung)"
+    },
+    {
+      "id": "info-networking-event-165516-2026-05-29T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Leonce und Lena",
+      "date": "2026-05-29",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Hessisches Staatstheater",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=165516",
+      "descriptionDe": "Lustspiel von Georg Büchner König Peter möchte die Macht an seinen Sohn Leonce übergeben. Doch Leonce, von einer melancholischen Langeweile gelähmt, lehnt jedes gesellschaftliche Amt ab. Als seine Hochzeit mit der unbekannten Prinzessin Lena ansteht, flieht Leonce nach Italien. Auch Lena will ihr Leben selbst …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Leonce und Lena",
+      "description": "Lustspiel von Georg Büchner König Peter möchte die Macht an seinen Sohn Leonce übergeben. Doch Leonce, von einer melancholischen Langeweile gelähmt, lehnt jedes gesellschaftliche Amt ab. Als seine Hochzeit mit der unbekannten Prinzessin Lena ansteht, flieht Leonce nach Italien. Auch Lena will ihr Leben selbst …"
+    },
+    {
+      "id": "info-networking-event-163561-2026-05-29T19:30:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Pamela O´Neal // Spirit of Disco",
+      "date": "2026-05-29",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Theater im Pariser Hof",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=163561",
+      "descriptionDe": "Herzlich willkommen zu unserer lebhaften Disco-Show! Wir begeben uns auf eine groovige Zeitreise zurück in die fabelhaften 1970er Jahre, ein Jahrzehnt, das die Tanzflächen auf der ganzen Welt geprägt hat. Disco war mehr als nur ein Musikgenre; es war ein kulturelles Phänomen, dass die Menschen zusammenbrachte und …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "spektakl",
+        "concert"
+      ],
+      "tags": [
+        "spektakl",
+        "concert"
+      ],
+      "type": "concert",
+      "title": "Pamela O´Neal // Spirit of Disco",
+      "description": "Herzlich willkommen zu unserer lebhaften Disco-Show! Wir begeben uns auf eine groovige Zeitreise zurück in die fabelhaften 1970er Jahre, ein Jahrzehnt, das die Tanzflächen auf der ganzen Welt geprägt hat. Disco war mehr als nur ein Musikgenre; es war ein kulturelles Phänomen, dass die Menschen zusammenbrachte und …"
+    },
+    {
+      "id": "info-networking-event-166224-2026-05-29T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "68er Spätlese",
+      "date": "2026-05-29",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Galli Theater",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=166224",
+      "descriptionDe": "Was haben Sie damals gemacht, 1968? Gelacht, geweint, getanzt, gesungen…? Drei Alt-68er treffen sich im Heute wieder und erinnern sich an ihre verrückte Zeit 1968: Mit ihren Gesangskünsten kämpfen Eddy und Rollin um die Gunst von Susi, die durch ihren stetigen Sinneswandel immer wieder frischen Wind in den alten …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "spektakl",
+        "fest"
+      ],
+      "tags": [
+        "spektakl",
+        "fest"
+      ],
+      "type": "spektakl",
+      "title": "68er Spätlese",
+      "description": "Was haben Sie damals gemacht, 1968? Gelacht, geweint, getanzt, gesungen…? Drei Alt-68er treffen sich im Heute wieder und erinnern sich an ihre verrückte Zeit 1968: Mit ihren Gesangskünsten kämpfen Eddy und Rollin um die Gunst von Susi, die durch ihren stetigen Sinneswandel immer wieder frischen Wind in den alten …"
+    },
+    {
+      "id": "info-networking-event-164345-2026-05-29T20:00:00+02:00",
+      "sourceName": "Landeshauptstadt Wiesbaden Veranstaltungskalender",
+      "sourceUrl": "https://www.wiesbaden.de/veranstaltungen",
+      "titleDe": "Der Videobeweis",
+      "date": "2026-05-29",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "Kammerspiele Wiesbaden e.V.",
+      "url": "https://www.wiesbaden.de/info-networking-event?id=164345",
+      "descriptionDe": "Was, wenn jemand Sie heimlich beobachtet? In Ihrer Küche. Jeden Tag. Seit Monaten. Und was, wenn Sie plötzlich zusehen müssten, wie ehrlich – oder unehrlich – Ihr eigenes Leben wirklich ist? Justine und Jean-Marc sind seit 15 Jahren verheiratet. Alles scheint in bester Ordnung. Doch dann erhalten sie eine …",
+      "rawType": "Theater / Kleinkunst",
+      "exportedAt": "2026-05-27T09:59:41.697Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "tags": [
+        "spektakl"
+      ],
+      "type": "spektakl",
+      "title": "Der Videobeweis",
+      "description": "Was, wenn jemand Sie heimlich beobachtet? In Ihrer Küche. Jeden Tag. Seit Monaten. Und was, wenn Sie plötzlich zusehen müssten, wie ehrlich – oder unehrlich – Ihr eigenes Leben wirklich ist? Justine und Jean-Marc sind seit 15 Jahren verheiratet. Alles scheint in bester Ordnung. Doch dann erhalten sie eine …"
+    }
+  ]
+}

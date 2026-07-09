@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Afisha Rhein-Main</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Afisha Rhein-Main</h1>
+        <p id="sourceSummary">Загрузка мероприятий...</p>
+      </div>
+      <a class="export-link" href="export/index.json">JSON</a>
+    </header>
+
+    <main>
+      <section class="filters" aria-label="Фильтры">
+        <label>
+          Дата с
+          <input id="dateFrom" type="date">
+        </label>
+        <label>
+          Дата по
+          <input id="dateTo" type="date">
+        </label>
+        <div class="filter-field category-filter">
+          <span>Категории</span>
+          <div id="categorySelect" class="multi-select" data-filter="include"></div>
+        </div>
+        <div class="filter-field category-filter">
+          <span>Исключить категории</span>
+          <div id="excludeCategorySelect" class="multi-select" data-filter="exclude"></div>
+        </div>
+        <label>
+          Город
+          <select id="cityFilter">
+            <option value="">Все города</option>
+          </select>
+        </label>
+        <button id="resetFilters" type="button">Сбросить</button>
+      </section>
+
+      <section class="status-row">
+        <strong id="resultCount">0 мероприятий</strong>
+        <span id="periodLabel"></span>
+      </section>
+
+      <section id="events" class="events" aria-live="polite"></section>
+      <p id="emptyState" class="empty" hidden>По выбранным фильтрам ничего не найдено.</p>
+    </main>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

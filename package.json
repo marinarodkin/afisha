@@ -1,0 +1,26 @@
+{
+  "name": "afisha",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "обновить источники": "node scripts/update-sources.mjs",
+    "update:sources": "node scripts/update-sources.mjs",
+    "build:personal": "node scripts/build-personal-index.mjs",
+    "scrape": "node scripts/scrape.mjs",
+    "scrape:raw": "node scripts/scrape-raw.mjs",
+    "merge": "node scripts/merge-events.mjs",
+    "enrich:api": "node scripts/enrich-openai.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "npx http-server public -p 4173 -a 127.0.0.1",
+    "test": "node scripts/test-workflow.mjs && node scripts/test.mjs"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "playwright": "^1.53.0"
+  },
+  "dependencies": {
+    "openai": "^6.39.0",
+    "yaml": "^2.9.0"
+  }
+}

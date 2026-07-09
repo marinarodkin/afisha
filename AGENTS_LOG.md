@@ -1,0 +1,115 @@
+# AGENTS_LOG
+
+## 2026-07-09
+
+- Добавлен personal preference layer для личной афиши: новые файлы `userPreferences.json` и `feedbackLog.json`.
+- Добавлен модуль `scripts/lib/personalization.mjs`, который считает персональный score события, фильтрует нежелательные темы по тегам/ключевым словам и поддерживает простые learned mappings вроде `salsa -> bachata / latin dance`.
+- Добавлен генератор `scripts/build-personal-index.mjs`, который строит `personalIndex.json` из `sourceBase.json` и пользовательских предпочтений.
+- `scripts/update-sources.mjs` теперь после обновления `sourceBase.json` автоматически пересобирает `personalIndex.json`.
+- `scripts/build.mjs` теперь публикует `public/data/personal-index.json` рядом с общей базой `public/data/events.json`.
+- В `package.json` добавлена команда `npm run build:personal`.
+- В `scripts/test-workflow.mjs` добавлены unit-тесты на personal-layer: исключение по тегам, исключение по ключевым словам, learned mappings и построение `personalIndex`.
+- Выполнены `npm run build:personal`, `npm run build`, локальный `npm test`; для smoke-test установлен browser через `npx playwright install chromium`. Все проверки прошли.
+- На текущей базе `personalIndex.json` содержит 36 персонально релевантных событий и готов для дальнейшей интеграции с Hermes skill и локальным source research.
+
+## 2026-05-29
+
+- Для русскоязычных источников добавлен city whitelist: `Frankfurt`, `Mainz`, `Wiesbaden`, `Köln`, `Karlsruhe`. В `scripts/lib/source-workflow.mjs` и парсерах события из других городов, например `Berlin` и `Istanbul`, теперь отбрасываются до попадания в `newSources.json`.
+- Очистил `sourceBase.json` от уже собранных русскоязычных событий вне whitelist: база уменьшилась с 605 до 560 карточек, удалено 45 событий.
+- Обновлены `README.md`, `docs/UPDATE_WORKFLOW.md` и `sourses-status.md`, чтобы правило было зафиксировано в документации.
+- Выполнены `npm run build`, локальный `npm test`, синхронизация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`: 560 карточек, `kino` - 76, `excursion + master_class` - 141, диапазон `2026-05-28` - `2026-05-29` - 30, мобильный viewport - 30.
+- Прогнан Mainz-срез источников `source_offset=11 source_amount=6` с `MONTH=1`: `Mainz Tourismus`, `Mainz.de`, `Rausgegangen Mainz`, `Staatstheater Mainz` и `Meinestadt Mainz` не дали новых событий; `sourceBase.json` остался на 560 карточках.
+- Добавлен отдельный Mainz GraphQL parser: `scripts/lib/mainz.mjs` и `scrapeMainzCalendar()` в `scripts/scrape-raw.mjs`. Он ходит в `https://www.mainz.de/api/graphql/` по `SearchInput` и вытаскивает `EventTeaser` из официального календаря.
+- Добавлен unit-test на Mainz search payload в `scripts/test-workflow.mjs`.
+- Проверка на живом Mainz API показала 914 raw events в `MONTH=1` окне; полный AI-прогон был запущен и затем остановлен, чтобы не жечь API на 859 событий в этой сессии.
+
+## 2026-05-27
+
+- Склонирован репозиторий `https://github.com/marinarodkin/afisha.git` в `/home/ubuntu/afisha`.
+- Прочитан `CURRENT_TASK.md`, уточнены требования по фазе 1, статическому фронтенду и публикации на `afisha.softdock.de`.
+- Проверена структура VPS: найден nginx-конфиг `/etc/nginx/sites-available/static-sites.conf`, публичные сайты размещаются в `/var/www/sites`.
+- Исправлена синтаксическая ошибка в `sources.json`: добавлена пропущенная запятая перед источником `https://biletkartina.tv`.
+- Добавлены скрипты `scripts/scrape.mjs`, `scripts/build.mjs`, `scripts/test.mjs`.
+- Добавлен простой статический фронтенд в `public/` с карточками мероприятий и фильтрами по дате, типу и городу.
+- Выполнен `SOURCES_AMOUNT=2 npm run scrape`: первый источник экспортировал 835 событий до `2026-08-27`, второй источник экспортировал 0 событий как справочная страница без датированных мероприятий.
+- Выполнен `npm run build`: данные скопированы в `public/data/events.json` и `public/export/`.
+- Выполнен локальный Playwright smoke-test: 835 карточек, фильтр `kino` дал 84 карточки, диапазон июня дал 488 карточек, мобильный viewport отрендерил 488 карточек.
+- Сайт опубликован на VPS в `/var/www/sites/afisha/public`.
+- Настроены nginx virtual host для `afisha.softdock.de` на порту `8090` и Caddy reverse proxy для HTTPS.
+- Проверен `https://afisha.softdock.de`: HTTP 200, JSON содержит 835 событий, remote Playwright smoke-test прошел с теми же результатами.
+- Обновлен `scripts/build.mjs`: после сборки выставляет права `755` для директорий и `644` для файлов в `public/`, чтобы nginx мог читать опубликованные файлы после rsync.
+- Повторно выполнены `npm run build`, публикация через rsync и remote Playwright smoke-test на `https://afisha.softdock.de`; тест прошел.
+- Добавлен `category-exclusions.json` с категорией `wochenmarkt`.
+- Обновлен скрапер: события получают массив `tags`, добавлены категории `museum` и `wochenmarkt`, `type` оставлен как основная категория для совместимости.
+- Добавлены поля перевода: `titleDe`, `titleRu`, `descriptionDe`, `descriptionRu`; отображаемый `title` формируется как `немецкий / русский`, `description` хранится на русском.
+- Кэш переводов перенесен в локальную `.cache/translations-cache.json`, чтобы он не публиковался в `export/`.
+- Обновлен фронтенд: фильтр категорий стал мультивыбором через чекбоксы, исключенные категории не показываются.
+- Перегенерирован экспорт: всего 835 событий, из них 70 имеют тег `wochenmarkt`; на сайте показывается 765 событий после исключения.
+- Повторно выполнены сборка, публикация и remote Playwright smoke-test на `https://afisha.softdock.de`: 765 карточек, `kino` - 84, `spektakl + opera` - 214, июнь - 467, мобильный viewport - 467.
+- Перестроен workflow: `scrape-raw` складывает сырые источники в `export/raw/`, `merge` пишет `export/work/merged-events.json`, `enrich:codex` запускает `codex exec` и пишет `export/work/enriched-events.json`, финальный файл сайта - `export/index.json`.
+- Добавлен YAML-промпт `prompts/enrich-events.yaml` для перевода и AI-классификации.
+- Добавлены категории `children`, `master_class`, `course`, `excursion`; фронтенд умеет показывать и фильтровать их через мультивыбор.
+- В `merge-events.mjs` добавлена пустая функция `deduplicateEvents()` для будущей дедупликации; сейчас она возвращает события без изменений.
+- Для теста установлен `EVENT_LIMIT=50`: из 835 raw событий после исключения `wochenmarkt` осталось 765, в AI enrichment отправлено 50.
+- Попытки запустить `codex exec` с `gpt-4o-mini` и `gpt-4.1-mini` завершились ошибкой ChatGPT-backed Codex CLI: модели не поддерживаются. Успешный запуск выполнен через `codex exec` на дефолтной модели Codex CLI `gpt-5.5`.
+- Headless Codex выполнил перевод и классификацию 50 событий, результат прошел validation wrapper и записан в `export/index.json`.
+- Выполнены `npm run build`, публикация через rsync и remote Playwright smoke-test на `https://afisha.softdock.de`: 50 карточек, `kino` - 5, `excursion + master_class` - 16, диапазон 2026-05-28..2026-05-29 - 38, мобильный viewport - 38.
+- Основной enrichment переключен с `codex exec` на OpenAI API: добавлен `scripts/enrich-openai.mjs`, `npm run scrape` теперь вызывает `enrich:api`.
+- Добавлен пакет `openai`; API ключ берется из `OPENAI_API_KEY`, модель по умолчанию `gpt-4o-mini`, переопределение через `OPENAI_MODEL`.
+- API enrichment использует Responses API со Structured Outputs и строгой JSON-схемой, затем локальная валидация проверяет count/id/tags/type/title/description.
+- `npm run enrich:api` проверен без ключа: корректно падает с сообщением, что `OPENAI_API_KEY` не установлен. Полный API-запуск не выполнялся, потому что ключа нет в окружении VPS.
+- Скопирован `OPENAI_API_KEY` из `/home/ubuntu/transcript-python-bot/.env` в локальный `/home/ubuntu/afisha/.env`; значение ключа не выводилось, `.env` добавлен в `.gitignore`.
+- Удален headless Codex fallback: удален `scripts/enrich-codex.mjs`, удален npm script `enrich:codex`.
+- Все содержательные промпты перенесены в `prompts/enrich-events.yaml`: `system_prompt`, `user_prompt`, правила категорий и политики перевода/вывода.
+- API enrichment переключен на Chat Completions `response_format: json_schema` с батчем `ENRICH_BATCH_SIZE=1`; большой Responses-запрос и `json_object` батчи оказались слишком медленными/нестабильными.
+- Выполнен `npm run enrich:api` на `gpt-4o-mini`: 50 событий успешно обогащены через OpenAI API, результат записан в `export/index.json`.
+- Выполнены `npm run build`, локальный smoke-test, публикация через rsync и remote smoke-test на `https://afisha.softdock.de`: 50 карточек, `kino` - 5, `excursion + master_class` - 12, диапазон 2026-05-28..2026-05-29 - 38, мобильный viewport - 38.
+- Сохранена новая инструкция workflow в `docs/UPDATE_WORKFLOW.md`: raw sources в `rawSources/`, источник правды `sourceBase.json`, новые события `newSources.json`, исключения `exceptionCategories.json` и `exceptionAiTags.json`, `exceptedItems.json` для повторно исключенных событий.
+- Добавлена команда `npm run update:sources` и русский алиас `npm run "обновить источники"`.
+- Добавлен `scripts/lib/source-workflow.mjs` с ключом совпадения `date + time + venue + first 5 normalized title chars`, сбором новых событий без дублей, фильтрацией AI-исключений и append в `sourceBase.json`.
+- Добавлены unit-тесты `scripts/test-workflow.mjs` для дедупликации, исключений, проверки `sourceBase.json`, `newSources.json` и `exceptedItems.json`.
+- `scripts/scrape-raw.mjs` переведен на `rawSources/` и env `source_amount=2`, `ITEMS_FOR_TEST=100`, `MONTH=3`.
+- `scripts/enrich-openai.mjs` теперь читает и пишет `newSources.json`, все промпты остаются в `prompts/enrich-events.yaml`.
+- Выполнен `source_amount=2 ITEMS_FOR_TEST=100 MONTH=3 npm run update:sources`: raw 835 событий, после pre-AI фильтрации и лимита 100 событий отправлены в OpenAI API, 100 событий обогащены на `gpt-4o-mini`, 25 событий исключены, 75 добавлены в `sourceBase.json`.
+- Исправлен workflow: если AI снова поставил тег из `exceptionCategories.json` (`wochenmarkt`), событие удаляется после AI и добавляется в `exceptedItems.json`; в текущей базе удален 1 такой элемент.
+- Исправлен фронтенд: он больше не требует старые поля `startDate/endDate/sources`, сам выводит период из `sourceBase.json` и summary по текущей базе.
+- Выполнены локальные тесты после нового workflow: `npm test` прошел, 75 карточек, `kino` - 11, `excursion + master_class` - 29, диапазон 2026-05-28..2026-05-29 - 30, мобильный viewport - 30.
+- Выполнены `npm run build`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm run test`: 75 карточек, `kino` - 11, `excursion + master_class` - 29, диапазон 2026-05-28..2026-05-29 - 30, мобильный viewport - 30.
+- На фронтенде заменен список чекбоксов категорий на два dropdown-мультиселекта: `Категории` с первым пунктом `Все` и `Исключить категории` с первым пунктом `Ничего не исключать`.
+- Мультиселекты связаны: выбор категории автоматически сбрасывает список исключений, выбор исключения автоматически сбрасывает категории на `Все`.
+- Обновлен Playwright smoke-test: проверяет открытие dropdown, мультивыбор категорий, исключающий фильтр и взаимный сброс селектов.
+- Выполнены `npm run build`, локальный `npm test`, публикация в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`: 75 карточек, `kino` - 11, `excursion + master_class` - 29, исключение `kino` - 64, диапазон 2026-05-28..2026-05-29 - 30, мобильный viewport - 30.
+- Добавлены новые правила `categoryHints`: `church` для церковных мероприятий и `civic` для демонстраций, Pride и тем про меньшинства.
+- Обновлен YAML prompt `prompts/enrich-events.yaml`: добавлены `church` в категории и теги, расширено описание `civic`, а input/output теперь указывают на `newSources.json`.
+- Добавлен env `ENRICH_MAX_COMPLETION_TOKENS` в `scripts/enrich-openai.mjs`, чтобы управлять размером completion для более крупных батчей.
+- Выполнен `source_amount=5 ITEMS_FOR_TEST=100 MONTH=3 ENRICH_BATCH_SIZE=10 ENRICH_MAX_COMPLETION_TOKENS=8000 npm run update:sources`: raw 835 событий, 100 событий обогащены через OpenAI API, 5 событий исключены после AI, 95 добавлены в `sourceBase.json`, итоговый размер базы 170.
+- Проверка итоговой базы: `bad=0`, `hasChurch=true`, `hasCivic=false`.
+- Выполнены `npm run build`, локальный `npm test`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`: 170 карточек, `kino` - 27, `excursion + master_class` - 61, диапазон 2026-05-28..2026-05-29 - 30, мобильный viewport - 30.
+- Добавлен `source_offset` в `scripts/scrape-raw.mjs`, чтобы можно было брать следующую пачку источников из `sources.json`, а не только первые N.
+- `scrape-raw` теперь не падает на одном медленном источнике: проблемный источник сохраняется как пустой raw-файл с `notes`, а batch продолжается.
+- Выполнен `ENRICH_BATCH_SIZE=10 ENRICH_MAX_COMPLETION_TOKENS=8000 source_offset=5 source_amount=6 MONTH=1 ITEMS_FOR_TEST=100 npm run update:sources`: прогнаны следующие 6 источников, один источник с таймаутом был пропущен без падения batch, новых событий не нашлось, `sourceBase.json` остался на 170 событиях.
+- Выполнен полный прогон по всем 45 источникам с `source_offset=0`, `source_amount=45`, `MONTH=1`: raw 572 событий, в AI отправлено 100, 79 событий добавлены в `sourceBase.json`, 21 исключено после AI, итоговый размер базы 249.
+- `scrape-raw` теперь помечает проблемные источники как пустые raw-файлы с `notes` и продолжает batch; для длинного полного прогона это предотвращает падение всего пайплайна из-за одного `timeout` или `403`.
+- Выполнены `npm run build`, локальный `npm test`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`: 249 карточек, `kino` - 40, `excursion + master_class` - 89, диапазон 2026-05-28..2026-05-29 - 30, мобильный viewport - 30.
+- Добавлены реакции на карточках: `Лайк`, `Не мое`, фильтр `Избранные`, переключатель `Убрать не мое`; все состояние хранится в `localStorage`.
+- Реакции работают по стабильному ключу события, поэтому `Убрать не мое` скрывает и повторяющиеся карточки того же события.
+- Обновлен Playwright smoke-test: проверяет сохранение reactions в `localStorage`, переживание reload и работу фильтров `Избранные`/`Убрать не мое`.
+- Выполнены `npm run build`, локальный `npm test`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`: 339 карточек, `favoritesCount` 1, `afterHideDislikedCount` 338, остальные фильтры работают.
+- Заголовок карточки теперь кликабелен и ведет на `event.url`; кнопка `Открыть источник` удалена.
+- Источник события выводится отдельной строкой внизу карточки мелким шрифтом `12px` и показывается только если `sourceName` присутствует в данных.
+- Добавлены новые категории для AI-обогащения: `student_concert`, `arthouse_cinema`, `exhibition`.
+- Усилен prompt и sanitizing слой для `free` и языковых тегов: `free` теперь только при явном `kostenlos / kostenfrei / gratis / ohne Eintritt / Eintritt frei / free admission`, `lang_ru` и `lang_en` только при явном указании языка в немецком тексте.
+- Выполнена очистка опубликованной базы: ложные `free` и `lang_ru` теги удалены из `sourceBase.json`, база пересобрана и перепубликована.
+- Реакции на карточках оставлены icon-only: кнопки `Лайк` и `Не мое` рендерятся как outline/filled SVG справа в карточке, логика `localStorage`, `Избранные` и `Убрать не мое` сохранены.
+- Выполнен полный batch по уже собранным raw sources без нового scraping: `SKIP_SCRAPE=1`, `ITEMS_FOR_TEST=1000`, `source_amount=45`, `MONTH=1`. В enrichment ушло 148 событий, 131 событие добавлено в `sourceBase.json`, итоговый размер базы 470.
+- Выполнены `npm run build`, локальный `npm test`, публикация `public/` в `/var/www/sites/afisha/public/`; далее remote smoke-test на `https://afisha.softdock.de`.
+- Coverage audit по текущей базе: `sourceBase.json` содержит 470 событий, все из `Wiesbaden`, и все с `sourceName = Landeshauptstadt Wiesbaden Veranstaltungskalender`.
+- Coverage audit по `rawSources/`: из 45 файлов только `source-001.json` содержит события (572); остальные 44 файла либо пустые static-reference страницы, либо один таймаутовый источник. Сейчас `scripts/scrape-raw.mjs` реализует только специальный scraper для Wiesbaden, остальные источники идут через fallback и дают 0 dated events.
+- Добавлен отдельный Eltville scraper: `scripts/lib/eltville.mjs` парсит карточки с `image-with-text__headline` на `feste-events`, а `eventfinder.de/eltville/veranstaltungen/` парсится через JSON-LD `Event`/`ItemList` и pagination.
+- В `scripts/test-workflow.mjs` добавлены unit-тесты на Eltville cards, `1. Advent` диапазон и eventfinder JSON-LD.
+- Выполнен `source_offset=18 source_amount=5 MONTH=12 npm run update:sources`: raw 114 событий, после AI 70 релевантных событий добавлены в `sourceBase.json`, итоговый размер базы 540.
+- После Eltville прогонов coverage базы: `Wiesbaden` 473, `Eltville am Rhein` 45, `Oestrich-Winkel` 19, `Ingelheim am Rhein` 3. По источникам: `Landeshauptstadt Wiesbaden Veranstaltungskalender` 470, `Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein` 61, `Feste & Events Eltville am Rhein` 9.
+- Выполнены `npm run build`, локальный `npm test`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`: 540 карточек, `excursion + master_class` - 138, диапазон 2026-05-28..2026-05-29 - 30, мобильный viewport - 30.
+- Снят тестовый лимит `ITEMS_FOR_TEST=100`: теперь `ITEMS_FOR_TEST=0` означает без ограничения по количеству pre-AI событий, при этом `MONTH` продолжает ограничивать горизонт парсинга.
+- Выполнен `source_offset=23 source_amount=5 MONTH=1 npm run update:sources` уже без 100-item cap: batch по источникам `Taunus.info`, `Meinestadt Taunusstein`, `Reservix`, `Limburger Dommusik` и `Kalender Dommusik` дал 0 новых событий, база осталась на 540 событиях; при этом один источник получил timeout, один вернул 403, остальные были пустыми static-reference страницами.
+- Добавлены новые парсеры для `Limburger Dommusik`, `BiletKartina`, `Kontramarka`, `Frankfurt24` и `Artist Production`; выполнен полный `source_amount=45 MONTH=1` прогон по всем источникам: raw 679, в AI отправлено 95 событий, 79 релевантных оставлены, 16 исключены, `sourceBase.json` вырос до 605 событий. `npm run build`, локальный `npm test` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test` прошли после публикации в `/var/www/sites/afisha/public/`.

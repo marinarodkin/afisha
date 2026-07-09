@@ -1,0 +1,1322 @@
+{
+  "generatedAt": "2026-07-09T11:25:09.637Z",
+  "basedOnGeneratedAt": "2026-05-29T20:51:44.273Z",
+  "profile": "marina-personal-mvp",
+  "eventCount": 36,
+  "hiddenCount": 13,
+  "events": [
+    {
+      "id": "eventfinder-2971623-2026-09-18-20:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Freudenberger Konzert-Night mit Phil",
+      "titleRu": "Концертная ночь Фрейденбергера с Филом",
+      "title": "Freudenberger Konzert-Night mit Phil / Концертная ночь Фрейденбергера с Филом",
+      "date": "2026-09-18",
+      "time": "20:00",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Wiesbaden",
+      "venue": "wiesbaden",
+      "url": "https://www.eventfinder.de/veranstaltung/2971623/freudenberger-konzert-night-mit-phil-in-wiesbaden-am-2026-09-18-um-20-00-uhr/",
+      "descriptionDe": "Freudenberger Konzert-Night mit Phil",
+      "descriptionRu": "Концертная ночь Фрейденбергера с Филом",
+      "description": "Концертная ночь Фрейденбергера с Филом",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eltville-viva-la-musica-im-eltzer-hof-2026-08-22-all-day",
+      "sourceName": "Feste & Events Eltville am Rhein",
+      "sourceUrl": "https://www.eltville.de/freizeit-tourismus/kultur-veranstaltungen/feste-events/",
+      "titleDe": "Viva la Musica im Eltzer Hof",
+      "titleRu": "Вива ла Мусика в Эльцер Хоф",
+      "title": "Viva la Musica im Eltzer Hof / Вива ла Мусика в Эльцер Хоф",
+      "date": "2026-08-22",
+      "time": null,
+      "type": "fest",
+      "tags": [
+        "fest",
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "Eltville",
+      "url": null,
+      "descriptionDe": "22. und 23. August 2026 in Eltville (Open Air Konzerte, Oper und Swing)",
+      "descriptionRu": "22 и 23 августа 2026 года в Эльтвиле (открытые концерты, опера и свинг)",
+      "description": "22 и 23 августа 2026 года в Эльтвиле (открытые концерты, опера и свинг)",
+      "rawType": "Feste & Events",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.289Z",
+      "personalScore": 45,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "preferred-keyword:open air",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3258827-2026-10-31-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Soul Sisters - Die Show! Soul Klassiker hinreißend vorgetragen!",
+      "titleRu": "Сестры души - Шоу! Очаровательные классики соула!",
+      "title": "Soul Sisters - Die Show! Soul Klassiker hinreißend vorgetragen! / Сестры души - Шоу! Очаровательные классики соула!",
+      "date": "2026-10-31",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "soul sisters in oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/3258827/soul-sisters-in-oestrich-winkel-am-2026-10-31-um-19-30-uhr/",
+      "descriptionDe": "Dunja Koppenhöfer, Michelle Poole & Menna Mulugeta: Die SoulSisters nehmen Sie mit auf eine Klangreise durch die Historie der berühmten Vokal-Gruppen der 1960er Jahre bis heute und bestechen durch Entertainment der Extraklasse. Von Motown-Soul-Klassikern wie „You can’t hurry love“ über „Sisters A...",
+      "descriptionRu": "Дунья Коппенхёфер, Мишель Пул и Менна Мулугета: Сестры души приглашают вас в звуковое путешествие по истории знаменитых вокальных групп с 1960-х годов до наших дней и поражают высочайшим уровнем развлечений. От классиков соула Motown, таких как «You can’t hurry love», до «Sisters A...",
+      "description": "Дунья Коппенхёфер, Мишель Пул и Менна Мулугета: Сестры души приглашают вас в звуковое путешествие по истории знаменитых вокальных групп с 1960-х годов до наших дней и поражают высочайшим уровнем развлечений. От классиков соула Motown, таких как «You can’t hurry love», до «Sisters A...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 45,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "preferred-keyword:klassik",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168298-2026-07-10-19:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Queen Swings!",
+      "titleRu": "Квин Свингс!",
+      "title": "Queen Swings! / Квин Свингс!",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/3168298/queen-swings-in-oestrich-winkel-am-2026-07-10-um-19-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фоллрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фоллрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168300-2026-07-11-19:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Abel Selaocoe, Violoncello und Gesang",
+      "titleRu": "Абель Селаоко, виолончель и вокал",
+      "title": "Abel Selaocoe, Violoncello und Gesang / Абель Селаоко, виолончель и вокал",
+      "date": "2026-07-11",
+      "time": "19:00",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/3168300/abel-selaocoe-violoncello-und-gesang-in-oestrich-winkel-am-2026-07-11-um-19-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168353-2026-07-26-17:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Tunes & Tears",
+      "titleRu": "Мелодии и слёзы",
+      "title": "Tunes & Tears / Мелодии и слёзы",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168353/tunes-tears-in-eltville-am-rhein-am-2026-07-26-um-17-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168363-2026-08-02-17:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Timothy Ridout, Viola",
+      "titleRu": "Тимоти Ридоут, альт",
+      "title": "Timothy Ridout, Viola / Тимоти Ридоут, альт",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168363/timothy-ridout-viola-in-eltville-am-rhein-am-2026-08-02-um-17-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168243-2026-08-08-19:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Bidla Buh - „Die Abschiedstour“",
+      "titleRu": "Бидла Бух - «Прощальный тур»",
+      "title": "Bidla Buh - „Die Abschiedstour“ / Бидла Бух - «Прощальный тур»",
+      "date": "2026-08-08",
+      "time": "19:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "bidla buh in eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168243/bidla-buh-in-eltville-am-rhein-am-2026-08-08-um-19-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168306-2026-08-08-21:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Jazzrausch Bigband - „For Heaven’s Sake“",
+      "titleRu": "Джазрауш Бигбэнд - «Во имя небес»",
+      "title": "Jazzrausch Bigband - „For Heaven’s Sake“ / Джазрауш Бигбэнд - «Во имя небес»",
+      "date": "2026-08-08",
+      "time": "21:00",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "jazzrausch bigband in eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168306/jazzrausch-bigband-in-eltville-am-rhein-am-2026-08-08-um-21-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168245-2026-08-09-11:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Frau Dr. Crescendo auf der Suche nach",
+      "titleRu": "Доктор Кресчендо в поисках",
+      "title": "Frau Dr. Crescendo auf der Suche nach / Доктор Кресчендо в поисках",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/3168245/frau-dr-crescendo-auf-der-suche-nach-in-oestrich-winkel-am-2026-08-09-um-11-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или курхаус...",
+      "description": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168246-2026-08-09-14:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Frau Dr. Crescendo auf der Suche nach",
+      "titleRu": "Доктор Кресчендо в поисках",
+      "title": "Frau Dr. Crescendo auf der Suche nach / Доктор Кресчендо в поисках",
+      "date": "2026-08-09",
+      "time": "14:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/3168246/frau-dr-crescendo-auf-der-suche-nach-in-oestrich-winkel-am-2026-08-09-um-14-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или курхаус...",
+      "description": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168247-2026-08-09-17:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "MokkaBarock - „British Tea Time“",
+      "titleRu": "МоккаБарок - «Британское чаепитие»",
+      "title": "MokkaBarock - „British Tea Time“ / МоккаБарок - «Британское чаепитие»",
+      "date": "2026-08-09",
+      "time": "17:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "mokkabarock in eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168247/mokkabarock-in-eltville-am-rhein-am-2026-08-09-um-17-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168244-2026-08-09-19:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Bidla Buh - „Die Abschiedstour“",
+      "titleRu": "Бидла Бух - «Прощальный тур»",
+      "title": "Bidla Buh - „Die Abschiedstour“ / Бидла Бух - «Прощальный тур»",
+      "date": "2026-08-09",
+      "time": "19:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "bidla buh in eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168244/bidla-buh-in-eltville-am-rhein-am-2026-08-09-um-19-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168284-2026-08-30-17:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Kit Armstrong, Klavier",
+      "titleRu": "Кит Армстронг, фортепиано",
+      "title": "Kit Armstrong, Klavier / Кит Армстронг, фортепиано",
+      "date": "2026-08-30",
+      "time": "17:00",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168284/kit-armstrong-klavier-in-eltville-am-rhein-am-2026-08-30-um-17-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168292-2026-09-05-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Abschlusskonzert",
+      "titleRu": "Заключительный концерт",
+      "title": "Abschlusskonzert / Заключительный концерт",
+      "date": "2026-09-05",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168292/abschlusskonzert-in-eltville-im-rheingau-am-2026-09-05-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фоллрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фоллрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3021124-2026-10-10-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Winebattle - Rheingau vs. Rheinhessen - Das ultimative Wein Geschmacksduell!",
+      "titleRu": "Винная битва - Рейнгау против Рейнхессена - Ультимативное винное соревнование!",
+      "title": "Winebattle - Rheingau vs. Rheinhessen - Das ultimative Wein Geschmacksduell! / Винная битва - Рейнгау против Рейнхессена - Ультимативное винное соревнование!",
+      "date": "2026-10-10",
+      "time": "19:30",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "excursion"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "winebattle in oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/3021124/winebattle-in-oestrich-winkel-am-2026-10-10-um-19-30-uhr/",
+      "descriptionDe": "Wer wird gewinnen? Team Rheingau mit Wolfgang Junglas und Team Rheinhessen mit Weinjournalist Thomas Ehlke & René Harth schicken jeweils 8 Weine gegeneinander ins Geschmacksrennen. Das Publikum verkostet bei dieser Vergleichsweinprobe 16 Weine und wählt die Gewinner. Das „Rückspiel“: findet am 24...",
+      "descriptionRu": "Кто победит? Команда Рейнгау с Вольфгангом Юнгласом и команда Рейнхессена с винным журналистом Томасом Эльке и Рене Хартом выставляют по 8 вин на соревнование по вкусу. Публика дегустирует 16 вин на этом сравнительном винном tasting и выбирает победителей. «Ответная игра» состоится 24...",
+      "description": "Кто победит? Команда Рейнгау с Вольфгангом Юнгласом и команда Рейнхессена с винным журналистом Томасом Эльке и Рене Хартом выставляют по 8 вин на соревнование по вкусу. Публика дегустирует 16 вин на этом сравнительном винном tasting и выбирает победителей. «Ответная игра» состоится 24...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3143999-2026-10-11-19:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "The Sweet - Rockin' for the Eternity Tour",
+      "titleRu": "The Sweet - Тур Rockin' for the Eternity",
+      "title": "The Sweet - Rockin' for the Eternity Tour / The Sweet - Тур Rockin' for the Eternity",
+      "date": "2026-10-11",
+      "time": "19:00",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Ingelheim am Rhein",
+      "venue": "the sweet in ingelheim am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3143999/the-sweet-in-ingelheim-am-rhein-am-2026-10-11-um-19-00-uhr/",
+      "descriptionDe": "Sweet ist eine der wenigen berühmt berüchtigten \"Glam Rock Bands\", die Chart Erfolge in den 70ern, 80ern und 90ern gehabt haben. Sie haben über 30 Millionen Platten verkauft und sind immer noch eine \"live\" Touring Band. Sweet bietet viel mehr als nur Glam Rock, ihre Musik ist zeitlos und vielseit...",
+      "descriptionRu": "Sweet - одна из немногих известных \"глэм-рок групп\", которые добились успеха в чартах в 70-х, 80-х и 90-х годах. Они продали более 30 миллионов пластинок и по-прежнему являются \"живой\" гастрольной группой. Sweet предлагает гораздо больше, чем просто глэм-рок, их музыка вне времени и разнообразна...",
+      "description": "Sweet - одна из немногих известных \"глэм-рок групп\", которые добились успеха в чартах в 70-х, 80-х и 90-х годах. Они продали более 30 миллионов пластинок и по-прежнему являются \"живой\" гастрольной группой. Sweet предлагает гораздо больше, чем просто глэм-рок, их музыка вне времени и разнообразна...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3020072-2026-10-17-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Nathalie Hoyer & Axel Grote Quartett - Kubanische Musik: Leichtigkeit und Lebensfreude",
+      "titleRu": "Натали Хойер и квартет Акселя Гроте - Кубинская музыка: Легкость и радость жизни",
+      "title": "Nathalie Hoyer & Axel Grote Quartett - Kubanische Musik: Leichtigkeit und Lebensfreude / Натали Хойер и квартет Акселя Гроте - Кубинская музыка: Легкость и радость жизни",
+      "date": "2026-10-17",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "nathalie hoyer axel grote quartett in oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/3020072/nathalie-hoyer-axel-grote-quartett-in-oestrich-winkel-am-2026-10-17-um-19-30-uhr/",
+      "descriptionDe": "Geschichten aus der einst glänzenden Karibikmetropole von kubanischen Autoren Leonardo Padura, Zoe Valdes, sowie Ernest Hemingway gepaart mit der musikalischen Vielfalt der Musica cubana, mitreißend präsentiert von Nathalie Hoyer (vocals), Axel Grote (sax), Sebastian Kling (Akkordeon, Piano), Flo...",
+      "descriptionRu": "Истории из когда-то блестящей карибской метрополии от кубинских авторов Леонардо Падуры, Зои Вальдес и Эрнеста Хемингуэя, в сочетании с музыкальным разнообразием кубинской музыки, захватывающе представлены Натали Хойер (вокал), Акселем Гроте (саксофон), Себастьяном Клингом (аккордеон, пиано), Фло...",
+      "description": "Истории из когда-то блестящей карибской метрополии от кубинских авторов Леонардо Падуры, Зои Вальдес и Эрнеста Хемингуэя, в сочетании с музыкальным разнообразием кубинской музыки, захватывающе представлены Натали Хойер (вокал), Акселем Гроте (саксофон), Себастьяном Клингом (аккордеон, пиано), Фло...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3090140-2026-10-17-20:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Manfred Mann's Earth Band - Rocklegenden live auf Tour",
+      "titleRu": "Manfred Mann's Earth Band - Легенды рока вживую на туре",
+      "title": "Manfred Mann's Earth Band - Rocklegenden live auf Tour / Manfred Mann's Earth Band - Легенды рока вживую на туре",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Ingelheim am Rhein",
+      "venue": "manfred mann s earth band in ingelheim am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3090140/manfred-mann-s-earth-band-in-ingelheim-am-rhein-am-2026-10-17-um-20-00-uhr/",
+      "descriptionDe": "Chartstürmer der 70er und 80er, legendäre Livekonzerte und Songs wie Blinded by the Light: Manfred Mann's Earth Band bringt mit neuer Stimme wieder rockige Energie auf die Bühne.",
+      "descriptionRu": "Хит-парады 70-х и 80-х, легендарные живые концерты и такие песни, как Blinded by the Light: Manfred Mann's Earth Band снова приносит роковую энергию на сцену с новым вокалом.",
+      "description": "Хит-парады 70-х и 80-х, легендарные живые концерты и такие песни, как Blinded by the Light: Manfred Mann's Earth Band снова приносит роковую энергию на сцену с новым вокалом.",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 30,
+      "matchReasons": [
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168265-2026-07-17-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Dämmerschoppen mit Beat Box",
+      "titleRu": "Вечерний концерт с Beat Box",
+      "title": "Dämmerschoppen mit Beat Box / Вечерний концерт с Beat Box",
+      "date": "2026-07-17",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "daemmerschoppen mit beat box in eltville",
+      "url": "https://www.eventfinder.de/veranstaltung/3168265/daemmerschoppen-mit-beat-box-in-eltville-am-2026-07-17-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168345-2026-07-22-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Lucienne Renaudin Vary, Trompete",
+      "titleRu": "Люсиенна Реноа Вари, Труба",
+      "title": "Lucienne Renaudin Vary, Trompete / Люсиенна Реноа Вари, Труба",
+      "date": "2026-07-22",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168345/lucienne-renaudin-vary-trompete-in-eltville-im-rheingau-am-2026-07-22-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168347-2026-07-23-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Verdi - Messa da Requiem",
+      "titleRu": "Верди - Реквием",
+      "title": "Verdi - Messa da Requiem / Верди - Реквием",
+      "date": "2026-07-23",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "verdi in eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168347/verdi-in-eltville-im-rheingau-am-2026-07-23-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168358-2026-07-30-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Brahms - „Ein deutsches Requiem“",
+      "titleRu": "Брамс - «Немецкое реквием»",
+      "title": "Brahms - „Ein deutsches Requiem“ / Брамс - «Немецкое реквием»",
+      "date": "2026-07-30",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "brahms in eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168358/brahms-in-eltville-im-rheingau-am-2026-07-30-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168237-2026-08-06-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Albrecht Mayer, Oboe & Leitung",
+      "titleRu": "Альбрехт Майер, гобой и руководство",
+      "title": "Albrecht Mayer, Oboe & Leitung / Альбрехт Майер, гобой и руководство",
+      "date": "2026-08-06",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168237/albrecht-mayer-oboe-leitung-in-eltville-im-rheingau-am-2026-08-06-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фоллрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168238-2026-08-06-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "BlechReiz BrassQuintett - „Quintessenz“",
+      "titleRu": "BlechReiz BrassQuintett - «Квинтэссенция»",
+      "title": "BlechReiz BrassQuintett - „Quintessenz“ / BlechReiz BrassQuintett - «Квинтэссенция»",
+      "date": "2026-08-06",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "blechreiz brassquintett in eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168238/blechreiz-brassquintett-in-eltville-am-rhein-am-2026-08-06-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168239-2026-08-07-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "BlechReiz BrassQuintett - „Quintessenz“",
+      "titleRu": "BlechReiz BrassQuintett - «Квинтэссенция»",
+      "title": "BlechReiz BrassQuintett - „Quintessenz“ / BlechReiz BrassQuintett - «Квинтэссенция»",
+      "date": "2026-08-07",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "blechreiz brassquintett in eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168239/blechreiz-brassquintett-in-eltville-am-rhein-am-2026-08-07-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербаха, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербаха, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168240-2026-08-07-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Crown and Glory",
+      "titleRu": "Корона и слава",
+      "title": "Crown and Glory / Корона и слава",
+      "date": "2026-08-07",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168240/crown-and-glory-in-eltville-im-rheingau-am-2026-08-07-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "description": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168253-2026-08-13-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "The Coronation of King George II",
+      "titleRu": "Коронация короля Георга II",
+      "title": "The Coronation of King George II / Коронация короля Георга II",
+      "date": "2026-08-13",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168253/the-coronation-of-king-george-ii-in-eltville-im-rheingau-am-2026-08-13-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168254-2026-08-14-19:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Händel - „Messiah“",
+      "titleRu": "Гендель - «Мессия»",
+      "title": "Händel - „Messiah“ / Гендель - «Мессия»",
+      "date": "2026-08-14",
+      "time": "19:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "haendel in eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168254/haendel-in-eltville-im-rheingau-am-2026-08-14-um-19-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168258-2026-08-20-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Rolando Villazón, Tenor",
+      "titleRu": "Роландо Вилласон, тенор",
+      "title": "Rolando Villazón, Tenor / Роландо Вилласон, тенор",
+      "date": "2026-08-20",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168258/rolando-villazon-tenor-in-eltville-im-rheingau-am-2026-08-20-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168262-2026-08-21-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "The Curious Bards - „Rebellion!“",
+      "titleRu": "Любопытные барды - «Бунт!»",
+      "title": "The Curious Bards - „Rebellion!“ / Любопытные барды - «Бунт!»",
+      "date": "2026-08-21",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "the curious bards in eltville am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3168262/the-curious-bards-in-eltville-am-rhein-am-2026-08-21-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта до Висбадена и Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168281-2026-08-28-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Gustav Mahler Jugendorchester",
+      "titleRu": "Юношеский оркестр Густава Малера",
+      "title": "Gustav Mahler Jugendorchester / Юношеский оркестр Густава Малера",
+      "date": "2026-08-28",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168281/gustav-mahler-jugendorchester-in-eltville-im-rheingau-am-2026-08-28-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или курхаус...",
+      "description": "Рейнгау музыкальный фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднерейнской долины. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоганнисберг, замок Фольрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168287-2026-09-02-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Brasilianische Nacht - Linus Roth, Violine & Leitung",
+      "titleRu": "Бразильская ночь - Линус Рот, скрипка и руководство",
+      "title": "Brasilianische Nacht - Linus Roth, Violine & Leitung / Бразильская ночь - Линус Рот, скрипка и руководство",
+      "date": "2026-09-02",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "бразильская ночь в Эльтвиле в Рейнгау",
+      "url": "https://www.eventfinder.de/veranstaltung/3168287/brasilianische-nacht-in-eltville-im-rheingau-am-2026-09-02-um-19-30-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный фестиваль считается одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "description": "Рейнгау Музыкальный фестиваль считается одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3168289-2026-09-03-19:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Bach - H-Moll-Messe",
+      "titleRu": "Бах - Месса си минор",
+      "title": "Bach - H-Moll-Messe / Бах - Месса си минор",
+      "date": "2026-09-03",
+      "time": "19:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Eltville am Rhein",
+      "venue": "bach in eltville im rheingau",
+      "url": "https://www.eventfinder.de/veranstaltung/3168289/bach-in-eltville-im-rheingau-am-2026-09-03-um-19-00-uhr/",
+      "descriptionDe": "Das Rheingau Musik Festival zählt zu den größten Musikfestivals Europas und veranstaltet jedes Jahr über 170 Konzerte in der gesamten Region von Frankfurt über Wiesbaden bis zum Mittelrheintal. Einmalige Kulturdenkmäler wie Kloster Eberbach, Schloss Johannisberg, Schloss Vollrads oder das Kurhaus...",
+      "descriptionRu": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "description": "Рейнгау Музыкальный Фестиваль является одним из крупнейших музыкальных фестивалей Европы и ежегодно проводит более 170 концертов по всему региону от Франкфурта через Висбаден до Среднего Рейна. Уникальные культурные памятники, такие как монастырь Эбербах, замок Иоаннсберг, замок Фольрадс или Курхаус...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-2953566-2026-10-09-19:30",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Silvio Schneider - Passions in der Brentanoscheune",
+      "titleRu": "Сильвио Шнайдер - Страсти в Брентаношеун",
+      "title": "Silvio Schneider - Passions in der Brentanoscheune / Сильвио Шнайдер - Страсти в Брентаношеун",
+      "date": "2026-10-09",
+      "time": "19:30",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Oestrich-Winkel",
+      "venue": "silvio schneider in oestrich winkel",
+      "url": "https://www.eventfinder.de/veranstaltung/2953566/silvio-schneider-in-oestrich-winkel-am-2026-10-09-um-19-30-uhr/",
+      "descriptionDe": "Groovy World GuitarSilvio Schneider - Gitarrist, Komponist, Weltenbummler - kommt gerade wieder aus dem Süden. Mallorca, die Toskana und Südamerika sind seine regelmäßigen Inspirationen. Sonne, Rhythmus und Leidenschaftliches aus aller Welt. Und so mischt er in seinem Solo-Programm „Passions“ gro...",
+      "descriptionRu": "Грувовая мировая гитара. Сильвио Шнайдер - гитарист, композитор, путешественник - только что вернулся с юга. Майорка, Тоскана и Южная Америка - его постоянные источники вдохновения. Солнце, ритм и страсть со всего мира. И так он смешивает в своей сольной программе «Страсти»...",
+      "description": "Грувовая мировая гитара. Сильвио Шнайдер - гитарист, композитор, путешественник - только что вернулся с юга. Майорка, Тоскана и Южная Америка - его постоянные источники вдохновения. Солнце, ритм и страсть со всего мира. И так он смешивает в своей сольной программе «Страсти»...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "eventfinder-3237886-2026-11-05-20:00",
+      "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
+      "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
+      "titleDe": "Takeover! Ensemble & JORIS",
+      "titleRu": "Тейковер! Ансамбль и Йорис",
+      "title": "Takeover! Ensemble & JORIS / Тейковер! Ансамбль и Йорис",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Ingelheim am Rhein",
+      "venue": "unter leitung von miki kekenj ingelheim am rhein",
+      "url": "https://www.eventfinder.de/veranstaltung/3237886/takeover-ensemble-joris-unter-leitung-von-miki-kekenj-ingelheim-am-rhein/",
+      "descriptionDe": "Takeover! Ensemble feat. Joris Wenn Violinist Miki Kekenj nicht gerade am Konzertmeisterpult der Bergischen Symphoniker sitzt, widmet er sich als Komponist und Arrangeur seiner zweiten Leidenschaft: moderne Songs in eine klassische Tonsprache zu übersetzen. Seit über zehn Jahren erarbeitet er mit...",
+      "descriptionRu": "Тейковер! Ансамбль с участием Йориса. Когда скрипач Мики Кекенй не сидит на месте концертмейстера Бергишских симфоников, он посвящает себя как композитор и аранжировщик своей второй страсти: переводить современные песни на классический язык. Более десяти лет он работает с...",
+      "description": "Тейковер! Ансамбль с участием Йориса. Когда скрипач Мики Кекенй не сидит на месте концертмейстера Бергишских симфоников, он посвящает себя как композитор и аранжировщик своей второй страсти: переводить современные песни на классический язык. Более десяти лет он работает с...",
+      "rawType": "Eventfinder",
+      "rawCategoryHints": [],
+      "exportedAt": "2026-05-27T18:50:23.437Z",
+      "personalScore": 20,
+      "matchReasons": [
+        "preferred-tag:concert"
+      ]
+    }
+  ],
+  "hiddenEvents": [
+    {
+      "id": "eventfinder-3168361-2026-08-01-17:00",
+      "score": 10,
+      "reasons": [
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3168362-2026-08-02-11:00",
+      "score": 10,
+      "reasons": [
+        "weekend"
+      ]
+    },
+    {
+      "id": "eltville-kirchweih-und-weinfest-2026-08-14-all-day",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "id": "eltville-stadtsportfest-2026-08-22-all-day",
+      "score": 10,
+      "reasons": [
+        "weekend"
+      ]
+    },
+    {
+      "id": "eltville-trip-to-democracy-2026-08-29-all-day",
+      "score": -100,
+      "reasons": [
+        "excluded-pattern:demo"
+      ]
+    },
+    {
+      "id": "eventfinder-3169211-2026-09-24-19:00",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "id": "eventfinder-3169212-2026-09-25-19:00",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "id": "eventfinder-3169213-2026-09-26-19:00",
+      "score": 10,
+      "reasons": [
+        "weekend"
+      ]
+    },
+    {
+      "id": "eltville-natur-pur-hattenheim-2026-10-03-all-day",
+      "score": 10,
+      "reasons": [
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-2979137-2026-10-16-19:30",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "id": "eventfinder-3021131-2026-11-22-18:00",
+      "score": 10,
+      "reasons": [
+        "weekend"
+      ]
+    },
+    {
+      "id": "eventfinder-3027799-2026-11-23-19:30",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "id": "eltville-weihnachtstreiben-2026-11-29-all-day",
+      "score": 10,
+      "reasons": [
+        "weekend"
+      ]
+    }
+  ]
+}

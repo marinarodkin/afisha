@@ -1,0 +1,132 @@
+name: enrich-events
+preferred_model: gpt-4o-mini
+model_note: >
+  Prefer a cheap GPT-4-class OpenAI API model for this enrichment step.
+  The default script uses OPENAI_MODEL=gpt-4o-mini unless overridden.
+system_prompt: |
+  You enrich event JSON for a static event aggregator.
+  Return JSON only, matching the supplied schema.
+  Do not remove, add, reorder, or rename events.
+  Translate German fields to natural Russian and classify with precise multi-tags.
+user_prompt: |
+  Follow this YAML prompt and enrich the supplied input JSON.
+  Preserve the same top-level object shape, event count, and event ids.
+  Every event MUST contain titleDe, titleRu, title, descriptionDe, descriptionRu, description, tags, and type.
+  title MUST be exactly "titleDe / titleRu".
+  description MUST be exactly descriptionRu.
+  Return only the enriched JSON object.
+purpose: >
+  Translate raw German event JSON into Russian display fields and classify events
+  into precise multi-tag categories for the Afisha frontend.
+
+input_file: newSources.json
+output_file: newSources.json
+
+allowed_categories:
+  - concert
+  - student_concert
+  - spektakl
+  - opera
+  - fest
+  - sport
+  - kino
+  - arthouse_cinema
+  - museum
+  - exhibition
+  - wochenmarkt
+  - children
+  - master_class
+  - course
+  - excursion
+  - church
+  - reading_club
+  - lecture
+  - civic
+  - poetry_evening
+  - poetry_slam
+  - handicraft
+  - creative_meeting
+  - reading
+  - lang_ru
+  - lang_en
+  - free
+  - other
+allowed_tags:
+  - excursion
+  - master_class
+  - course
+  - student_concert
+  - reading_club
+  - church
+  - arthouse_cinema
+  - exhibition
+  - lecture
+  - civic
+  - poetry_evening
+  - poetry_slam
+  - handicraft
+  - children
+  - creative_meeting
+  - reading
+  - lang_ru
+  - lang_en
+  - free
+
+category_rules:
+  concert: Live music, choir, orchestra, church music, musical performance.
+  student_concert: Concert by students, student ensembles, music academy students, or university music groups.
+  spektakl: Theatre/drama/stage performance only; do not mark every theatre venue event as spektakl. If the event is a workshop, course, talk, concert, or exhibition in a theatre venue, do not use spektakl just because of the venue.
+  opera: Opera or operetta.
+  fest: Festival, city celebration, wine festival, public fair.
+  sport: Sport event, race, yoga, fitness, tournament.
+  kino: Film screening or cinema event.
+  arthouse_cinema: Art-house, auteur, program, or special-interest cinema.
+  museum: Museum event, museum tour, museum talk, museum exhibition.
+  exhibition: Exhibition, vernissage, gallery show, visual art presentation.
+  wochenmarkt: Weekly market only.
+  children: Children/family/kids/schoolchildren oriented event.
+  master_class: Practical workshop, hands-on class, atelier, guided making session.
+  course: Course, seminar, training, recurring learning program.
+  excursion: Guided tour, excursion, city walk, museum tour, nature tour.
+  church: Church-related event, church service, church concert, church tour.
+  reading_club: Book club or reader discussion club.
+  lecture: Lecture, public talk, educational talk, author lecture.
+  civic: Political/social/public discussion including demonstrations, Pride, minority rights, ecology, philosophy, democracy, civic rights.
+  poetry_evening: Poetry/literary performance evening.
+  poetry_slam: Poetry slam format.
+  handicraft: Handicraft, handmade, craft workshop.
+  creative_meeting: Meeting with an artist, illustrator, author, curator, or other creative professional.
+  reading: Public reading, author reading, literary reading.
+  lang_ru: Add only when the original German text explicitly says the event is in Russian, in Russian language, Russian-speaking, or on Russian. Do not infer it from the translated output.
+  lang_en: Add only when the original German text explicitly says the event is in English or English-language. Do not infer it from the translated output.
+  free: Add only when the German text explicitly says kostenlos, kostenfrei, gratis, ohne Eintritt, Eintritt frei, or free admission.
+  other: Use only when no more specific category fits.
+
+classification_policy:
+  - Assign one or more tags per event.
+  - Use the event title, German description, venue, and rawType together.
+  - Venue alone is not enough for spektakl; a theatre venue can host talks, workshops, concerts, exhibitions, or festivals.
+  - Museum venue or museum context should usually add museum; guided museum tours should also add excursion.
+  - Children/family indicators should add children even if another category also applies.
+  - master_class and course are different: master_class is practical/workshop-like, course is a structured learning course/seminar.
+  - type must be the best primary category from tags.
+  - Add language tags only when the original German source text explicitly states the language.
+  - Add free only when the original German source text explicitly states free entry.
+
+translation_policy:
+  - Keep titleDe unchanged.
+  - Translate titleDe to titleRu in natural Russian.
+  - Set title to "titleDe / titleRu".
+  - Keep descriptionDe unchanged.
+  - Translate descriptionDe to descriptionRu in natural Russian.
+  - Set description to descriptionRu.
+  - Preserve dates, times, ids, source fields, URLs, city, venue, price, rawType, exportedAt.
+
+output_policy:
+  - Output must be valid JSON, not Markdown.
+  - Preserve the same top-level object shape as input.
+  - Preserve the same number of events and event ids as input.
+  - Each event must include titleRu, descriptionRu, title, description, tags, and type.
+  - Do not omit existing fields.
+  - Do not include excluded events; they were already removed before this step.
+  - Write the completed JSON to output_file.
