@@ -17,7 +17,8 @@ import {
   parseBiletKartinaEvents,
   parseFrankfurt24Events,
   parseKontramarkaEvents,
-  parseLimburgDommusikEvents
+  parseLimburgDommusikEvents,
+  parseTaunussteinEvents
 } from "./lib/source-parsers.mjs";
 
 const ROOT = process.cwd();
@@ -158,6 +159,9 @@ async function scrapeSource(source) {
   if (source.link === "https://www.eventfinder.de/eltville/veranstaltungen/") {
     return scrapeEventfinderEltville(source);
   }
+  if (source.link === "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/") {
+    return scrapeTaunussteinCalendar(source);
+  }
   if (source.link === "https://frankfurt24.ru/de/event") {
     return scrapeFrankfurt24(source);
   }
@@ -269,6 +273,13 @@ async function scrapeFrankfurt24(source) {
   if (!response.ok) throw new Error(`Frankfurt24 page failed with HTTP ${response.status}`);
   const html = await response.text();
   return parseFrankfurt24Events(html, source, new Date().toISOString(), START_DATE, END_DATE);
+}
+
+async function scrapeTaunussteinCalendar(source) {
+  const response = await fetchWithRetry(source.link);
+  if (!response.ok) throw new Error(`Taunusstein page failed with HTTP ${response.status}`);
+  const html = await response.text();
+  return parseTaunussteinEvents(html, source, new Date().toISOString(), START_DATE, END_DATE);
 }
 
 async function scrapeLimburgDommusik(source) {

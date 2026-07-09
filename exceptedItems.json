@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-29T20:51:44.261Z",
-  "eventCount": 114,
+  "generatedAt": "2026-07-09T11:43:16.057Z",
+  "eventCount": 120,
   "events": [
     {
       "id": "info-networking-event-166696-2026-05-27T17:30:00+02:00",
@@ -1846,6 +1846,102 @@
         "civic"
       ],
       "addedAt": "2026-05-28T06:28:52.283Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-offenes-ohr-im-quartier-offene-sprechstunde-der-gemeindepflegerin-900010891-29880-html-naviid-0-2026-07-16-14:30",
+      "date": "2026-07-16",
+      "time": "14:30",
+      "venue": "Quartier- Offene Sprechstunde der Gemeindepflegerin Jeden dritten Donnerstag bietet die neue Gemeindepflegerin in der offenen Sprechstunde ein offenes Ohr zu Themen wie Pflege",
+      "titleDe": "Offenes Ohr im Quartier- Offene Sprechstunde der Gemeindepflegerin",
+      "title": "Offenes Ohr im Quartier- Offene Sprechstunde der Gemeindepflegerin / Открытое ухо в квартале - открытая консультация социального работника",
+      "key": "2026-07-16|14:30|quartieroffenesprechstundedergemeindepflegerinjedendrittendonnerstagbietetdieneuegemeindepflegerininderoffenensprechstundeeinoffenesohrzuthemenwiepflege|offen",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "free"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-trauergruppe-fuer-verwaiste-eltern-900011218-29880-html-naviid-0-2026-07-22-18:15",
+      "date": "2026-07-22",
+      "time": "18:15",
+      "venue": null,
+      "titleDe": "Trauergruppe für verwaiste Eltern",
+      "title": "Trauergruppe für verwaiste Eltern / Группа поддержки для родителей, потерявших детей",
+      "key": "2026-07-22|18:15||traue",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "other"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-caf-alte-post-900011354-29880-html-naviid-0-2026-07-31-14:00",
+      "date": "2026-07-31",
+      "time": "14:00",
+      "venue": "Taunusstein",
+      "titleDe": "Café Alte Post",
+      "title": "Café Alte Post / Кафе Альте Пост",
+      "key": "2026-07-31|14:00|taunusstein|cafea",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "other",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-bleischter-weinprobierstand-900011370-29880-html-naviid-0-2026-08-01-17:00",
+      "date": "2026-08-01",
+      "time": "17:00",
+      "venue": "Bleidenstadt",
+      "titleDe": "Bleischter Weinprobierstand",
+      "title": "Bleischter Weinprobierstand / Выставка вин Bleischter",
+      "key": "2026-08-01|17:00|bleidenstadt|bleis",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-caf-alte-post-900011355-29880-html-naviid-0-2026-08-07-14:00",
+      "date": "2026-08-07",
+      "time": "14:00",
+      "venue": "Taunusstein",
+      "titleDe": "Café Alte Post",
+      "title": "Café Alte Post / Кафе Альте Пост",
+      "key": "2026-08-07|14:00|taunusstein|cafea",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "other",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-bleischter-weinprobierstand-900011378-29880-html-naviid-0-2026-08-07-17:00",
+      "date": "2026-08-07",
+      "time": "17:00",
+      "venue": "Bleidenstadt",
+      "titleDe": "Bleischter Weinprobierstand",
+      "title": "Bleischter Weinprobierstand / Выставка вин Bleischter",
+      "key": "2026-08-07|17:00|bleidenstadt|bleis",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T11:43:16.057Z"
     }
   ]
 }

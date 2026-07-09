@@ -2,6 +2,13 @@
 
 ## 2026-07-09
 
+- Добавлен новый официальный локальный источник `https://www.taunusstein.de/mein-taunusstein/veranstaltungen/` и новый парсер `parseTaunussteinEvents()` в `scripts/lib/source-parsers.mjs`.
+- `scripts/scrape-raw.mjs` теперь умеет обрабатывать официальный календарь Taunusstein через `scrapeTaunussteinCalendar()`.
+- В `sources.json` добавлены официальные городские календари `Taunusstein`, `Bad Schwalbach` и `Idstein`; из них сейчас реализован рабочий парсер для `Taunusstein`, а `Bad Schwalbach`/`Idstein` добавлены как следующие кандидаты на разбор внутренних event endpoints.
+- Добавлен unit-test на HTML-структуру Taunusstein-календаря в `scripts/test-workflow.mjs`.
+- Выполнен точечный прогон `source_offset=23 source_amount=1 MONTH=2 npm run update:sources`: из официального Taunusstein-календаря получено 28 raw events, после pre-AI фильтрации в enrichment ушло 18, после AI и post-filtering в `sourceBase.json` добавлено 12 событий; размер базы вырос с 560 до 572, а `personalIndex.json` вырос до 48 событий.
+- Выполнены `npm run build` и локальный `npm test` после интеграции Taunusstein; проверки прошли.
+
 - Добавлен personal preference layer для личной афиши: новые файлы `userPreferences.json` и `feedbackLog.json`.
 - Добавлен модуль `scripts/lib/personalization.mjs`, который считает персональный score события, фильтрует нежелательные темы по тегам/ключевым словам и поддерживает простые learned mappings вроде `salsa -> bachata / latin dance`.
 - Добавлен генератор `scripts/build-personal-index.mjs`, который строит `personalIndex.json` из `sourceBase.json` и пользовательских предпочтений.

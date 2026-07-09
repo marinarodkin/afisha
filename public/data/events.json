@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-29T20:51:44.273Z",
-  "eventCount": 560,
+  "generatedAt": "2026-07-09T11:43:16.069Z",
+  "eventCount": 572,
   "events": [
     {
       "id": "info-networking-event-166836-2026-05-27T12:15:00+02:00",
@@ -16594,6 +16594,37 @@
       "exportedAt": "2026-05-27T18:50:23.437Z"
     },
     {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-orler-freitagstreff-alte-feuerwehr-900011302-29880-html-naviid-0-2026-07-10-19:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Orler Freitagstreff - Alte Feuerwehr",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Taunusstein-Orlen",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/orler-freitagstreff-alte-feuerwehr-900011302-29880.html?naviID=0",
+      "descriptionDe": "Wochenausklang in der Alten Feuerwehr in Taunusstein-Orlen.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Встреча в Орлене - Старая пожарная станция",
+      "title": "Orler Freitagstreff - Alte Feuerwehr / Встреча в Орлене - Старая пожарная станция",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Завершение недели в Старой пожарной станции в Таунусштайн-Орлен.",
+      "description": "Завершение недели в Старой пожарной станции в Таунусштайн-Орлен."
+    },
+    {
       "id": "eventfinder-3168300-2026-07-11-19:00",
       "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
       "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
@@ -16621,6 +16652,69 @@
       "rawType": "Eventfinder",
       "rawCategoryHints": [],
       "exportedAt": "2026-05-27T18:50:23.437Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-caf-alte-post-900011353-29880-html-naviid-0-2026-07-17-14:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Café Alte Post",
+      "date": "2026-07-17",
+      "time": "14:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Taunusstein",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/caf-alte-post-900011353-29880.html?naviID=0",
+      "descriptionDe": "Das Café Alte Post lädt alle Interessierten auf Spendenbasis zum geselligen Beisammensein und Austausch bei Kaffee/Tee und selbstgebackenem Kuchen in der Tagesstruktur \"Am Hopfengarten\" der Regionalen Diakonie Wiesbaden Rheingau-Taunus in Taunusstein ein.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Кафе Альте Пост",
+      "title": "Café Alte Post / Кафе Альте Пост",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Кафе Альте Пост приглашает всех заинтересованных на встречу и обмен мнениями на добровольной основе за чашкой кофе/чая и домашней выпечкой в дневной структуре \"На Хопфенгартене\" Региональной Диаконии Висбаден Рейнгау-Таунас в Таунусштейне.",
+      "description": "Кафе Альте Пост приглашает всех заинтересованных на встречу и обмен мнениями на добровольной основе за чашкой кофе/чая и домашней выпечкой в дневной структуре \"На Хопфенгартене\" Региональной Диаконии Висбаден Рейнгау-Таунас в Таунусштейне."
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-om-chanting-im-familienzentrum-mueze-900011431-29880-html-naviid-0-2026-07-17-19:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "OM-Chanting im Familienzentrum MüZe",
+      "date": "2026-07-17",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Familienzentrum MüZe Erlebe die transformierende Kraft des Urklangs OM in einer besonderen Gemeinschaftspraxis",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/om-chanting-im-familienzentrum-mueze-900011431-29880.html?naviID=0",
+      "descriptionDe": "Erlebe die transformierende Kraft des Urklangs OM in einer besonderen Gemeinschaftspraxis.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "children"
+      ],
+      "titleRu": "ОМ-Чантинг в Центре Семьи MüZe",
+      "title": "OM-Chanting im Familienzentrum MüZe / ОМ-Чантинг в Центре Семьи MüZe",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion"
+      ],
+      "descriptionRu": "Испытай трансформирующую силу первозданного звука ОМ в особой практике сообщества.",
+      "description": "Испытай трансформирующую силу первозданного звука ОМ в особой практике сообщества."
     },
     {
       "id": "eventfinder-3168265-2026-07-17-19:30",
@@ -16651,6 +16745,103 @@
       "rawType": "Eventfinder",
       "rawCategoryHints": [],
       "exportedAt": "2026-05-27T18:50:23.437Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-sommer-workshop-meditation-900011432-29880-html-naviid-0-2026-07-18-14:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Sommer-Workshop Meditation",
+      "date": "2026-07-18",
+      "time": "14:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": null,
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/sommer-workshop-meditation-900011432-29880.html?naviID=0",
+      "descriptionDe": "Sommer-Meditationsworkshop zum Thema „Wie funktioniert unser Bewusstsein eigentlich?“",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "master_class"
+      ],
+      "titleRu": "Летний мастер-класс по медитации",
+      "title": "Sommer-Workshop Meditation / Летний мастер-класс по медитации",
+      "type": "master_class",
+      "tags": [
+        "master_class"
+      ],
+      "descriptionRu": "Летний мастер-класс по медитации на тему «Как на самом деле работает наше сознание?»",
+      "description": "Летний мастер-класс по медитации на тему «Как на самом деле работает наше сознание?»"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-weinstand-im-pfarrhof-bleidenstadt-900011387-29880-html-naviid-0-2026-07-18-17:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Weinstand im Pfarrhof Bleidenstadt",
+      "date": "2026-07-18",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Pfarrhof Bleidenstadt Weinstand im Pfarrhof Bleidenstadt",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/weinstand-im-pfarrhof-bleidenstadt-900011387-29880.html?naviID=0",
+      "descriptionDe": "Weinstand im Pfarrhof Bleidenstadt",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "church",
+        "fest"
+      ],
+      "titleRu": "Винный стенд в приходском дворе Блейденштадта",
+      "title": "Weinstand im Pfarrhof Bleidenstadt / Винный стенд в приходском дворе Блейденштадта",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "church"
+      ],
+      "descriptionRu": "Винный стенд в приходском дворе Блейденштадта",
+      "description": "Винный стенд в приходском дворе Блейденштадта"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-sommerferiencamps-in-der-1-4-6-woche-von-der-sv-wehen-wiesbaden-fussballschule-900011419-29880-html-naviid-0-2026-07-20-all-day",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Sommerferiencamps in der 1., 4. & 6. Woche von der SV Wehen Wiesbaden Fußballschule",
+      "date": "2026-07-20",
+      "time": null,
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": null,
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/sommerferiencamps-in-der-1-4-6-woche-von-der-sv-wehen-wiesbaden-fussballschule-900011419-29880.html?naviID=0",
+      "descriptionDe": "Sommerspaß für Fußballkids – jetzt anmelden! Nur noch wenige Wochen bis endlich die schönste Zeit des Jahres beginnt: die Sommerferien. Was gibt es Schöneres, als bei herrlichem Wetter nicht in der Schule zu sitzen, sondern jeden Tag mit Freunden auf dem Platz zu stehen und zu kicken?",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Летние лагеря в 1-й, 4-й и 6-й неделях от футбольной школы SV Wehen Wiesbaden",
+      "title": "Sommerferiencamps in der 1., 4. & 6. Woche von der SV Wehen Wiesbaden Fußballschule / Летние лагеря в 1-й, 4-й и 6-й неделях от футбольной школы SV Wehen Wiesbaden",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion",
+        "other"
+      ],
+      "descriptionRu": "Летний отдых для футбольных детей – записывайтесь сейчас! Осталось всего несколько недель до того, как наконец начнется самое прекрасное время года: летние каникулы. Что может быть лучше, чем в прекрасную погоду не сидеть в школе, а каждый день стоять на поле с друзьями и играть в футбол?",
+      "description": "Летний отдых для футбольных детей – записывайтесь сейчас! Осталось всего несколько недель до того, как наконец начнется самое прекрасное время года: летние каникулы. Что может быть лучше, чем в прекрасную погоду не сидеть в школе, а каждый день стоять на поле с друзьями и играть в футбол?"
     },
     {
       "id": "eventfinder-3168345-2026-07-22-19:30",
@@ -16712,6 +16903,69 @@
       "exportedAt": "2026-05-27T18:50:23.437Z"
     },
     {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-orler-markt-2026-900011167-29880-html-naviid-0-2026-07-24-11:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Orler Markt 2026",
+      "date": "2026-07-24",
+      "time": "11:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": null,
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/orler-markt-2026-900011167-29880.html?naviID=0",
+      "descriptionDe": "Der traditionsreiche Orler Markt ist tief verwurzelt mit der Geschichte der Stadt Taunusstein. Bis in die Römerzeit lässt sich die Veranstaltung zurückverfolgen. Heute wird der Markt von der Stadt Taunusstein zusammen mit der Marktgemeinschaft organisiert und durchgeführt.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Рынок Орлер 2026",
+      "title": "Orler Markt 2026 / Рынок Орлер 2026",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "other"
+      ],
+      "descriptionRu": "Традиционный рынок Орлер глубоко укоренен в истории города Таунусштайн. Его можно проследить до римских времен. Сегодня рынок организуется и проводится городом Таунусштайн вместе с рыночным сообществом.",
+      "description": "Традиционный рынок Орлер глубоко укоренен в истории города Таунусштайн. Его можно проследить до римских времен. Сегодня рынок организуется и проводится городом Таунусштайн вместе с рыночным сообществом."
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-orler-freitagstreff-alte-feuerwehr-900011303-29880-html-naviid-0-2026-07-24-19:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Orler Freitagstreff - Alte Feuerwehr",
+      "date": "2026-07-24",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Taunusstein-Orlen",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/orler-freitagstreff-alte-feuerwehr-900011303-29880.html?naviID=0",
+      "descriptionDe": "Wochenausklang in der Alten Feuerwehr in Taunusstein-Orlen.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Встреча в Орлене - Старая пожарная часть",
+      "title": "Orler Freitagstreff - Alte Feuerwehr / Встреча в Орлене - Старая пожарная часть",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Завершение недели в Старой пожарной части в Таунусштайн-Орлене.",
+      "description": "Завершение недели в Старой пожарной части в Таунусштайн-Орлене."
+    },
+    {
       "id": "eventfinder-3168353-2026-07-26-17:00",
       "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
       "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
@@ -16771,6 +17025,37 @@
       "exportedAt": "2026-05-27T18:50:23.437Z"
     },
     {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-bleischter-weinprobierstand-900011368-29880-html-naviid-0-2026-07-31-17:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Bleischter Weinprobierstand",
+      "date": "2026-07-31",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Bleidenstadt",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/bleischter-weinprobierstand-900011368-29880.html?naviID=0",
+      "descriptionDe": "In der schönen Atmosphäre des Stifthofes in Bleidenstadt bieten wir beste Rheingauer Weine von zwei Winzern und kleine Speisen an.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "fest"
+      ],
+      "titleRu": "Выставка вин Bleischter",
+      "title": "Bleischter Weinprobierstand / Выставка вин Bleischter",
+      "type": "fest",
+      "tags": [
+        "fest"
+      ],
+      "descriptionRu": "В красивой атмосфере Stifthof в Bleidenstadt мы предлагаем лучшие вина Рейнгау от двух виноделов и небольшие закуски.",
+      "description": "В красивой атмосфере Stifthof в Bleidenstadt мы предлагаем лучшие вина Рейнгау от двух виноделов и небольшие закуски."
+    },
+    {
       "id": "eventfinder-3168361-2026-08-01-17:00",
       "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
       "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
@@ -16799,6 +17084,38 @@
       "rawType": "Eventfinder",
       "rawCategoryHints": [],
       "exportedAt": "2026-05-27T18:50:23.437Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-oeffentliche-wanderung-auf-der-taunussteiner-runde-3-teilstueck-10-km-900011436-29880-html-naviid-0-2026-08-02-10:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Öffentliche Wanderung auf der Taunussteiner Runde; 3. Teilstück 10 km",
+      "date": "2026-08-02",
+      "time": "10:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": null,
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/oeffentliche-wanderung-auf-der-taunussteiner-runde-3-teilstueck-10-km-900011436-29880.html?naviID=0",
+      "descriptionDe": "Rund-Wanderung: Hohe Wurzel, Eiserne Hand, Herzogsweg Start und Ziel: Parkplatz Sportanlage Seitzenhahn um 10 Uhr, Dauer ca. 4 h. Dies ist die dritte Wanderung der Taunussteiner Runde und das letzte Teilstück. Am 12.09. folgt die komplette Runde. Rucksackverpflegung ist erforderlich.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "sport"
+      ],
+      "titleRu": "Общественный поход по маршруту Таунусштайн; 3-й участок 10 км",
+      "title": "Öffentliche Wanderung auf der Taunussteiner Runde; 3. Teilstück 10 km / Общественный поход по маршруту Таунусштайн; 3-й участок 10 км",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "sport"
+      ],
+      "descriptionRu": "Круговой поход: Высокий корень, Железная рука, Дорога герцога. Старт и финиш: парковка спортивного комплекса Зайценхан в 10 часов, продолжительность около 4 часов. Это третий поход по маршруту Таунусштайн и последний участок. 12.09. состоится полный маршрут. Необходима еда в рюкзаке.",
+      "description": "Круговой поход: Высокий корень, Железная рука, Дорога герцога. Старт и финиш: парковка спортивного комплекса Зайценхан в 10 часов, продолжительность около 4 часов. Это третий поход по маршруту Таунусштайн и последний участок. 12.09. состоится полный маршрут. Необходима еда в рюкзаке."
     },
     {
       "id": "eventfinder-3168362-2026-08-02-11:00",
@@ -16860,6 +17177,38 @@
       "exportedAt": "2026-05-27T18:50:23.437Z"
     },
     {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-klangvielfalt-im-doppelpack-900011422-29880-html-naviid-0-2026-08-06-18:30",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Klangvielfalt im Doppelpack",
+      "date": "2026-08-06",
+      "time": "18:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Wehen",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/klangvielfalt-im-doppelpack-900011422-29880.html?naviID=0",
+      "descriptionDe": "Zwei der besten Akkordeonorchester Deutschlands präsentieren sich in Wehen mit einem bunten Programm von Klassik bis Tango.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "concert"
+      ],
+      "titleRu": "Звуковое разнообразие в двойном пакете",
+      "title": "Klangvielfalt im Doppelpack / Звуковое разнообразие в двойном пакете",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "descriptionRu": "Два лучших аккордеонных оркестра Германии представляют себя в Вене с яркой программой от классики до танго.",
+      "description": "Два лучших аккордеонных оркестра Германии представляют себя в Вене с яркой программой от классики до танго."
+    },
+    {
       "id": "eventfinder-3168237-2026-08-06-19:30",
       "sourceName": "Veranstaltungen Eltville am Rhein - Termine & Tickets Veranstaltungskalender Eltville am Rhein",
       "sourceUrl": "https://www.eventfinder.de/eltville/veranstaltungen/",
@@ -16916,6 +17265,37 @@
       "rawType": "Eventfinder",
       "rawCategoryHints": [],
       "exportedAt": "2026-05-27T18:50:23.437Z"
+    },
+    {
+      "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-orler-freitagstreff-alte-feuerwehr-900011304-29880-html-naviid-0-2026-08-07-19:00",
+      "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
+      "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
+      "titleDe": "Orler Freitagstreff - Alte Feuerwehr",
+      "date": "2026-08-07",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Taunusstein",
+      "venue": "Taunusstein-Orlen",
+      "url": "https://www.taunusstein.de/regional/veranstaltungen/orler-freitagstreff-alte-feuerwehr-900011304-29880.html?naviID=0",
+      "descriptionDe": "Wochenausklang in der Alten Feuerwehr in Taunusstein-Orlen.",
+      "rawType": "Taunusstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:41:47.277Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Встреча в Орлене - Старая пожарная часть",
+      "title": "Orler Freitagstreff - Alte Feuerwehr / Встреча в Орлене - Старая пожарная часть",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Завершение недели в Старой пожарной части в Таунусштайн-Орлен.",
+      "description": "Завершение недели в Старой пожарной части в Таунусштайн-Орлен."
     },
     {
       "id": "eventfinder-3168239-2026-08-07-19:30",
@@ -18012,5 +18392,5 @@
       "exportedAt": "2026-05-27T18:50:23.289Z"
     }
   ],
-  "appendedCount": 0
+  "appendedCount": 12
 }

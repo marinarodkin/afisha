@@ -1,4 +1,53 @@
-import { cleanText, normalizeUrl, toIsoDate, toTime, withinRange } from "./events.mjs";
+import { categoryHints, cleanText, normalizeUrl, toIsoDate, toTime, withinRange } from "./events.mjs";
+
+export function parseTaunussteinEvents(html, source, exportedAt, startDate, endDate) {
+  const pageTitle = extractTitle(html) || source.description || "Taunusstein";
+  const events = [];
+  const seen = new Set();
+  const blockRe = /<a name="terminanker_[\s\S]*?<div class="managertrenner/g;
+
+  for (const match of html.matchAll(blockRe)) {
+    const block = match[0];
+    const url = normalizeUrl(block.match(/<a href="(https:\/\/www\.taunusstein\.de\/regional\/veranstaltungen\/[^"]+)"\s+title="Detailseite"/i)?.[1] ?? null);
+    const title = cleanText(decodeHtmlEntities(stripTags(block.match(/<span class="bezeichnung">([\s\S]*?)<\/span>/i)?.[1] ?? block.match(/<span class="manager_titel[^"]*">[\s\S]*?<a[^>]*>([\s\S]*?)<\/a>/i)?.[1] ?? "")));
+    const rawDate = block.match(/<span class="datum">([\s\S]*?)<\/span>/i)?.[1] ?? block.match(/<span class="manager_untertitel[^"]*">([\s\S]*?)<\/span>/i)?.[1] ?? "";
+    const description = cleanText(decodeHtmlEntities(stripTags(block.match(/<div class="kurzbeschreibung">([\s\S]*?)<\/div>/i)?.[1] ?? ""))) || title;
+    const date = parseGermanDate(rawDate);
+    const time = extractTime(rawDate);
+    if (!title || !date || !withinRange(date, startDate, endDate)) continue;
+
+    const event = {
+      id: `taunusstein-${slugify(url ?? title)}-${date}-${time ?? "all-day"}`,
+      sourceName: pageTitle,
+      sourceUrl: source.link,
+      titleDe: title,
+      date,
+      time,
+      price: { min: null, max: null, currency: "EUR", note: null },
+      city: "Taunusstein",
+      venue: extractTaunussteinVenue(title, description),
+      url,
+      descriptionDe: description,
+      rawType: "Taunusstein Veranstaltungskalender",
+      exportedAt
+    };
+    event.rawCategoryHints = categoryHints(event);
+
+    const key = `${event.date}|${event.time ?? ""}|${event.titleDe}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    events.push(event);
+  }
+
+  return {
+    source,
+    sourceName: pageTitle,
+    exportedUntil: endDate,
+    exportedAt,
+    eventCount: events.length,
+    events
+  };
+}
 
 export function parseFrankfurt24Events(html, source, exportedAt, startDate, endDate) {
   const pageTitle = extractTitle(html) || source.description || "Frankfurt24";
@@ -436,6 +485,15 @@ function extractLocationParts(text) {
     venue: parts[0] ?? null,
     lines: parts
   };
+}
+
+function extractTaunussteinVenue(title, description) {
+  const text = cleanText(`${title} ${description}`);
+  const inMatch = text.match(/\bin\s+([A-ZÄÖÜ][A-Za-zÄÖÜäöüß\-]+)/);
+  if (inMatch) return cleanText(inMatch[1]);
+  const imMatch = text.match(/\bim\s+([A-ZÄÖÜ][A-Za-zÄÖÜäöüß\- ]+)/);
+  if (imMatch) return cleanText(imMatch[1]);
+  return null;
 }
 
 function extractTime(text) {

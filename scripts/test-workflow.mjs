@@ -8,7 +8,8 @@ import {
   parseBiletKartinaEvents,
   parseFrankfurt24Events,
   parseKontramarkaEvents,
-  parseLimburgDommusikEvents
+  parseLimburgDommusikEvents,
+  parseTaunussteinEvents
 } from "./lib/source-parsers.mjs";
 import { parseMainzSearchPage } from "./lib/mainz.mjs";
 
@@ -251,6 +252,74 @@ assert.equal(parsedMainz.eventCount, 1);
 assert.equal(parsedMainz.events[0].city, "Mainz");
 assert.equal(parsedMainz.events[0].url, "https://www.mainz.de/info-networking-event?id=165071");
 assert.equal(parsedMainz.events[0].titleDe, "Mainzer Sommerkonzert");
+
+const taunussteinHtml = `
+  <a name="terminanker_900011422"></a>
+  <div class="style4 managerbox">
+    <h5 class="zugeklappt">
+      <span class="head_container">
+        <span class="funktionicons">
+          <span class="manager_andere_icons">
+            <a href="https://www.taunusstein.de/regional/veranstaltungen/klangvielfalt-im-doppelpack-900011422-29880.html?naviID=0" title="Detailseite"></a>
+          </span>
+        </span>
+      </span>
+      <span id="manager_titel_termine_internet90000011923" class="manager_titel_container zugeklappt">
+        <span class="manager_titel" style="max-width: 893px;">
+          <a class="toggle" title="zuklappen / aufklappen">Klangvielfalt im Doppelpack</a>
+        </span>
+        <span class="manager_untertitel" style="max-width: 893px;">Do., 06.08.2026, 18:30<span class="span_enduhrzeit">&nbsp;-&nbsp;20:30</span> Uhr</span>
+      </span>
+    </h5>
+    <div id="managerboxinfo_termine_internet90000011923" class="box_info_area hide">
+      <div class="main_1">
+        <div class="veranstaltung_grunddaten">
+          <span class="bezeichnung">Klangvielfalt im Doppelpack</span>
+          <span class="datum">Do., 06.08.2026, 18:30<span class="span_enduhrzeit">&nbsp;-&nbsp;20:30</span> Uhr</span>
+          <div class="kurzbeschreibung">Zwei der besten Akkordeonorchester Deutschlands präsentieren sich in Wehen mit einem bunten Programm von Klassik bis Tango.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="managertrenner"></div>
+  <a name="terminanker_900007985"></a>
+  <div class="style4 managerbox">
+    <h5 class="zugeklappt">
+      <span class="head_container">
+        <span class="funktionicons">
+          <span class="manager_andere_icons">
+            <a href="https://www.taunusstein.de/regional/veranstaltungen/wochenmarkt-in-hahn-900007985-29880.html?naviID=0" title="Detailseite"></a>
+          </span>
+        </span>
+      </span>
+      <span id="manager_titel_termine_internet9000001190" class="manager_titel_container zugeklappt">
+        <span class="manager_titel"><a class="toggle">Wochenmarkt in Hahn</a></span>
+        <span class="manager_untertitel">Do., 09.07.2026, 14:00<span class="span_enduhrzeit">&nbsp;-&nbsp;18:00</span> Uhr</span>
+      </span>
+    </h5>
+    <div id="managerboxinfo_termine_internet9000001190" class="box_info_area hide">
+      <div class="main_1"><div class="veranstaltung_grunddaten"><span class="bezeichnung">Wochenmarkt in Hahn</span><span class="datum">Do., 09.07.2026, 14:00<span class="span_enduhrzeit">&nbsp;-&nbsp;18:00</span> Uhr</span></div></div>
+    </div>
+  </div>
+  <div class="managertrenner"></div>
+`;
+
+const parsedTaunusstein = parseTaunussteinEvents(
+  taunussteinHtml,
+  { link: "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/", description: "Taunusstein" },
+  "2026-07-09T00:00:00.000Z",
+  "2026-07-01",
+  "2026-08-31"
+);
+
+assert.equal(parsedTaunusstein.eventCount, 2);
+assert.equal(parsedTaunusstein.events[0].titleDe, "Klangvielfalt im Doppelpack");
+assert.equal(parsedTaunusstein.events[0].date, "2026-08-06");
+assert.equal(parsedTaunusstein.events[0].time, "18:30");
+assert.equal(parsedTaunusstein.events[0].city, "Taunusstein");
+assert.equal(parsedTaunusstein.events[0].url, "https://www.taunusstein.de/regional/veranstaltungen/klangvielfalt-im-doppelpack-900011422-29880.html?naviID=0");
+assert.equal(parsedTaunusstein.events[0].rawCategoryHints.includes("concert"), true);
+assert.equal(parsedTaunusstein.events[1].rawCategoryHints.includes("wochenmarkt"), true);
 
 const preferences = {
   profile: "marina-personal-mvp",

@@ -12,7 +12,6 @@
   "includeTags": [
     "church",
     "concert",
-    "student_concert",
     "arthouse_cinema",
     "kino",
     "exhibition",
@@ -31,7 +30,11 @@
     "klassik",
     "kammermusik",
     "open air",
-    "sommerkino"
+    "sommerkino",
+    "eintritt frei",
+    "kostenlos",
+    "jazz",
+    "kurpark"
   ],
   "excludeTags": [
     "civic",
@@ -42,7 +45,16 @@
     "stricken",
     "haekeln",
     "crochet",
-    "knitting"
+    "knitting",
+    "schülerkonzert",
+    "schuelerkonzert",
+    "musikschule",
+    "vorspiel",
+    "jahreskonzert",
+    "abschlusskonzert",
+    "laientheater",
+    "amateurtheater",
+    "schultheater"
   ],
   "excludeRawPatterns": [
     "politik",
@@ -63,7 +75,7 @@
     "preferredCityBonus": 40,
     "preferredTagBonus": 20,
     "keywordBonus": 15,
-    "freeBonus": 10,
+    "freeBonus": 25,
     "weekendBonus": 10,
     "excludedPenalty": 100,
     "minimumScore": 15

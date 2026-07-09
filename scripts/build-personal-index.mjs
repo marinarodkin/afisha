@@ -35,11 +35,11 @@ function defaultPreferences() {
   return {
     profile: "marina-personal-mvp",
     citiesPriority: ["Bad Schwalbach", "Idstein", "Taunusstein", "Wiesbaden", "Eltville", "Mainz", "Limburg"],
-    includeTags: ["church", "concert", "student_concert", "arthouse_cinema", "kino", "exhibition", "excursion", "lecture"],
+    includeTags: ["church", "concert", "arthouse_cinema", "kino", "exhibition", "excursion", "lecture"],
     boostTags: ["church", "concert", "arthouse_cinema", "kino"],
-    boostKeywords: ["orgel", "kirchenmusik", "klassik", "kammermusik", "open air", "sommerkino"],
+    boostKeywords: ["orgel", "kirchenmusik", "klassik", "kammermusik", "open air", "sommerkino", "eintritt frei", "kostenlos", "jazz", "kurpark"],
     excludeTags: ["civic", "handicraft"],
-    excludeKeywords: ["salsa", "stricken", "haekeln", "crochet", "knitting"],
+    excludeKeywords: ["salsa", "stricken", "haekeln", "crochet", "knitting", "schülerkonzert", "schuelerkonzert", "musikschule", "vorspiel", "jahreskonzert", "abschlusskonzert", "laientheater", "amateurtheater", "schultheater"],
     excludeRawPatterns: ["politik", "demo", "pride"],
     learnedMappings: [
       { ifKeyword: "salsa", alsoExclude: ["bachata", "latin dance", "latin party"] }
@@ -48,7 +48,7 @@ function defaultPreferences() {
       preferredCityBonus: 40,
       preferredTagBonus: 20,
       keywordBonus: 15,
-      freeBonus: 10,
+      freeBonus: 25,
       weekendBonus: 10,
       excludedPenalty: 100,
       minimumScore: 15
