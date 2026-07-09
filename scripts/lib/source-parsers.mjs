@@ -49,6 +49,70 @@ export function parseTaunussteinEvents(html, source, exportedAt, startDate, endD
   };
 }
 
+export function parseBadSchwalbachEvents(html, source, exportedAt, startDate, endDate) {
+  return parseTvmEventListEvents(html, source, exportedAt, startDate, endDate, { city: "Bad Schwalbach", rawType: "Bad Schwalbach Veranstaltungskalender" });
+}
+
+export function parseIdsteinEvents(html, source, exportedAt, startDate, endDate) {
+  return parseTvmEventListEvents(html, source, exportedAt, startDate, endDate, { city: "Idstein", rawType: "Idstein Veranstaltungskalender" });
+}
+
+export function parseTvmEventListEvents(html, source, exportedAt, startDate, endDate, options = {}) {
+  const pageTitle = extractTitle(html) || source.description || options.city || "TVM Veranstaltungen";
+  const city = options.city ?? null;
+  const rawType = options.rawType ?? "TVM Veranstaltungskalender";
+  const events = [];
+  const seen = new Set();
+  const blockRe = /<div data-id="([^"]+)" class="tvm-event event[\s\S]*?(?=<div data-id="|$)/g;
+
+  for (const match of html.matchAll(blockRe)) {
+    const block = match[0];
+    const sourceId = match[1];
+    const url = normalizeUrl(block.match(/<h3[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"/i)?.[1] ?? block.match(/<figure>[\s\S]*?<a[^>]*href="([^"]+)"/i)?.[1] ?? null);
+    const title = cleanText(decodeHtmlEntities(stripTags(block.match(/<h3[^>]*>[\s\S]*?<a[^>]*>([\s\S]*?)<\/a>/i)?.[1] ?? "")));
+    const dayMonth = cleanText(decodeHtmlEntities(stripTags(block.match(/<div class="day-month">([\s\S]*?)<\/div>/i)?.[1] ?? "")));
+    const year = cleanText(decodeHtmlEntities(stripTags(block.match(/<div class="year">([\s\S]*?)<\/div>/i)?.[1] ?? "")));
+    const date = parseGermanDate(`${dayMonth}${year ? year : ""}`);
+    const description = cleanText(decodeHtmlEntities(stripTags(block.match(/integration-card__description[\s\S]*?<p class="paragraph">([\s\S]*?)<\/p>/i)?.[1] ?? ""))) || title;
+    const timeText = cleanText(decodeHtmlEntities(stripTags(block.match(/<p class="integration-card__field integration-card__time[\s\S]*?>([\s\S]*?)<\/p>/i)?.[1] ?? "")));
+    const locationText = cleanText(decodeHtmlEntities(stripTags(block.match(/<p class="integration-card__field integration-card__location[\s\S]*?>([\s\S]*?)<\/p>/i)?.[1] ?? "")));
+    const categoryText = cleanText(decodeHtmlEntities(stripTags(block.match(/<div class="tvm-event--category-category[^>]*>([\s\S]*?)<p class="sr-only">/i)?.[1] ?? block.match(/<div class="tvm-event--category-category[^>]*>([\s\S]*?)<\/div>/i)?.[1] ?? "")));
+    if (!title || !date || !withinRange(date, startDate, endDate)) continue;
+
+    const time = /ganztägig/i.test(timeText) ? null : extractTime(timeText);
+    const event = {
+      id: `${slugify(options.city ?? "tvm")}-${slugify(url ?? sourceId ?? title)}-${date}-${time ?? "all-day"}`,
+      sourceName: pageTitle,
+      sourceUrl: source.link,
+      titleDe: title,
+      date,
+      time,
+      price: { min: null, max: null, currency: "EUR", note: null },
+      city,
+      venue: extractVenueFromLocationText(locationText, city),
+      url,
+      descriptionDe: description,
+      rawType,
+      exportedAt
+    };
+    event.rawCategoryHints = dedupeHints(categoryHints(event).concat(categoryText ? [slugify(categoryText).replace(/-/g, "_")] : []));
+
+    const key = `${event.date}|${event.time ?? ""}|${event.titleDe}|${event.city ?? ""}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    events.push(event);
+  }
+
+  return {
+    source,
+    sourceName: pageTitle,
+    exportedUntil: endDate,
+    exportedAt,
+    eventCount: events.length,
+    events
+  };
+}
+
 export function parseFrankfurt24Events(html, source, exportedAt, startDate, endDate) {
   const pageTitle = extractTitle(html) || source.description || "Frankfurt24";
   const events = [];
@@ -428,6 +492,10 @@ function normalizeCityToken(value) {
 
 const ALLOWED_RUSSIAN_CITIES = new Set(["frankfurt", "mainz", "wiesbaden", "koln", "karlsruhe"]);
 
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
 function extractTitleFromUrl(url) {
   try {
     return new URL(url).hostname;
@@ -485,6 +553,17 @@ function extractLocationParts(text) {
     venue: parts[0] ?? null,
     lines: parts
   };
+}
+
+function extractVenueFromLocationText(text, city = null) {
+  const value = cleanText(text);
+  if (!value) return null;
+  const cityPattern = city ? new RegExp(`,?\\s*\\d{5}\\s+${escapeRegExp(city)}\\s*$`, "i") : /,?\s*\d{5}\s+[A-Za-zÄÖÜäöüß\- ]+\s*$/;
+  return cleanText(value.replace(cityPattern, "").replace(/,\s*$/, "")) || null;
+}
+
+function dedupeHints(hints) {
+  return [...new Set((hints ?? []).filter(Boolean))];
 }
 
 function extractTaunussteinVenue(title, description) {

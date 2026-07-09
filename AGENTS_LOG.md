@@ -2,6 +2,13 @@
 
 ## 2026-07-09
 
+- Добавлены рабочие парсеры официальных городских TVM-календарей `Bad Schwalbach` и `Idstein` через общий HTML-парсер `parseTvmEventListEvents()` в `scripts/lib/source-parsers.mjs`.
+- `scripts/scrape-raw.mjs` теперь умеет автоматически извлекать `event-list.html` endpoint из официальной страницы календаря, подставлять `start=${START_DATE}` и обрабатывать эти TVM-календари для `Bad Schwalbach` и `Idstein`.
+- Добавлены unit-tests в `scripts/test-workflow.mjs` на реальные HTML-фрагменты карточек `Bad Schwalbach` и `Idstein`.
+- Выполнен точечный прогон `source_offset=24 source_amount=2 MONTH=2 npm run update:sources`: из официальных календарей получено 16 raw events, после pre-filtering в enrichment ушло 14, после AI/post-filtering в `sourceBase.json` добавлено 10 событий; размер базы вырос с 572 до 582, а `personalIndex.json` вырос до 58 событий.
+- В персональный индекс реально попали события вроде `Kino & Kulturfestival im Kurpark - 100 Jahre Kino`, `Idstein live - "The Beat!Radicals"`, `Friday Vibes - Musik an, Woche aus`, `Burgspiele 2026 - "Der Doppelgänger"`.
+- После интеграции выполнены `npm run build` и `npm test`; проверки прошли.
+
 - Добавлен новый официальный локальный источник `https://www.taunusstein.de/mein-taunusstein/veranstaltungen/` и новый парсер `parseTaunussteinEvents()` в `scripts/lib/source-parsers.mjs`.
 - `scripts/scrape-raw.mjs` теперь умеет обрабатывать официальный календарь Taunusstein через `scrapeTaunussteinCalendar()`.
 - В `sources.json` добавлены официальные городские календари `Taunusstein`, `Bad Schwalbach` и `Idstein`; из них сейчас реализован рабочий парсер для `Taunusstein`, а `Bad Schwalbach`/`Idstein` добавлены как следующие кандидаты на разбор внутренних event endpoints.

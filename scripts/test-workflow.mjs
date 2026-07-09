@@ -5,8 +5,10 @@ import { extractEventfinderEvents, parseEltvilleFesteEvents } from "./lib/eltvil
 import { buildEffectiveExcludeKeywords, buildPersonalIndex, scoreEventForPreferences } from "./lib/personalization.mjs";
 import {
   parseArtistProductionEvents,
+  parseBadSchwalbachEvents,
   parseBiletKartinaEvents,
   parseFrankfurt24Events,
+  parseIdsteinEvents,
   parseKontramarkaEvents,
   parseLimburgDommusikEvents,
   parseTaunussteinEvents
@@ -320,6 +322,66 @@ assert.equal(parsedTaunusstein.events[0].city, "Taunusstein");
 assert.equal(parsedTaunusstein.events[0].url, "https://www.taunusstein.de/regional/veranstaltungen/klangvielfalt-im-doppelpack-900011422-29880.html?naviID=0");
 assert.equal(parsedTaunusstein.events[0].rawCategoryHints.includes("concert"), true);
 assert.equal(parsedTaunusstein.events[1].rawCategoryHints.includes("wochenmarkt"), true);
+
+const badSchwalbachHtml = `
+  <div class="tvm-event-wrapper">
+    <div data-id="53716:7" class="tvm-event event">
+      <div class="tvm-event content">
+        <div class="integration-card__field-wrapper integration-card__category-wrapper"><div class="integration-card__field integration-card__category"><div class="tvm-event--category-category taxonomy-category__no-color">Kino<p class="sr-only">Kategorie: Kino</p></div></div></div>
+        <div class="integration-card__field-wrapper integration-card__name-wrapper"><div class="integration-card__field integration-card__name"><h3 class="h7"><a href="https://www.bad-schwalbach.de/kalender/termine/2026/serientermine/kino-kulturfestival/2026-07-02-kino-kulturfestival-im-kurpark-100-jahre-kino/53716:7" class="h2 hyphens white">Kino &amp; Kulturfestival im Kurpark - 100 Jahre Kino</a></h3></div></div>
+        <div class="integration-card__field-wrapper integration-card__description-wrapper"><div class="integration-card__field integration-card__description"><div><p class="paragraph"><br>Vom 02. bis 12. Juli 2026 wird der Kurpark Bad Schwalbach zu…</p></div></div></div>
+        <div class="integration-card__field-wrapper integration-card__date-wrapper"><div class="integration-card__field integration-card__date"><span class="date"><div class="day-month">09.07.</div><div class="year">2026</div></span></div></div>
+        <div class="integration-card__field-wrapper integration-card__time-wrapper"><p class="integration-card__field integration-card__time"><span class="sr-only sr-only-label">Uhrzeit:</span>Ganztägig</p></div></div>
+        <div class="integration-card__field-wrapper integration-card__location-wrapper"><p class="integration-card__field integration-card__location"><a href="https://www.openstreetmap.org/search?query=Brunnenstra%C3%9Fe,%2065307%20Bad%20Schwalbach">Kurpark, Brunnenstraße, 65307 Bad Schwalbach</a></p></div>
+      </div>
+    </div>
+  </div>
+`;
+
+const parsedBadSchwalbach = parseBadSchwalbachEvents(
+  badSchwalbachHtml,
+  { link: "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/", description: "Bad Schwalbach" },
+  "2026-07-09T00:00:00.000Z",
+  "2026-07-01",
+  "2026-08-31"
+);
+
+assert.equal(parsedBadSchwalbach.eventCount, 1);
+assert.equal(parsedBadSchwalbach.events[0].titleDe, "Kino & Kulturfestival im Kurpark - 100 Jahre Kino");
+assert.equal(parsedBadSchwalbach.events[0].date, "2026-07-09");
+assert.equal(parsedBadSchwalbach.events[0].time, null);
+assert.equal(parsedBadSchwalbach.events[0].city, "Bad Schwalbach");
+assert.equal(parsedBadSchwalbach.events[0].venue, "Kurpark, Brunnenstraße");
+assert.equal(parsedBadSchwalbach.events[0].rawCategoryHints.includes("kino"), true);
+
+const idsteinHtml = `
+  <div class="tvm-event-wrapper">
+    <div data-id="59187:0" class="tvm-event event">
+      <div class="tvm-event content">
+        <div class="integration-card__field-wrapper integration-card__category-wrapper"><div class="integration-card__field integration-card__category"><div class="tvm-event--category-category taxonomy-category__no-color">Idstein live<p class="sr-only">Kategorie: Idstein live</p></div></div></div>
+        <div class="integration-card__field-wrapper integration-card__name-wrapper"><div class="integration-card__field integration-card__name"><h3 class="h7"><a href="https://www.idstein.de/kalender/2026/juli/2026-07-09-idstein-live-the-beat-radicals/59187:0" class="h2 hyphens white">Idstein live - &#034;The Beat!Radicals&#034;</a></h3></div></div>
+        <div class="integration-card__field-wrapper integration-card__description-wrapper"><div class="integration-card__field integration-card__description"><div><p class="paragraph"><strong>Idstein live steigt auf dem Löherplatz – Mehr Sound.</strong></p></div></div></div>
+        <div class="integration-card__field-wrapper integration-card__date-wrapper"><div class="integration-card__field integration-card__date"><span class="date"><div class="day-month">09.07.</div><div class="year">2026</div></span></div></div>
+        <div class="integration-card__field-wrapper integration-card__time-wrapper"><p class="integration-card__field integration-card__time"><span class="sr-only sr-only-label">Uhrzeit:</span>18:00 - 21:00 Uhr</p></div></div>
+        <div class="integration-card__field-wrapper integration-card__location-wrapper"><p class="integration-card__field integration-card__location">Löherplatz</p></div>
+      </div>
+    </div>
+  </div>
+`;
+
+const parsedIdstein = parseIdsteinEvents(
+  idsteinHtml,
+  { link: "https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/", description: "Idstein" },
+  "2026-07-09T00:00:00.000Z",
+  "2026-07-01",
+  "2026-08-31"
+);
+
+assert.equal(parsedIdstein.eventCount, 1);
+assert.equal(parsedIdstein.events[0].titleDe, 'Idstein live - "The Beat!Radicals"');
+assert.equal(parsedIdstein.events[0].time, "18:00");
+assert.equal(parsedIdstein.events[0].venue, "Löherplatz");
+assert.equal(parsedIdstein.events[0].rawCategoryHints.includes("idstein_live"), true);
 
 const preferences = {
   profile: "marina-personal-mvp",

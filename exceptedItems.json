@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T11:43:16.057Z",
-  "eventCount": 120,
+  "generatedAt": "2026-07-09T12:00:40.775Z",
+  "eventCount": 124,
   "events": [
     {
       "id": "info-networking-event-166696-2026-05-27T17:30:00+02:00",
@@ -1942,6 +1942,70 @@
         "civic"
       ],
       "addedAt": "2026-07-09T11:43:16.057Z"
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-09-idsteiner-weinprobierstand-am-hexenturm-58144-40-2026-07-10-17:00",
+      "date": "2026-07-10",
+      "time": "17:00",
+      "venue": "Altstadt Idstein",
+      "titleDe": "Idsteiner Weinprobierstand am Hexenturm",
+      "title": "Idsteiner Weinprobierstand am Hexenturm / Идштейнский винный стенд у Хексентурма",
+      "key": "2026-07-10|17:00|altstadtidstein|idste",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.774Z"
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-juni-2026-06-19-golfspass-ohne-ende-59171-3-2026-07-10-17:00",
+      "date": "2026-07-10",
+      "time": "17:00",
+      "venue": "Golfpark Idstein Nordkurs, Idsteiner Straße 54",
+      "titleDe": "Golfspaß ohne Ende",
+      "title": "Golfspaß ohne Ende / Гольф-удовольствие без конца",
+      "key": "2026-07-10|17:00|golfparkidsteinnordkursidsteinerstrae54|golfs",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "course",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.774Z"
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-maerz-2026-03-14-altstadt-geschichte-und-geschichten-53805-8-2026-07-11-12:00",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "venue": "Altstadt Idstein",
+      "titleDe": "Altstadt - Geschichte und Geschichten",
+      "title": "Altstadt - Geschichte und Geschichten / Старый город - История и истории",
+      "key": "2026-07-11|12:00|altstadtidstein|altst",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.774Z"
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-09-idsteiner-weinprobierstand-am-hexenturm-58144-41-2026-07-11-17:00",
+      "date": "2026-07-11",
+      "time": "17:00",
+      "venue": "Altstadt Idstein",
+      "titleDe": "Idsteiner Weinprobierstand am Hexenturm",
+      "title": "Idsteiner Weinprobierstand am Hexenturm / Идштейнский винный стенд у Хексентурма",
+      "key": "2026-07-11|17:00|altstadtidstein|idste",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:00:40.775Z"
     }
   ]
 }

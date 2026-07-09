@@ -1,10 +1,90 @@
 {
-  "generatedAt": "2026-07-09T11:43:16.523Z",
-  "basedOnGeneratedAt": "2026-07-09T11:43:16.069Z",
+  "generatedAt": "2026-07-09T12:00:41.328Z",
+  "basedOnGeneratedAt": "2026-07-09T12:00:40.789Z",
   "profile": "marina-personal-mvp",
-  "eventCount": 48,
+  "eventCount": 58,
   "hiddenCount": 13,
   "events": [
+    {
+      "id": "bad-schwalbach-https-www-bad-schwalbach-de-kalender-termine-2026-serientermine-kino-kulturfestival-2026-07-02-kino-kulturfestival-im-kurpark-100-jahre-kino-53716-7-2026-07-09-all-day",
+      "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
+      "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
+      "titleDe": "Kino & Kulturfestival im Kurpark - 100 Jahre Kino",
+      "date": "2026-07-09",
+      "time": null,
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Bad Schwalbach",
+      "venue": "Kurpark, Brunnenstraße",
+      "url": "https://www.bad-schwalbach.de/kalender/termine/2026/serientermine/kino-kulturfestival/2026-07-02-kino-kulturfestival-im-kurpark-100-jahre-kino/53716:7",
+      "descriptionDe": "Vom 02. bis 12. Juli 2026 wird der Kurpark Bad Schwalbach zu…",
+      "rawType": "Bad Schwalbach Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.115Z",
+      "rawCategoryHints": [
+        "kino",
+        "fest"
+      ],
+      "titleRu": "Кино и культурный фестиваль в Курпарке - 100 лет кино",
+      "title": "Kino & Kulturfestival im Kurpark - 100 Jahre Kino / Кино и культурный фестиваль в Курпарке - 100 лет кино",
+      "type": "fest",
+      "tags": [
+        "kino",
+        "fest"
+      ],
+      "descriptionRu": "С 2 по 12 июля 2026 года Курпарк Бад Швальбах станет…",
+      "description": "С 2 по 12 июля 2026 года Курпарк Бад Швальбах станет…",
+      "personalScore": 85,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:kino",
+        "preferred-keyword:kurpark",
+        "weekend"
+      ]
+    },
+    {
+      "id": "bad-schwalbach-https-www-bad-schwalbach-de-kalender-termine-2026-serientermine-kino-kulturfestival-2026-07-02-kino-kulturfestival-im-kurpark-100-jahre-kino-53716-8-2026-07-10-all-day",
+      "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
+      "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
+      "titleDe": "Kino & Kulturfestival im Kurpark - 100 Jahre Kino",
+      "date": "2026-07-10",
+      "time": null,
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Bad Schwalbach",
+      "venue": "Kurpark, Brunnenstraße",
+      "url": "https://www.bad-schwalbach.de/kalender/termine/2026/serientermine/kino-kulturfestival/2026-07-02-kino-kulturfestival-im-kurpark-100-jahre-kino/53716:8",
+      "descriptionDe": "Vom 02. bis 12. Juli 2026 wird der Kurpark Bad Schwalbach zu…",
+      "rawType": "Bad Schwalbach Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.115Z",
+      "rawCategoryHints": [
+        "kino",
+        "fest"
+      ],
+      "titleRu": "Кино и культурный фестиваль в Курпарке - 100 лет кино",
+      "title": "Kino & Kulturfestival im Kurpark - 100 Jahre Kino / Кино и культурный фестиваль в Курпарке - 100 лет кино",
+      "type": "fest",
+      "tags": [
+        "kino",
+        "fest"
+      ],
+      "descriptionRu": "С 2 по 12 июля 2026 года Курпарк Бад Швальбах станет…",
+      "description": "С 2 по 12 июля 2026 года Курпарк Бад Швальбах станет…",
+      "personalScore": 85,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:kino",
+        "preferred-keyword:kurpark",
+        "weekend"
+      ]
+    },
     {
       "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-klangvielfalt-im-doppelpack-900011422-29880-html-naviid-0-2026-08-06-18:30",
       "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
@@ -41,6 +121,163 @@
         "preferred-city",
         "preferred-tag:concert",
         "preferred-keyword:klassik"
+      ]
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-juli-2026-07-09-idstein-live-the-beat-radicals-59187-0-2026-07-09-18:00",
+      "sourceName": "Idstein – официальный Veranstaltungskalender города, включая JazzFestival и городские культурные события.",
+      "sourceUrl": "https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/",
+      "titleDe": "Idstein live - \"The Beat!Radicals\"",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Idstein",
+      "venue": "Löherplatz",
+      "url": "https://www.idstein.de/kalender/2026/juli/2026-07-09-idstein-live-the-beat-radicals/59187:0",
+      "descriptionDe": "Idstein live steigt auf dem Löherplatz – „Mehr Sound – mehr …",
+      "rawType": "Idstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.491Z",
+      "rawCategoryHints": [
+        "other",
+        "idstein_live"
+      ],
+      "titleRu": "Idstein live - \"The Beat!Radicals\"",
+      "title": "Idstein live - \"The Beat!Radicals\" / Idstein live - \"The Beat!Radicals\"",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "descriptionRu": "Idstein live проходит на Löherplatz – «Больше звука – больше …",
+      "description": "Idstein live проходит на Löherplatz – «Больше звука – больше …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-maerz-2026-04-10-friday-vibes-musik-an-woche-aus-58474-13-2026-07-10-18:00",
+      "sourceName": "Idstein – официальный Veranstaltungskalender города, включая JazzFestival и городские культурные события.",
+      "sourceUrl": "https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/",
+      "titleDe": "Friday Vibes - Musik an, Woche aus",
+      "date": "2026-07-10",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Idstein",
+      "venue": "Restaurant Ponyhof, Schützenhausstr. 70",
+      "url": "https://www.idstein.de/kalender/2026/maerz/2026-04-10-friday-vibes-musik-an-woche-aus/58474:13",
+      "descriptionDe": "Ab dem 10. April heißt es bei uns: Friday Vibes ! Unsere neu…",
+      "rawType": "Idstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.491Z",
+      "rawCategoryHints": [
+        "concert",
+        "veranstaltung"
+      ],
+      "titleRu": "Пятничные Вибрации - Музыка включена, неделя закончена",
+      "title": "Friday Vibes - Musik an, Woche aus / Пятничные Вибрации - Музыка включена, неделя закончена",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "descriptionRu": "С 10 апреля у нас: Пятничные Вибрации! Наша новая…",
+      "description": "С 10 апреля у нас: Пятничные Вибрации! Наша новая…",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-juli-2026-07-11-oekumene-bewegt-sommer-tanzfest-59062-0-2026-07-11-16:00",
+      "sourceName": "Idstein – официальный Veranstaltungskalender города, включая JazzFestival и городские культурные события.",
+      "sourceUrl": "https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/",
+      "titleDe": "\"Ökumene bewegt!\" Sommer-Tanzfest",
+      "date": "2026-07-11",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Idstein",
+      "venue": "Pfarrsaal und Pfarrhof St. Martin, Wiesbadener Str. 21",
+      "url": "https://www.idstein.de/kalender/2026/juli/2026-07-11-oekumene-bewegt-sommer-tanzfest/59062:0",
+      "descriptionDe": "Mitten in den Sommerferien laden die beiden Idsteiner Kirche…",
+      "rawType": "Idstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.491Z",
+      "rawCategoryHints": [
+        "church",
+        "spektakl",
+        "fest"
+      ],
+      "titleRu": "«Экуменическое движение!» Летний танцевальный фестиваль",
+      "title": "\"Ökumene bewegt!\" Sommer-Tanzfest / «Экуменическое движение!» Летний танцевальный фестиваль",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "church"
+      ],
+      "descriptionRu": "Посреди летних каникул обе идштейнские церкви приглашают…",
+      "description": "Посреди летних каникул обе идштейнские церкви приглашают…",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:church",
+        "weekend"
+      ]
+    },
+    {
+      "id": "bad-schwalbach-https-www-openstreetmap-org-search-query-brunnenstra-c3-9fe-2020-2065307-20bad-20schwalbach-amp-zoom-18-2026-07-12-14:30",
+      "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
+      "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
+      "titleDe": "Wassertretbecken gegenüber Stahlbadehaus, Brunnenstraße 20, 65307 Bad Schwalbach",
+      "date": "2026-07-12",
+      "time": "14:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Bad Schwalbach",
+      "venue": "Wassertretbecken gegenüber Stahlbadehaus, Brunnenstraße 20",
+      "url": "https://www.openstreetmap.org/search?query=Brunnenstra%C3%9Fe%2020,%2065307%20Bad%20Schwalbach&amp;zoom=18",
+      "descriptionDe": "Wassertretbecken gegenüber Stahlbadehaus, Brunnenstraße 20, 65307 Bad Schwalbach",
+      "rawType": "Bad Schwalbach Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.115Z",
+      "rawCategoryHints": [
+        "other",
+        "wanderung_fuhrung"
+      ],
+      "titleRu": "Купель для ног напротив стального купального дома, Брунненштрассе 20, 65307 Бад Швальбах",
+      "title": "Wassertretbecken gegenüber Stahlbadehaus, Brunnenstraße 20, 65307 Bad Schwalbach / Купель для ног напротив стального купального дома, Брунненштрассе 20, 65307 Бад Швальбах",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "other"
+      ],
+      "descriptionRu": "Купель для ног напротив стального купального дома, Брунненштрассе 20, 65307 Бад Швальбах",
+      "description": "Купель для ног напротив стального купального дома, Брунненштрассе 20, 65307 Бад Швальбах",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
       ]
     },
     {
@@ -266,6 +503,118 @@
       ]
     },
     {
+      "id": "bad-schwalbach-https-www-bad-schwalbach-de-kalender-termine-2026-serientermine-burgspiele-der-doppelgaenger-2026-06-12-burgspiele-2026-der-doppelgaenger-53169-8-2026-07-10-20:00",
+      "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
+      "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
+      "titleDe": "Burgspiele 2026 - \"Der Doppelgänger\"",
+      "date": "2026-07-10",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Bad Schwalbach",
+      "venue": "Burg Hohenstein, Burgstraße 12, 65329 Hohenstein",
+      "url": "https://www.bad-schwalbach.de/kalender/termine/2026/serientermine/burgspiele-der-doppelgaenger/2026-06-12-burgspiele-2026-der-doppelgaenger/53169:8",
+      "descriptionDe": "Burgspiele 2026 - \"Der Doppelgänger\"",
+      "rawType": "Bad Schwalbach Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.115Z",
+      "rawCategoryHints": [
+        "other",
+        "theater_buhne"
+      ],
+      "titleRu": "Замковые игры 2026 - \"Двойник\"",
+      "title": "Burgspiele 2026 - \"Der Doppelgänger\" / Замковые игры 2026 - \"Двойник\"",
+      "type": "spektakl",
+      "tags": [
+        "other",
+        "spektakl"
+      ],
+      "descriptionRu": "Замковые игры 2026 - \"Двойник\"",
+      "description": "Замковые игры 2026 - \"Двойник\"",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "bad-schwalbach-https-www-openstreetmap-org-search-query-burgstra-c3-9fe-2012-2065329-20hohenstein-amp-zoom-18-2026-07-11-20:00",
+      "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
+      "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
+      "titleDe": "Burg Hohenstein, Burgstraße 12, 65329 Hohenstein",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Bad Schwalbach",
+      "venue": "Burg Hohenstein, Burgstraße 12, 65329 Hohenstein",
+      "url": "https://www.openstreetmap.org/search?query=Burgstra%C3%9Fe%2012,%2065329%20Hohenstein&amp;zoom=18",
+      "descriptionDe": "Burg Hohenstein, Burgstraße 12, 65329 Hohenstein",
+      "rawType": "Bad Schwalbach Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.115Z",
+      "rawCategoryHints": [
+        "other",
+        "theater_buhne"
+      ],
+      "titleRu": "Замок Хоэнштайн, Бургштрассе 12, 65329 Хоэнштайн",
+      "title": "Burg Hohenstein, Burgstraße 12, 65329 Hohenstein / Замок Хоэнштайн, Бургштрассе 12, 65329 Хоэнштайн",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Замок Хоэнштайн, Бургштрассе 12, 65329 Хоэнштайн",
+      "description": "Замок Хоэнштайн, Бургштрассе 12, 65329 Хоэнштайн",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-05-limesturm-bei-dasbach-geoeffnet-58303-14-2026-07-12-14:30",
+      "sourceName": "Idstein – официальный Veranstaltungskalender города, включая JazzFestival и городские культурные события.",
+      "sourceUrl": "https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/",
+      "titleDe": "Limesturm bei Dasbach geöffnet",
+      "date": "2026-07-12",
+      "time": "14:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Idstein",
+      "venue": "Limesturm Dasbach",
+      "url": "https://www.idstein.de/kalender/2026/april/2026-04-05-limesturm-bei-dasbach-geoeffnet/58303:14",
+      "descriptionDe": "Der Turm wird jeden Sonntag jeweils in der Zeit von 14:30 bi…",
+      "rawType": "Idstein Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.491Z",
+      "rawCategoryHints": [
+        "other",
+        "sehenswurdigkeit"
+      ],
+      "titleRu": "Лиместурм в Дасбахе открыт",
+      "title": "Limesturm bei Dasbach geöffnet / Лиместурм в Дасбахе открыт",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Башня будет открыта каждое воскресенье с 14:30 до…",
+      "description": "Башня будет открыта каждое воскресенье с 14:30 до…",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
       "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-sommer-workshop-meditation-900011432-29880-html-naviid-0-2026-07-18-14:00",
       "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
       "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
@@ -406,6 +755,42 @@
         "preferred-tag:concert",
         "preferred-keyword:klassik",
         "weekend"
+      ]
+    },
+    {
+      "id": "bad-schwalbach-https-www-openstreetmap-org-search-query-emser-20stra-c3-9fe-203-20-vereinsr-c3-a4ume-2065307-20bad-20schwalbach-amp-zoom-18-2026-07-15-17:00",
+      "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
+      "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
+      "titleDe": "Kneipp-Verein Bad Schwalbach e.V., Emser Straße 3 (Vereinsräume), 65307 Bad Schwalbach",
+      "date": "2026-07-15",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Bad Schwalbach",
+      "venue": "Kneipp-Verein Bad Schwalbach e.V., Emser Straße 3 (Vereinsräume)",
+      "url": "https://www.openstreetmap.org/search?query=Emser%20Stra%C3%9Fe%203%20(Vereinsr%C3%A4ume),%2065307%20Bad%20Schwalbach&amp;zoom=18",
+      "descriptionDe": "„Lernt das Wasser…",
+      "rawType": "Bad Schwalbach Veranstaltungskalender",
+      "exportedAt": "2026-07-09T11:59:16.115Z",
+      "rawCategoryHints": [
+        "other",
+        "kneipp"
+      ],
+      "titleRu": "Кнейпп-ассоциация Бад Швальбах, Эмсер Штрассе 3 (помещения ассоциации), 65307 Бад Швальбах",
+      "title": "Kneipp-Verein Bad Schwalbach e.V., Emser Straße 3 (Vereinsräume), 65307 Bad Schwalbach / Кнейпп-ассоциация Бад Швальбах, Эмсер Штрассе 3 (помещения ассоциации), 65307 Бад Швальбах",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "„Узнайте о воде…",
+      "description": "„Узнайте о воде…",
+      "personalScore": 40,
+      "matchReasons": [
+        "preferred-city"
       ]
     },
     {

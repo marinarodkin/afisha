@@ -14,8 +14,10 @@ import { extractEventfinderEvents, parseEltvilleFesteEvents } from "./lib/eltvil
 import { buildMainzSearchBody, parseMainzSearchPage, MAINZ_CALENDAR_TITLE } from "./lib/mainz.mjs";
 import {
   parseArtistProductionEvents,
+  parseBadSchwalbachEvents,
   parseBiletKartinaEvents,
   parseFrankfurt24Events,
+  parseIdsteinEvents,
   parseKontramarkaEvents,
   parseLimburgDommusikEvents,
   parseTaunussteinEvents
@@ -162,6 +164,12 @@ async function scrapeSource(source) {
   if (source.link === "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/") {
     return scrapeTaunussteinCalendar(source);
   }
+  if (source.link === "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/") {
+    return scrapeBadSchwalbachCalendar(source);
+  }
+  if (source.link === "https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/") {
+    return scrapeIdsteinCalendar(source);
+  }
   if (source.link === "https://frankfurt24.ru/de/event") {
     return scrapeFrankfurt24(source);
   }
@@ -280,6 +288,35 @@ async function scrapeTaunussteinCalendar(source) {
   if (!response.ok) throw new Error(`Taunusstein page failed with HTTP ${response.status}`);
   const html = await response.text();
   return parseTaunussteinEvents(html, source, new Date().toISOString(), START_DATE, END_DATE);
+}
+
+async function scrapeBadSchwalbachCalendar(source) {
+  return scrapeTvmCalendar(source, parseBadSchwalbachEvents, "Bad Schwalbach");
+}
+
+async function scrapeIdsteinCalendar(source) {
+  return scrapeTvmCalendar(source, parseIdsteinEvents, "Idstein");
+}
+
+async function scrapeTvmCalendar(source, parseFn, label) {
+  const response = await fetchWithRetry(source.link);
+  if (!response.ok) throw new Error(`${label} page failed with HTTP ${response.status}`);
+  const html = await response.text();
+  const endpoint = extractTvmEventListEndpoint(html, source.link, START_DATE);
+  if (!endpoint) throw new Error(`${label} event-list endpoint not found`);
+  const listResponse = await fetchWithRetry(endpoint, { headers: { "x-requested-with": "XMLHttpRequest" } });
+  if (!listResponse.ok) throw new Error(`${label} event-list failed with HTTP ${listResponse.status}`);
+  const listHtml = await listResponse.text();
+  return parseFn(listHtml, source, new Date().toISOString(), START_DATE, END_DATE);
+}
+
+function extractTvmEventListEndpoint(html, sourceUrl, startDate) {
+  const match = html.match(/event-list\.html\?[^"']+/i);
+  if (!match) return null;
+  const decoded = match[0].replace(/&amp;/g, "&");
+  const url = new URL(decoded, sourceUrl);
+  if (!url.searchParams.has("start")) url.searchParams.set("start", startDate);
+  return url.href;
 }
 
 async function scrapeLimburgDommusik(source) {

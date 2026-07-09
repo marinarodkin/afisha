@@ -17,6 +17,8 @@ Current filtering rule: Russian-language sources are kept only for `Frankfurt`, 
 | `https://www.eltville.de/freizeit-tourismus/kultur-veranstaltungen/feste-events/` | parsed | 3 | 9 | Dedicated Eltville fixed events feed. |
 | `https://www.eventfinder.de/eltville/veranstaltungen/` | parsed | 12 | 61 | Eltville eventfinder feed with JSON-LD events and pagination. |
 | `https://www.taunusstein.de/mein-taunusstein/veranstaltungen/` | parsed | 28 | 12 | Official Taunusstein city calendar; initial parser extracts real dated city events, while weekly markets continue to be filtered by `wochenmarkt`. |
+| `https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/` | parsed | 7 | 4 | Official Bad Schwalbach city calendar via TVM event-list endpoint; already contributes Kurpark cinema and theatre events, though some title/location cleanup is still possible. |
+| `https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/` | parsed | 9 | 6 | Official Idstein city calendar via TVM event-list endpoint; contributes live music and city events and should improve once more date-window pages/Jazz items are covered. |
 | `https://limburger-dommusik.de/kalender-dommusik` | parsed | 6 | 2 | Limburg calendar parser works; the feed is small. |
 | `https://biletkartina.tv` | parsed | 8 | 8 | Russian-language ticket source, contributes usable events. |
 | `https://biletkartina.tv/de/outskirts/Frankfurt%20am%20Main/events` | parsed | 8 | 5 | Frankfurt/Rhein-Main slice of BiletKartina. |
@@ -70,6 +72,7 @@ These sources either produced raw items that were fully deduplicated or they onl
 - Wiesbaden is still the only city with deep coverage.
 - Eltville is now the only other local area with a meaningful second feed.
 - Taunusstein now has a real official city feed instead of only aggregator placeholders.
+- Bad Schwalbach and Idstein now also have real official city feeds through their TVM calendars.
 - Limburg, Frankfurt24, BiletKartina, and Artist Production add real value.
 - Mainz is present in `sources.json`, but the current parser still does not extract dated events from its official pages.
 - A lot of the remaining sources are discovery pages, redirects, or blocked pages. They are useful as source pointers, but not as event feeds yet.
