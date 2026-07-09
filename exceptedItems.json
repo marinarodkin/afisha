@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-07-09T12:05:36.724Z",
-  "eventCount": 31,
+  "generatedAt": "2026-07-09T12:41:13.689Z",
+  "eventCount": 65,
   "events": [
+    {
+      "id": "mainz-info-networking-event-167716-2026-07-09T10:30:00+02:00",
+      "date": "2026-07-09",
+      "time": "10:30",
+      "venue": "Online Digitaler Vortrag",
+      "titleDe": "Web-Seminar: Dark Patterns – Lassen Sie sich nicht manipulieren!",
+      "title": "Web-Seminar: Dark Patterns – Lassen Sie sich nicht manipulieren! / Вебинар: Темные паттерны – Не дайте себя обмануть!",
+      "key": "2026-07-09|10:30|onlinedigitalervortrag|webse",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "course",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.157Z"
+    },
+    {
+      "id": "mainz-info-networking-event-166066-2026-07-09T12:30:00+02:00",
+      "date": "2026-07-09",
+      "time": "12:30",
+      "venue": "Landesmuseum Mainz",
+      "titleDe": "KiM - Kunst in der Mittagspause",
+      "title": "KiM - Kunst in der Mittagspause / КиМ - Искусство во время обеда",
+      "key": "2026-07-09|12:30|landesmuseummainz|kimku",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "exhibition",
+        "museum",
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.157Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167430-2026-07-09T17:00:00+02:00",
+      "date": "2026-07-09",
+      "time": "17:00",
+      "venue": "LEIZA - Leibniz-Zentrum für Archäologie",
+      "titleDe": "Weintreff am LEIZA",
+      "title": "Weintreff am LEIZA / Винная встреча в LEIZA",
+      "key": "2026-07-09|17:00|leizaleibnizzentrumfurarchaologie|weint",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.157Z"
+    },
     {
       "id": "eventfinder-3168296-2026-07-09-19:00",
       "date": "2026-07-09",
@@ -17,6 +67,103 @@
         "civic"
       ],
       "addedAt": "2026-05-27T19:08:35.645Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167675-2026-07-09T19:00:00+02:00",
+      "date": "2026-07-09",
+      "time": "19:00",
+      "venue": "krumm & schepp",
+      "titleDe": "Spezial-PubQuiz für mehr Gemeinsamkeit",
+      "title": "Spezial-PubQuiz für mehr Gemeinsamkeit / Специальный паб-квиз для большего единства",
+      "key": "2026-07-09|19:00|krummschepp|spezi",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "other"
+      ],
+      "addedAt": "2026-07-09T12:33:00.157Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167957-2026-07-09T19:00:00+02:00",
+      "date": "2026-07-09",
+      "time": "19:00",
+      "venue": "Der Weinschmitt",
+      "titleDe": "Wein-Erlebnis-Treff – Weine entdecken, genießen, erleben",
+      "title": "Wein-Erlebnis-Treff – Weine entdecken, genießen, erleben / Винный опыт – открывайте, наслаждайтесь, переживайте вина",
+      "key": "2026-07-09|19:00|derweinschmitt|weine",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.157Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167835-2026-07-09T23:00:00+02:00",
+      "date": "2026-07-09",
+      "time": "23:00",
+      "venue": "Kulturclub schon schön",
+      "titleDe": "Good as Hell (Pop, Disco, Soul, RnB)",
+      "title": "Good as Hell (Pop, Disco, Soul, RnB) / Хорошо как ад (Поп, Диско, Соул, RnB)",
+      "key": "2026-07-09|23:00|kulturclubschonschon|gooda",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "spektakl",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.157Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167596-2026-07-10T00:00:00+02:00",
+      "date": "2026-07-10",
+      "time": null,
+      "venue": "Ebersheim",
+      "titleDe": "Weinfest im Dorf",
+      "title": "Weinfest im Dorf / Винный фестиваль в деревне",
+      "key": "2026-07-10||ebersheim|weinf",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.157Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167828-2026-07-10T14:00:00+02:00",
+      "date": "2026-07-10",
+      "time": "14:00",
+      "venue": "Plenarsaal d. Akademie d. Wissenschaften",
+      "titleDe": "Wilhelm-Lauer- Lecture 2026: Geoökologie im intergenerationellen Dialog",
+      "title": "Wilhelm-Lauer- Lecture 2026: Geoökologie im intergenerationellen Dialog / Лекция Вильгельма Лауэра 2026: Геоэкология в межпоколенческом диалоге",
+      "key": "2026-07-10|14:00|plenarsaaldakademiedwissenschaften|wilhe",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "lecture",
+        "other"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167831-2026-07-10T16:00:00+02:00",
+      "date": "2026-07-10",
+      "time": "16:00",
+      "venue": "Kuehn Kunz Rosen Brauerei",
+      "titleDe": "KUEHN & Friends - Das Bier- und Weinfestival",
+      "title": "KUEHN & Friends - Das Bier- und Weinfestival / KUEHN & Friends - Пивной и винный фестиваль",
+      "key": "2026-07-10|16:00|kuehnkunzrosenbrauerei|kuehn",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
     },
     {
       "id": "idstein-https-www-idstein-de-kalender-2026-april-2026-04-09-idsteiner-weinprobierstand-am-hexenturm-58144-40-2026-07-10-17:00",
@@ -51,6 +198,136 @@
       "addedAt": "2026-07-09T12:00:40.774Z"
     },
     {
+      "id": "mainz-info-networking-event-165868-2026-07-10T18:00:00+02:00",
+      "date": "2026-07-10",
+      "time": "18:00",
+      "venue": "Weinwiese Weingut Stenner",
+      "titleDe": "Summer Wine Vol.2",
+      "title": "Summer Wine Vol.2 / Летнее вино. Часть 2",
+      "key": "2026-07-10|18:00|weinwieseweingutstenner|summe",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
+    },
+    {
+      "id": "mainz-info-networking-event-168040-2026-07-10T19:00:00+02:00",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "venue": "Altes Postlager Mainz",
+      "titleDe": "Partners in Wine",
+      "title": "Partners in Wine / Партнеры по вину",
+      "key": "2026-07-10|19:00|altespostlagermainz|partn",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167598-2026-07-10T19:45:00+02:00",
+      "date": "2026-07-10",
+      "time": "19:45",
+      "venue": "Schiffsanlegestelle der Köln-Düsseldorfer Personenschifffahrt",
+      "titleDe": "Lounge Abendfahrt Mainz: Schiffstour mit Lounge-Musik und DJ",
+      "title": "Lounge Abendfahrt Mainz: Schiffstour mit Lounge-Musik und DJ / Лаунж-экскурсия по Майнцу: круиз на корабле с лаунж-музыкой и диджеем",
+      "key": "2026-07-10|19:45|schiffsanlegestellederkolndusseldorferpersonenschifffahrt|loung",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "other",
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
+    },
+    {
+      "id": "mainz-info-networking-event-165608-2026-07-11T07:00:00+02:00",
+      "date": "2026-07-11",
+      "time": "07:00",
+      "venue": "Rheinufer (Theodor-Heuss-Brücke bis Kaisertor)",
+      "titleDe": "Flohmarkt \"Krempelmarkt\" am Mainzer Rheinufer",
+      "title": "Flohmarkt \"Krempelmarkt\" am Mainzer Rheinufer / Блошиный рынок \"Кремпельмаркт\" на набережной Рейна в Майнце",
+      "key": "2026-07-11|07:00|rheinufertheodorheussbruckebiskaisertor|flohm",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "wochenmarkt",
+        "other"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
+    },
+    {
+      "id": "mainz-info-networking-event-165551-2026-07-11T07:00:00+02:00",
+      "date": "2026-07-11",
+      "time": "07:00",
+      "venue": "Dalheimer Weg, Parkplatz",
+      "titleDe": "Flohmarkt an der Uni Mainz",
+      "title": "Flohmarkt an der Uni Mainz / Блошиный рынок при Университете Майнца",
+      "key": "2026-07-11|07:00|dalheimerwegparkplatz|flohm",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "wochenmarkt",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
+    },
+    {
+      "id": "mainz-info-networking-event-161612-2026-07-11T09:00:00+02:00",
+      "date": "2026-07-11",
+      "time": "09:00",
+      "venue": "Tritonplatz",
+      "titleDe": "Marktfrühstück auf dem Tritonplatz",
+      "title": "Marktfrühstück auf dem Tritonplatz / Рынок завтраков на площади Тритон",
+      "key": "2026-07-11|09:00|tritonplatz|markt",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "wochenmarkt",
+        "children"
+      ],
+      "addedAt": "2026-07-09T12:33:00.158Z"
+    },
+    {
+      "id": "mainz-info-networking-event-165182-2026-07-11T10:00:00+02:00",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "venue": "VHS AKK Zweigstelle",
+      "titleDe": "Repair Café AKK",
+      "title": "Repair Café AKK / Ремонтное кафе АКК",
+      "key": "2026-07-11|10:00|vhsakkzweigstelle|repai",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "other",
+        "handicraft",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:37:12.701Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167958-2026-07-11T11:00:00+02:00",
+      "date": "2026-07-11",
+      "time": "11:00",
+      "venue": "Lennebergwald",
+      "titleDe": "Wanderung im Lennebergwald für an Krebs erkrankte Menschen und ihre Angehörigen",
+      "title": "Wanderung im Lennebergwald für an Krebs erkrankte Menschen und ihre Angehörigen / Прогулка по лесу Леннеберг для людей, больных раком, и их родственников",
+      "key": "2026-07-11|11:00|lennebergwald|wande",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:37:12.701Z"
+    },
+    {
       "id": "idstein-https-www-idstein-de-kalender-2026-maerz-2026-03-14-altstadt-geschichte-und-geschichten-53805-8-2026-07-11-12:00",
       "date": "2026-07-11",
       "time": "12:00",
@@ -81,6 +358,55 @@
         "civic"
       ],
       "addedAt": "2026-07-09T12:00:40.775Z"
+    },
+    {
+      "id": "mainz-info-networking-event-166793-2026-07-12T14:00:00+02:00",
+      "date": "2026-07-12",
+      "time": "14:00",
+      "venue": "Markt 17, Tourist Information",
+      "titleDe": "Der Judensand - Teil des UNESCO-Welterbes",
+      "title": "Der Judensand - Teil des UNESCO-Welterbes / Юденсанд - часть Всемирного наследия ЮНЕСКО",
+      "key": "2026-07-12|14:00|markt17touristinformation|derju",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:37:12.701Z"
+    },
+    {
+      "id": "mainz-info-networking-event-164285-2026-07-12T15:00:00+02:00",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "venue": "Hopfengarten, Altstadt",
+      "titleDe": "Mainzer Gassen-Geheimnisse – Mainz abseits der bekannten Wege",
+      "title": "Mainzer Gassen-Geheimnisse – Mainz abseits der bekannten Wege / Секреты улочек Майнца – Майнц вдали от известных путей",
+      "key": "2026-07-12|15:00|hopfengartenaltstadt|mainz",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:37:12.702Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167741-2026-07-12T15:00:00+02:00",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "venue": "Goetheplatz",
+      "titleDe": "Neuperspektiven: Kunstfest mit Kunstprojekten, Mitmachaktionen & Gesprächen",
+      "title": "Neuperspektiven: Kunstfest mit Kunstprojekten, Mitmachaktionen & Gesprächen / Новые перспективы: Искусствоведческий фестиваль с художественными проектами, интерактивными действиями и беседами",
+      "key": "2026-07-12|15:00|goetheplatz|neupe",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic",
+        "creative_meeting"
+      ],
+      "addedAt": "2026-07-09T12:37:12.702Z"
     },
     {
       "id": "eventfinder-3168334-2026-07-12-19:00",
@@ -502,6 +828,234 @@
         "civic"
       ],
       "addedAt": "2026-05-27T19:08:35.646Z"
+    },
+    {
+      "id": "mainz-info-networking-event-166674-2026-07-14T18:00:00+02:00",
+      "date": "2026-07-14",
+      "time": "18:00",
+      "venue": "FOM Hochschulzentrum Mainz",
+      "titleDe": "Offene Studienberatung Mainz",
+      "title": "Offene Studienberatung Mainz / Открытая консультация по учебе в Майнце",
+      "key": "2026-07-14|18:00|fomhochschulzentrummainz|offen",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "course",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.687Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167488-2026-07-14T18:00:00+02:00",
+      "date": "2026-07-14",
+      "time": "18:00",
+      "venue": "Landesmuseum Mainz",
+      "titleDe": "Treffpunkt Kunst",
+      "title": "Treffpunkt Kunst / Встреча Искусства",
+      "key": "2026-07-14|18:00|landesmuseummainz|treff",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "museum",
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.687Z"
+    },
+    {
+      "id": "mainz-info-networking-event-168044-2026-07-14T21:00:00+02:00",
+      "date": "2026-07-14",
+      "time": "21:00",
+      "venue": "Kulturbiergarten im Schloss",
+      "titleDe": "PUBLIC VIEWING - HALBFINALE",
+      "title": "PUBLIC VIEWING - HALBFINALE / ПУБЛИЧНЫЙ ПРОСМОТР - ПОЛУФИНАЛ",
+      "key": "2026-07-14|21:00|kulturbiergartenimschloss|publi",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "other",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.687Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167851-2026-07-15T10:00:00+02:00",
+      "date": "2026-07-15",
+      "time": "10:00",
+      "venue": "Volkspark Mainz",
+      "titleDe": "Interkulturelle Laufgruppe für Frauen ab 60 Jahren",
+      "title": "Interkulturelle Laufgruppe für Frauen ab 60 Jahren / Межкультурная беговая группа для женщин старше 60 лет",
+      "key": "2026-07-15|10:00|volksparkmainz|inter",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "sport",
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.687Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167925-2026-07-15T12:30:00+02:00",
+      "date": "2026-07-15",
+      "time": "12:30",
+      "venue": "Öffentliche Bücherei - Anna Seghers",
+      "titleDe": "Erwachsenenführung „Bücherei kompakt“",
+      "title": "Erwachsenenführung „Bücherei kompakt“ / Взрослая экскурсия «Библиотека компактно»",
+      "key": "2026-07-15|12:30|offentlichebuchereiannaseghers|erwac",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.687Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167805-2026-07-15T18:00:00+02:00",
+      "date": "2026-07-15",
+      "time": "18:00",
+      "venue": "LEIZA - Leibniz-Zentrum für Archäologie",
+      "titleDe": "Vortrag: Natürliche Klimazeugen – Baumjahrringe zur Erforschung vergangener Umweltveränderungen",
+      "title": "Vortrag: Natürliche Klimazeugen – Baumjahrringe zur Erforschung vergangener Umweltveränderungen / Лекция: Естественные климатические свидетели – годичные кольца деревьев для исследования прошлых изменений окружающей среды",
+      "key": "2026-07-15|18:00|leizaleibnizzentrumfurarchaologie|vortr",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "lecture",
+        "other"
+      ],
+      "addedAt": "2026-07-09T12:41:13.687Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167817-2026-07-16T15:30:00+02:00",
+      "date": "2026-07-16",
+      "time": "15:30",
+      "venue": "Ev. Pauluskirchengemeinde",
+      "titleDe": "Begegnungs-Café der Beratungsstelle Trauerwege e.V.",
+      "title": "Begegnungs-Café der Beratungsstelle Trauerwege e.V. / Кафе встреч для людей, переживающих горе",
+      "key": "2026-07-16|15:30|evpauluskirchengemeinde|begeg",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "church",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167926-2026-07-16T17:30:00+02:00",
+      "date": "2026-07-16",
+      "time": "17:30",
+      "venue": "Öffentliche Bücherei - Anna Seghers",
+      "titleDe": "Erwachsenenführung „Bücherei – wie geht das?“",
+      "title": "Erwachsenenführung „Bücherei – wie geht das?“ / Взрослая экскурсия «Библиотека – как это работает?»",
+      "key": "2026-07-16|17:30|offentlichebuchereiannaseghers|erwac",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "excursion",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167768-2026-07-16T18:30:00+02:00",
+      "date": "2026-07-16",
+      "time": "18:30",
+      "venue": "ZMO e.V.",
+      "titleDe": "Sprechen & Zuhören - Dialoge in Mainz",
+      "title": "Sprechen & Zuhören - Dialoge in Mainz / Разговоры и слушание - Диалоги в Майнце",
+      "key": "2026-07-16|18:30|zmoev|sprec",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "fest"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
+    },
+    {
+      "id": "mainz-info-networking-event-168079-2026-07-16T19:00:00+02:00",
+      "date": "2026-07-16",
+      "time": "19:00",
+      "venue": "Cardabela Buchladen",
+      "titleDe": "Lesung mit Nicola Denis: Wo die Kaffeekirschen leuchten",
+      "title": "Lesung mit Nicola Denis: Wo die Kaffeekirschen leuchten / Чтение с Никола Дени: Где светят кофейные вишни",
+      "key": "2026-07-16|19:00|cardabelabuchladen|lesun",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "reading",
+        "reading_club",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
+    },
+    {
+      "id": "mainz-info-networking-event-168073-2026-07-16T20:00:00+02:00",
+      "date": "2026-07-16",
+      "time": "20:00",
+      "venue": "CinéMayence im Institut Français",
+      "titleDe": "Breaking Social – Können wir uns die Reichen leisten?",
+      "title": "Breaking Social – Können wir uns die Reichen leisten? / Социальные изменения – Можем ли мы позволить себе богатых?",
+      "key": "2026-07-16|20:00|cinemayenceiminstitutfrancais|break",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "civic",
+        "other"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
+    },
+    {
+      "id": "mainz-info-networking-event-168077-2026-07-17T14:00:00+02:00",
+      "date": "2026-07-17",
+      "time": "14:00",
+      "venue": "Rheinufer/ Höhe Kurfürstliches Schloss",
+      "titleDe": "Festa Italiana - Italienisches Straßenfest",
+      "title": "Festa Italiana - Italienisches Straßenfest / Итальянский уличный фестиваль - Festa Italiana",
+      "key": "2026-07-17|14:00|rheinuferhohekurfurstlichesschloss|festa",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
+    },
+    {
+      "id": "mainz-info-networking-event-167597-2026-07-17T18:00:00+02:00",
+      "date": "2026-07-17",
+      "time": "18:00",
+      "venue": "Laubenheimer Park",
+      "titleDe": "Rebblütenfest im Laubenheimer Park",
+      "title": "Rebblütenfest im Laubenheimer Park / Фестиваль цветения винограда в парке Лаубенхайм",
+      "key": "2026-07-17|18:00|laubenheimerpark|rebbl",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "fest",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
+    },
+    {
+      "id": "mainz-info-networking-event-168051-2026-07-17T18:30:00+02:00",
+      "date": "2026-07-17",
+      "time": "18:30",
+      "venue": "Kulturbiergarten im Schloss",
+      "titleDe": "Chili Sowieso",
+      "title": "Chili Sowieso / Чили Совиcо",
+      "key": "2026-07-17|18:30|kulturbiergartenimschloss|chili",
+      "reason": "exceptionAiTags",
+      "categories": [],
+      "tags": [
+        "concert",
+        "civic"
+      ],
+      "addedAt": "2026-07-09T12:41:13.688Z"
     }
   ]
 }

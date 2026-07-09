@@ -1,10 +1,625 @@
 {
-  "generatedAt": "2026-07-09T12:05:37.063Z",
-  "basedOnGeneratedAt": "2026-07-09T12:05:36.729Z",
+  "generatedAt": "2026-07-09T12:41:14.093Z",
+  "basedOnGeneratedAt": "2026-07-09T12:41:13.695Z",
   "profile": "marina-personal-mvp",
-  "eventCount": 58,
-  "hiddenCount": 13,
+  "eventCount": 143,
+  "hiddenCount": 14,
   "events": [
+    {
+      "id": "mainz-info-networking-event-166889-2026-07-11T12:05:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "ZWÖLF NULL FÜNF - Orgelmatinées am Samstag um 12:05 Uhr",
+      "date": "2026-07-11",
+      "time": "12:05",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kath. Kirche St. Stephan Mainz Altstadt",
+      "url": "https://www.mainz.de/info-networking-event?id=166889",
+      "descriptionDe": "ZWÖLF NULL FÜNF - Orgelmatinées am Samstag um 12:05 Uhr im Mainzer Orgelzyklus an der Klais Orgel in St. Stephan. Eintritt frei 30.05.2026 - Martin und Mirjam Bäßler (Trompete) und Ralph Hammes (Orgel) 13.06.2026 - Julia Kohler, Tauberbischofsheim 11.07.2026 - Christiane Goeke-Goos 01.08.2026 - Camillo Ballandt …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "church"
+      ],
+      "titleRu": "ДВЕНАДЦАТЬ НУЛЬ ПЯТЬ - Органные матinee в субботу в 12:05",
+      "title": "ZWÖLF NULL FÜNF - Orgelmatinées am Samstag um 12:05 Uhr / ДВЕНАДЦАТЬ НУЛЬ ПЯТЬ - Органные матinee в субботу в 12:05",
+      "type": "church",
+      "tags": [
+        "church",
+        "free"
+      ],
+      "descriptionRu": "ДВЕНАДЦАТЬ НУЛЬ ПЯТЬ - Органные матinee в субботу в 12:05 в рамках Майнцкого органного цикла на органе Клайса в церкви Святого Стефана. Вход свободный 30.05.2026 - Мартин и Мириам Бесслер (труба) и Ральф Хаммес (орган) 13.06.2026 - Юлия Кохлер, Таубербишофсхайм 11.07.2026 - Кристиане Гёке-Гус 01.08.2026 - Камилло Балландт …",
+      "description": "ДВЕНАДЦАТЬ НУЛЬ ПЯТЬ - Органные матinee в субботу в 12:05 в рамках Майнцкого органного цикла на органе Клайса в церкви Святого Стефана. Вход свободный 30.05.2026 - Мартин и Мириам Бесслер (труба) и Ральф Хаммес (орган) 13.06.2026 - Юлия Кохлер, Таубербишофсхайм 11.07.2026 - Кристиане Гёке-Гус 01.08.2026 - Камилло Балландт …",
+      "personalScore": 125,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:church",
+        "preferred-keyword:orgel",
+        "preferred-keyword:eintritt frei",
+        "free-entry",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165533-2026-07-10T14:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "NEU! Zwischen Rhein & Altstadtflair – Mainz entspannt entdecken",
+      "date": "2026-07-10",
+      "time": "14:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Wein & More Kirschgarten29",
+      "url": "https://www.mainz.de/info-networking-event?id=165533",
+      "descriptionDe": "Entdecken Sie Mainz abseits der großen Touristenströme bei einem entspannten Stadtspaziergang zwischen Altstadt und Rhein. Abseits der klassischen Routen führt der Weg durch verwinkelte Gassen, vorbei am Dom, über den Fischtorplatz bis hinunter zum Rheinufer mit moderner Freiluft-Galerie. Unterwegs erfahren Sie …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "church",
+        "exhibition",
+        "fest"
+      ],
+      "titleRu": "НОВИНКА! Между Рейном и атмосферой старого города – расслабляющее открытие Майнца",
+      "title": "NEU! Zwischen Rhein & Altstadtflair – Mainz entspannt entdecken / НОВИНКА! Между Рейном и атмосферой старого города – расслабляющее открытие Майнца",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "church",
+        "exhibition",
+        "fest"
+      ],
+      "descriptionRu": "Откройте для себя Майнц вдали от больших туристических потоков во время расслабляющей прогулки по городу между старым городом и Рейном. Вдали от классических маршрутов путь проходит через извивающиеся улочки, мимо собора, через площадь Фишторплатц к набережной Рейна с современной открытой галереей. По пути вы узнаете …",
+      "description": "Откройте для себя Майнц вдали от больших туристических потоков во время расслабляющей прогулки по городу между старым городом и Рейном. Вдали от классических маршрутов путь проходит через извивающиеся улочки, мимо собора, через площадь Фишторплатц к набережной Рейна с современной открытой галереей. По пути вы узнаете …",
+      "personalScore": 110,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "preferred-tag:church",
+        "preferred-tag:exhibition",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167816-2026-07-09T10:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Resonance. Ausstellung des Kreativen Medienlabors",
+      "date": "2026-07-09",
+      "time": "10:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Schule des Sehens",
+      "url": "https://www.mainz.de/info-networking-event?id=167816",
+      "descriptionDe": "Wie schaffen wir für Themen Aufmerksamkeit und Resonanz? Welche Medien, Kanäle und Plattformen sind für die Zielgruppe geeignet? Genau damit beschäftigen sich Studierende im Kreativen Medienlabor – einem Raum für innovative, interdisziplinäre Projekte der Johannes Gutenberg-Universität und der Hochschule Mainz. …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "exhibition"
+      ],
+      "titleRu": "Резонанс. Выставка Креативной медийной лаборатории",
+      "title": "Resonance. Ausstellung des Kreativen Medienlabors / Резонанс. Выставка Креативной медийной лаборатории",
+      "type": "exhibition",
+      "tags": [
+        "exhibition",
+        "arthouse_cinema"
+      ],
+      "descriptionRu": "Как мы можем привлечь внимание к темам и создать резонанс? Какие медиа, каналы и платформы подходят для целевой аудитории? Именно этим занимаются студенты в Креативной медийной лаборатории — пространстве для инновационных, междисциплинарных проектов Университета Иоганна Гутенберга и Университета Майнца. …",
+      "description": "Как мы можем привлечь внимание к темам и создать резонанс? Какие медиа, каналы и платформы подходят для целевой аудитории? Именно этим занимаются студенты в Креативной медийной лаборатории — пространстве для инновационных, междисциплинарных проектов Университета Иоганна Гутенберга и Университета Майнца. …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:exhibition",
+        "preferred-tag:arthouse_cinema",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166754-2026-07-09T13:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Stadtführung - Altstadt und St.Stephan mit Chagall-Fenstern",
+      "date": "2026-07-09",
+      "time": "13:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Markt 17, Tourist Information",
+      "url": "https://www.mainz.de/info-networking-event?id=166754",
+      "descriptionDe": "Ihr Weg führt Sie in die historische Altstadt, zu schmucken Fachwerkhäusern, pittoresken Winkeln, malerischen Plätzen und anschließend in die St. Stephans Kirche. Erleben Sie das einzige sakrale Kunstwerk von Marc Chagall in Deutschland - das letzte Großkunstwerk des berühmten jüdischen Künstlers. Neun buntverglaste …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "church"
+      ],
+      "titleRu": "Экскурсия по старому городу и церкви Святого Стефана с витражами Шагала",
+      "title": "Stadtführung - Altstadt und St.Stephan mit Chagall-Fenstern / Экскурсия по старому городу и церкви Святого Стефана с витражами Шагала",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "church"
+      ],
+      "descriptionRu": "Ваш путь приведет вас в исторический старый город, к красивым фахверковым домам, живописным уголкам, живописным площадям, а затем в церковь Святого Стефана. Испытайте единственное сакральное произведение искусства Марка Шагала в Германии - последнее крупное произведение знаменитого еврейского художника. Девять цветных витражей …",
+      "description": "Ваш путь приведет вас в исторический старый город, к красивым фахверковым домам, живописным уголкам, живописным площадям, а затем в церковь Святого Стефана. Испытайте единственное сакральное произведение искусства Марка Шагала в Германии - последнее крупное произведение знаменитого еврейского художника. Девять цветных витражей …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "preferred-tag:church",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-168071-2026-07-09T20:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Bolero",
+      "date": "2026-07-09",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "CinéMayence im Institut Français",
+      "url": "https://www.mainz.de/info-networking-event?id=168071",
+      "descriptionDe": "Bolero Biopic von Anne Fontaine, F/B 2024, 121 Min., OmU, FSK 6 Der Film BOLERO erzählt von der Entstehung des gleichnamigen Ballett- und Orchesterstücks und wirft einen Blick auf das Leben und Schaffen seines Schöpfers: der französische Komponist Maurice Ravel. Paris 1928: Der Komponist Maurice Ravel erhält von …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "kino",
+        "spektakl",
+        "concert"
+      ],
+      "titleRu": "Болеро",
+      "title": "Bolero / Болеро",
+      "type": "kino",
+      "tags": [
+        "kino",
+        "spektakl",
+        "other"
+      ],
+      "descriptionRu": "Болеро. Биографический фильм Анн Фонтен, Франция/Бельгия 2024, 121 мин., с субтитрами, возраст 6+. Фильм \"БОЛЕРО\" рассказывает о создании одноименного балетного и оркестрового произведения и дает представление о жизни и творчестве его создателя: французского композитора Мориса Равеля. Париж, 1928 год: композитор Морис Равель получает ...",
+      "description": "Болеро. Биографический фильм Анн Фонтен, Франция/Бельгия 2024, 121 мин., с субтитрами, возраст 6+. Фильм \"БОЛЕРО\" рассказывает о создании одноименного балетного и оркестрового произведения и дает представление о жизни и творчестве его создателя: французского композитора Мориса Равеля. Париж, 1928 год: композитор Морис Равель получает ...",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:kino",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166751-2026-07-10T15:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Stadtführung - Das goldene Mainz und seine Sehenswürdigkeiten",
+      "date": "2026-07-10",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Markt 17, Tourist Information",
+      "url": "https://www.mainz.de/info-networking-event?id=166751",
+      "descriptionDe": "Ein Rundgang durch die Stadtgeschichte von den Anfängen bis heute: Römerzeit, Dom und Altstadt. Seit 1000 Jahren prägt der St. Martins Dom mit seinem \"Domgebirge\" das Stadtbild von Mainz. Im Anschluss daran führt Sie Ihr Weg in die historische Altstadt, zu schmucken Fachwerkhäusern, pittoresken Winkeln und …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "church"
+      ],
+      "titleRu": "Экскурсия по золотому Майнцу и его достопримечательностям",
+      "title": "Stadtführung - Das goldene Mainz und seine Sehenswürdigkeiten / Экскурсия по золотому Майнцу и его достопримечательностям",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "church"
+      ],
+      "descriptionRu": "Прогулка по истории города от его истоков до наших дней: римское время, собор и старая часть города. На протяжении 1000 лет собор Святого Мартина с его \"собором гор\" формирует облик Майнца. После этого ваш путь приведет вас в историческую старую часть города, к красивым фахверковым домам, живописным уголкам и ...",
+      "description": "Прогулка по истории города от его истоков до наших дней: римское время, собор и старая часть города. На протяжении 1000 лет собор Святого Мартина с его \"собором гор\" формирует облик Майнца. После этого ваш путь приведет вас в историческую старую часть города, к красивым фахверковым домам, живописным уголкам и ...",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "preferred-tag:church",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-168062-2026-07-10T21:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "PUBLIC VIEWING VIERTELFINALE",
+      "date": "2026-07-10",
+      "time": "21:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kulturbiergarten im Schloss",
+      "url": "https://www.mainz.de/info-networking-event?id=168062",
+      "descriptionDe": "Das Turnier geht in die heiße Phase – sei live dabei! ⚽???? Viertelfinale - Anpfiff 21:00 Uhr SPANIEN vs BELGIEN - EINTRITT FREI - 10€ Mindestverzehr Public Viewing – mit bester Stimmung, spannenden 90 Minuten und jeder Menge Fußballfieber. Wir freuen uns auf euch! Sei dabei! Sichere dir einen Platz …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "ПУБЛИЧНЫЙ ПРОСМОТР ЧЕТВЕРТЬФИНАЛА",
+      "title": "PUBLIC VIEWING VIERTELFINALE / ПУБЛИЧНЫЙ ПРОСМОТР ЧЕТВЕРТЬФИНАЛА",
+      "type": "other",
+      "tags": [
+        "free",
+        "other"
+      ],
+      "descriptionRu": "Турнир вступает в горячую фазу – будь с нами вживую! ⚽???? Четвертьфинал - старт в 21:00 ЧАСОВ ИСПАНИЯ против БЕЛЬГИИ - ВХОД СВОБОДНЫЙ - минимальный заказ 10€ Публичный просмотр – с отличным настроением, захватывающими 90 минутами и множеством футбольной лихорадки. Мы ждем вас! Будьте с нами! Забронируйте себе место …",
+      "description": "Турнир вступает в горячую фазу – будь с нами вживую! ⚽???? Четвертьфинал - старт в 21:00 ЧАСОВ ИСПАНИЯ против БЕЛЬГИИ - ВХОД СВОБОДНЫЙ - минимальный заказ 10€ Публичный просмотр – с отличным настроением, захватывающими 90 минутами и множеством футбольной лихорадки. Мы ждем вас! Будьте с нами! Забронируйте себе место …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-keyword:eintritt frei",
+        "free-entry",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167742-2026-07-11T00:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Ausstellung: Klara5",
+      "date": "2026-07-11",
+      "time": null,
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Vitrine Galerie",
+      "url": "https://www.mainz.de/info-networking-event?id=167742",
+      "descriptionDe": "Vier Künstler:innen aus dem Bereich Malerei, Photographie und Skulptur Kunst zeigen für einen Monat ihre Werke. Die Vernissage findet am Samstag (11.07) um 17 Uhr statt. Weitere Öffnungszeiten: Mittwoch, Donnerstag und Freitag von 15-18 Uhr und Samstag 12-16 Uhr. Wer von den Künstler*innen jeweils vor Ort sein wird, …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "exhibition"
+      ],
+      "titleRu": "Выставка: Klara5",
+      "title": "Ausstellung: Klara5 / Выставка: Klara5",
+      "type": "exhibition",
+      "tags": [
+        "exhibition",
+        "arthouse_cinema"
+      ],
+      "descriptionRu": "Четыре художника из области живописи, фотографии и скульптуры представляют свои работы в течение месяца. Вернисаж состоится в субботу (11.07) в 17:00. Дополнительные часы работы: среда, четверг и пятница с 15:00 до 18:00 и суббота с 12:00 до 16:00. Кто из художников будет на месте, …",
+      "description": "Четыре художника из области живописи, фотографии и скульптуры представляют свои работы в течение месяца. Вернисаж состоится в субботу (11.07) в 17:00. Дополнительные часы работы: среда, четверг и пятница с 15:00 до 18:00 и суббота с 12:00 до 16:00. Кто из художников будет на месте, …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:exhibition",
+        "preferred-tag:arthouse_cinema",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-168011-2026-07-11T13:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Rahmenprogramm Sonderausstellung: Fragen zu Meisterwerken und Materialdesign? Wir sind vor Ort",
+      "date": "2026-07-11",
+      "time": "13:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Bischöfliches Dom- und Diözesanmuseum",
+      "url": "https://www.mainz.de/info-networking-event?id=168011",
+      "descriptionDe": "Nutzen Sie die Gelegenheit zum direkten Austausch: An ausgewählten Wochenenden sind wir jeweils zwei Stunden vor Ort und beantworten Ihre Fragen rund um Meisterwerke und Materialdesign.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "church",
+        "museum",
+        "exhibition"
+      ],
+      "titleRu": "Программа специальной выставки: Вопросы о шедеврах и дизайне материалов? Мы на месте",
+      "title": "Rahmenprogramm Sonderausstellung: Fragen zu Meisterwerken und Materialdesign? Wir sind vor Ort / Программа специальной выставки: Вопросы о шедеврах и дизайне материалов? Мы на месте",
+      "type": "exhibition",
+      "tags": [
+        "museum",
+        "exhibition",
+        "church"
+      ],
+      "descriptionRu": "Воспользуйтесь возможностью для прямого общения: в определенные выходные мы будем на месте в течение двух часов и ответим на ваши вопросы о шедеврах и дизайне материалов.",
+      "description": "Воспользуйтесь возможностью для прямого общения: в определенные выходные мы будем на месте в течение двух часов и ответим на ваши вопросы о шедеврах и дизайне материалов.",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:exhibition",
+        "preferred-tag:church",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-164572-2026-07-11T14:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Stadtführung »Wein in Mainz: Vom Dom zum „Piffche“«",
+      "date": "2026-07-11",
+      "time": "14:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Wein & More Kirschgarten29",
+      "url": "https://www.mainz.de/info-networking-event?id=164572",
+      "descriptionDe": "Mainz & der Wein – Stadtgeschichte trifft Weinkultur Mainz und der Wein – das gehört seit Jahrhunderten zusammen. Diese Stadtführung verbindet das Beste aus unseren bisherigen Weintouren zu einem neuen Erlebnis: „Wein in Mainz“, ausgezeichnet mit dem Great Wine Capitals Award 2022. In rund 90 Minuten spazieren …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "church",
+        "fest"
+      ],
+      "titleRu": "Экскурсия «Вино в Майнце: От собора до „Пиффче“»",
+      "title": "Stadtführung »Wein in Mainz: Vom Dom zum „Piffche“« / Экскурсия «Вино в Майнце: От собора до „Пиффче“»",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest",
+        "church"
+      ],
+      "descriptionRu": "Майнц и вино – городская история встречает винную культуру. Майнц и вино – это связано на протяжении веков. Эта экскурсия объединяет лучшее из наших предыдущих винных туров в новое впечатление: «Вино в Майнце», удостоенное награды Great Wine Capitals Award 2022. За примерно 90 минут мы прогуляемся …",
+      "description": "Майнц и вино – городская история встречает винную культуру. Майнц и вино – это связано на протяжении веков. Эта экскурсия объединяет лучшее из наших предыдущих винных туров в новое впечатление: «Вино в Майнце», удостоенное награды Great Wine Capitals Award 2022. За примерно 90 минут мы прогуляемся …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "preferred-tag:church",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166084-2026-07-11T15:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Führung: Der Flugplatz am Layenhof – Vom Geheimprojekt zum erfundenen Stadtteil",
+      "date": "2026-07-11",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Flugplatz Mainz-Finthen",
+      "url": "https://www.mainz.de/info-networking-event?id=166084",
+      "descriptionDe": "Wo heute Schafe grasen und Sportflugzeuge starten, wurde einst im Verborgenen Krieg geführt. Der Flugplatz am Layenhof war Geheimprojekt und Militärbasis, aber auch Motorsport- und Konzertarena und ist beinahe ein ganz neuer Stadtteil von Mainz geworden. Auf unserem Rundgang folgen wir dem Funktions- und …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "sport",
+        "concert"
+      ],
+      "titleRu": "Экскурсия: Аэродром на Лайенхофе – От секретного проекта до вымышленного района",
+      "title": "Führung: Der Flugplatz am Layenhof – Vom Geheimprojekt zum erfundenen Stadtteil / Экскурсия: Аэродром на Лайенхофе – От секретного проекта до вымышленного района",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "sport",
+        "concert"
+      ],
+      "descriptionRu": "Где сегодня пасутся овцы и взлетают спортивные самолеты, когда-то велась скрытая война. Аэродром на Лайенхофе был секретным проектом и военной базой, но также стал ареной для мотоспорта и концертов и почти стал совершенно новым районом Майнца. Во время нашей экскурсии мы проследим за функциями и …",
+      "description": "Где сегодня пасутся овцы и взлетают спортивные самолеты, когда-то велась скрытая война. Аэродром на Лайенхофе был секретным проектом и военной базой, но также стал ареной для мотоспорта и концертов и почти стал совершенно новым районом Майнца. Во время нашей экскурсии мы проследим за функциями и …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165924-2026-07-11T16:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Weinbergswanderung mit Weinprobe und Vesper (optional)",
+      "date": "2026-07-11",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Hechtsheimer Kirchenstück",
+      "url": "https://www.mainz.de/info-networking-event?id=165924",
+      "descriptionDe": "Wir starten die Tour in einem Weinberg, der direkt mit der Straßenbahn zu erreichen ist: Das Hechtsheimer Kirchenstück. Von dort aus spazieren wir gemeinsam duch mehrere Weinlagen, schweifen fast schon ins rheinhessische Hügelland und lassen uns fachkundig den Weinbau und die Besonderheiten der rheinhessischen …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "church",
+        "fest"
+      ],
+      "titleRu": "Прогулка по виноградникам с дегустацией вина и закусками (по желанию)",
+      "title": "Weinbergswanderung mit Weinprobe und Vesper (optional) / Прогулка по виноградникам с дегустацией вина и закусками (по желанию)",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest",
+        "church"
+      ],
+      "descriptionRu": "Мы начинаем тур в винограднике, который можно легко добраться на трамвае: Хехтсхаймер Кирхенштук. Оттуда мы вместе прогуляемся по нескольким винодельням, почти уходим в холмистую местность Рейнхессена и позволим себе профессионально рассказать о виноделии и особенностях региона Рейнхессен…",
+      "description": "Мы начинаем тур в винограднике, который можно легко добраться на трамвае: Хехтсхаймер Кирхенштук. Оттуда мы вместе прогуляемся по нескольким винодельням, почти уходим в холмистую местность Рейнхессена и позволим себе профессионально рассказать о виноделии и особенностях региона Рейнхессен…",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "preferred-tag:church",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166654-2026-07-11T19:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Mainzer Musiksommer - Festliche Eröffnung in St. Stephan",
+      "date": "2026-07-11",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kath. Kirche St. Stephan Mainz Altstadt",
+      "url": "https://www.mainz.de/info-networking-event?id=166654",
+      "descriptionDe": "Zwischen barocker Pracht und klassischer Leuchtkraft Die Deutsche Radio Philharmonie entfaltet vor den blau leuchtenden Chagall-Fensternmit Purcell, Zelenka, Mozart und Haydn ein Panorama musikalischer Morgenstunden – voller Wärme, Glanz und Inspiration. Die Konzertpause lädt Sie zum Verweilen im traumhaften …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "church",
+        "fest",
+        "concert"
+      ],
+      "titleRu": "Майнцкий музыкальный летний фестиваль - Торжественное открытие в церкви Святого Стефана",
+      "title": "Mainzer Musiksommer - Festliche Eröffnung in St. Stephan / Майнцкий музыкальный летний фестиваль - Торжественное открытие в церкви Святого Стефана",
+      "type": "concert",
+      "tags": [
+        "church",
+        "fest",
+        "concert"
+      ],
+      "descriptionRu": "Между барочной роскошью и классическим сиянием Немецкий радио-филармонический оркестр разворачивает перед синими витражами Шагала панораму музыкальных утренних часов с Перселлом, Зелёнкой, Моцартом и Гайднами — полной тепла, блеска и вдохновения. Концертный перерыв приглашает вас задержаться в сказочном …",
+      "description": "Между барочной роскошью и классическим сиянием Немецкий радио-филармонический оркестр разворачивает перед синими витражами Шагала панораму музыкальных утренних часов с Перселлом, Зелёнкой, Моцартом и Гайднами — полной тепла, блеска и вдохновения. Концертный перерыв приглашает вас задержаться в сказочном …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:church",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166780-2026-07-11T23:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "FILMZ – Jubiläumskino: Pulse",
+      "date": "2026-07-11",
+      "time": "23:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Capitol Arthouse Kino Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=166780",
+      "descriptionDe": "Im Rahmen seines 25-jährigen Jubiläums zeigt FILMZ von April bis Oktober einmal monatlich samstags im Capitol einen Film, der ebenfalls 25 Jahre alt wird. Das siebenteilige Programm bietet Spannung, Spaß und große Emotionen für junge und alte Kino-Fans gleichermaßen! Nach dem Suizid eines Freundes beginnen Kudo …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "arthouse_cinema",
+        "kino"
+      ],
+      "titleRu": "FILMZ – Юбилейное кино: Пульс",
+      "title": "FILMZ – Jubiläumskino: Pulse / FILMZ – Юбилейное кино: Пульс",
+      "type": "kino",
+      "tags": [
+        "arthouse_cinema",
+        "kino"
+      ],
+      "descriptionRu": "В рамках своего 25-летнего юбилея FILMZ с апреля по октябрь раз в месяц по субботам в Capitol показывает фильм, которому также исполняется 25 лет. Семисерийная программа предлагает напряжение, удовольствие и большие эмоции как для молодых, так и для старых киноманов! После самоубийства друга Кудо …",
+      "description": "В рамках своего 25-летнего юбилея FILMZ с апреля по октябрь раз в месяц по субботам в Capitol показывает фильм, которому также исполняется 25 лет. Семисерийная программа предлагает напряжение, удовольствие и большие эмоции как для молодых, так и для старых киноманов! После самоубийства друга Кудо …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:arthouse_cinema",
+        "preferred-tag:kino",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167491-2026-07-12T11:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Kuratorinnenführung: Reise nach… Rom!",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Landesmuseum Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=167491",
+      "descriptionDe": "Erfahren Sie von der Kuratorin Annett Sandfort mehr über die aktuelle Ausstellung im graphischen Kabinett. Die Ausstellung folgt Künstlerinnen und Künstlern aus Deutschland, den Niederlanden und Frankreich der letzten 400 Jahre in die Stadt am Tiber, zeigt aber auch den Blick italienischer Künstler auf die Metropole. …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "museum",
+        "exhibition"
+      ],
+      "titleRu": "Экскурсия с куратором: Путешествие в… Рим!",
+      "title": "Kuratorinnenführung: Reise nach… Rom! / Экскурсия с куратором: Путешествие в… Рим!",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "museum",
+        "exhibition"
+      ],
+      "descriptionRu": "Узнайте от куратора Аннетт Сандфорт больше о текущей выставке в графическом кабинете. Выставка прослеживает художниц и художников из Германии, Нидерландов и Франции за последние 400 лет в город на Тибре, но также показывает взгляд итальянских художников на метрополию. …",
+      "description": "Узнайте от куратора Аннетт Сандфорт больше о текущей выставке в графическом кабинете. Выставка прослеживает художниц и художников из Германии, Нидерландов и Франции за последние 400 лет в город на Тибре, но также показывает взгляд итальянских художников на метрополию. …",
+      "personalScore": 90,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "preferred-tag:exhibition",
+        "weekend"
+      ]
+    },
     {
       "id": "bad-schwalbach-https-www-bad-schwalbach-de-kalender-termine-2026-serientermine-kino-kulturfestival-2026-07-02-kino-kulturfestival-im-kurpark-100-jahre-kino-53716-7-2026-07-09-all-day",
       "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
@@ -42,6 +657,48 @@
         "preferred-city",
         "preferred-tag:kino",
         "preferred-keyword:kurpark",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166580-2026-07-09T12:45:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Jazzforum – SLALOM",
+      "date": "2026-07-09",
+      "time": "12:45",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Jazzraum",
+      "url": "https://www.mainz.de/info-networking-event?id=166580",
+      "descriptionDe": "SLALOM schafft es auf einzigartige Weise ausschließlich live für den Moment und improvisiert elektronische Tanzmusik zu erschaffen. Warme Synths, treibende Basslines treffen auf markante Drumgrooves. Joscha Sadewasser & Felix Uber – Synths, Drummachines",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "spektakl",
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Джазфорум – SLALOM",
+      "title": "Jazzforum – SLALOM / Джазфорум – SLALOM",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "student_concert",
+        "spektakl"
+      ],
+      "descriptionRu": "SLALOM уникальным образом создает исключительно живую электронную танцевальную музыку в моменте и импровизирует. Теплые синтезаторы, драйвовые басовые линии встречаются с яркими ритмами ударных. Йоша Садевассер и Феликс Убер – синтезаторы, ударные машины",
+      "description": "SLALOM уникальным образом создает исключительно живую электронную танцевальную музыку в моменте и импровизирует. Теплые синтезаторы, драйвовые басовые линии встречаются с яркими ритмами ударных. Йоша Садевассер и Феликс Убер – синтезаторы, ударные машины",
+      "personalScore": 85,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:jazz",
         "weekend"
       ]
     },
@@ -86,6 +743,363 @@
       ]
     },
     {
+      "id": "mainz-info-networking-event-166615-2026-07-10T20:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Bachelorprüfung – Sebastian Kling, Jazz-Klavier",
+      "date": "2026-07-10",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik Mainz, Black Box",
+      "url": "https://www.mainz.de/info-networking-event?id=166615",
+      "descriptionDe": "Klasse Prof. Sebastian Sternal (eventuell im Innenhof)",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках бакалавриата – Себастьян Клинг, джазовое пианино",
+      "title": "Konzert im Rahmen der Bachelorprüfung – Sebastian Kling, Jazz-Klavier / Концерт в рамках бакалавриата – Себастьян Клинг, джазовое пианино",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Себастьяна Стернала (возможно, во дворе)",
+      "description": "Класс профессора Себастьяна Стернала (возможно, во дворе)",
+      "personalScore": 85,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:jazz",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166616-2026-07-11T17:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Jazz & Pop – Festival zum Semesterabschluss",
+      "date": "2026-07-11",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Foyer",
+      "url": "https://www.mainz.de/info-networking-event?id=166616",
+      "descriptionDe": "Die Abteilung Jazz und Populäre Musik präsentiert einen spannenden Querschnitt aller Themen, mit denen sich die Ensembles im Sommersemester beschäftigt haben. Der Rahmen ist wie immer weit gesteckt: von traditionellem Jazz bis zu griffiger Popmusik, vom intimen Duo bis zur klassischen Bigband. Das Konzert findet im …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "fest",
+        "concert"
+      ],
+      "titleRu": "Джаз и Поп – Фестиваль в честь окончания семестра",
+      "title": "Jazz & Pop – Festival zum Semesterabschluss / Джаз и Поп – Фестиваль в честь окончания семестра",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "fest",
+        "concert"
+      ],
+      "descriptionRu": "Кафедра джаза и популярной музыки представляет захватывающий обзор всех тем, которыми занимались ансамбли в летнем семестре. Формат, как всегда, широкий: от традиционного джаза до запоминающейся поп-музыки, от интимного дуэта до классического биг-бэнда. Концерт пройдет в …",
+      "description": "Кафедра джаза и популярной музыки представляет захватывающий обзор всех тем, которыми занимались ансамбли в летнем семестре. Формат, как всегда, широкий: от традиционного джаза до запоминающейся поп-музыки, от интимного дуэта до классического биг-бэнда. Концерт пройдет в …",
+      "personalScore": 85,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:jazz",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166617-2026-07-12T17:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Jazz & Pop – Festival zum Semesterabschluss",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Foyer",
+      "url": "https://www.mainz.de/info-networking-event?id=166617",
+      "descriptionDe": "Die Abteilung Jazz und Populäre Musik präsentiert einen spannenden Querschnitt aller Themen, mit denen sich die Ensembles im Sommersemester beschäftigt haben. Der Rahmen ist wie immer weit gesteckt: von traditionellem Jazz bis zu griffiger Popmusik, vom intimen Duo bis zur klassischen Bigband. Das Konzert findet im …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "fest",
+        "concert"
+      ],
+      "titleRu": "Джаз и Поп – Фестиваль в честь окончания семестра",
+      "title": "Jazz & Pop – Festival zum Semesterabschluss / Джаз и Поп – Фестиваль в честь окончания семестра",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "fest",
+        "concert"
+      ],
+      "descriptionRu": "Отдел джаза и популярной музыки представляет захватывающий обзор всех тем, которыми занимались ансамбли в летнем семестре. Формат, как всегда, широкий: от традиционного джаза до запоминающейся поп-музыки, от интимного дуэта до классического биг-бэнда. Концерт пройдет в …",
+      "description": "Отдел джаза и популярной музыки представляет захватывающий обзор всех тем, которыми занимались ансамбли в летнем семестре. Формат, как всегда, широкий: от традиционного джаза до запоминающейся поп-музыки, от интимного дуэта до классического биг-бэнда. Концерт пройдет в …",
+      "personalScore": 85,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:jazz",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165251-2026-07-14T18:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Game Night - Der analoge Spieleabend",
+      "date": "2026-07-14",
+      "time": "18:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Z-Quadrat",
+      "url": "https://www.mainz.de/info-networking-event?id=165251",
+      "descriptionDe": "Hier wird gemeinsam gespielt - offen für alle, kostenlos und ganz entspannt. Freu Dich auf eine bunte Auswahl an Brett- und Kartenspielen - aus unserem Shop, unserer privaten Sammlung oder gern auch von Dir mitgebracht.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Игровая ночь - Аналоговый вечер игр",
+      "title": "Game Night - Der analoge Spieleabend / Игровая ночь - Аналоговый вечер игр",
+      "type": "other",
+      "tags": [
+        "free",
+        "other"
+      ],
+      "descriptionRu": "Здесь мы играем вместе - открыто для всех, бесплатно и совершенно расслабленно. Ждите разнообразный выбор настольных и карточных игр - из нашего магазина, нашей личной коллекции или с удовольствием принесенных вами.",
+      "description": "Здесь мы играем вместе - открыто для всех, бесплатно и совершенно расслабленно. Ждите разнообразный выбор настольных и карточных игр - из нашего магазина, нашей личной коллекции или с удовольствием принесенных вами.",
+      "personalScore": 80,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-keyword:kostenlos",
+        "free-entry"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167157-2026-07-09T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Art after Work",
+      "date": "2026-07-09",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "K-LAB",
+      "url": "https://www.mainz.de/info-networking-event?id=167157",
+      "descriptionDe": "Kunst für alle mit Jutta und Sabine Zum Feierabend gemeinsames künstlerisch-kreatives Arbeiten, neue künstlerische Techniken ausprobieren oder an eigenen Projekten arbeiten und darüber ins Gespräch kommen. Die Teilnahme ist kostenfrei und erfordert keine Vorkenntnisse.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Искусство после работы",
+      "title": "Art after Work / Искусство после работы",
+      "type": "master_class",
+      "tags": [
+        "master_class",
+        "free"
+      ],
+      "descriptionRu": "Искусство для всех с Юттой и Сабиной. Вечером совместная художественно-креативная работа, проба новых художественных техник или работа над собственными проектами и обсуждение их. Участие бесплатное и не требует предварительных знаний.",
+      "description": "Искусство для всех с Юттой и Сабиной. Вечером совместная художественно-креативная работа, проба новых художественных техник или работа над собственными проектами и обсуждение их. Участие бесплатное и не требует предварительных знаний.",
+      "personalScore": 75,
+      "matchReasons": [
+        "preferred-city",
+        "free-entry",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166619-2026-07-14T19:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Masterprüfung: Bernhard Herzog, Orgelliteratur",
+      "date": "2026-07-14",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Orgelsaal",
+      "url": "https://www.mainz.de/info-networking-event?id=166619",
+      "descriptionDe": "Klasse Prof. Jens Wollenschläger / Wolfgang Portugall",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках магистерского экзамена: Бернхард Херцог, органная литература",
+      "title": "Konzert im Rahmen der Masterprüfung: Bernhard Herzog, Orgelliteratur / Концерт в рамках магистерского экзамена: Бернхард Херцог, органная литература",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Йенса Волншлягера / Вольфганга Португалла",
+      "description": "Класс профессора Йенса Волншлягера / Вольфганга Португалла",
+      "personalScore": 75,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:orgel"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166633-2026-07-16T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Jazz Campus Mainz – Verleihung Gutenberg Teaching Award an Terence Blanchard",
+      "date": "2026-07-16",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=166633",
+      "descriptionDe": "im Rahmen eines Konzertes mit dem Gutenberg Jazz Collective Das Gutenberg Lehrkolleg der JGU zeichnet seit 2014 herausragende Persönlichkeiten, die sich um die Lehre verdient gemacht haben, mit dem Gutenberg Teaching Award (GTA) aus. Terence Blanchard erhält den GTA 2025 für sein außergewöhnliches Wirken als Musiker, …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Джазовый кампус Майнца – Вручение Премии Гутенберга по преподаванию Терренсу Бланшару",
+      "title": "Jazz Campus Mainz – Verleihung Gutenberg Teaching Award an Terence Blanchard / Джазовый кампус Майнца – Вручение Премии Гутенберга по преподаванию Терренсу Бланшару",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "в рамках концерта с Гутенбергским джазовым коллективом Гутенбергский учебный колледж JGU с 2014 года награждает выдающихся личностей, которые заслужили признание в преподавании, Премией Гутенберга по преподаванию (GTA). Терренс Бланшар получает GTA 2025 за его выдающуюся деятельность как музыканта, …",
+      "description": "в рамках концерта с Гутенбергским джазовым коллективом Гутенбергский учебный колледж JGU с 2014 года награждает выдающихся личностей, которые заслужили признание в преподавании, Премией Гутенберга по преподаванию (GTA). Терренс Бланшар получает GTA 2025 за его выдающуюся деятельность как музыканта, …",
+      "personalScore": 75,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:jazz"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-163581-2026-07-16T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Nina Chuba Live 2026 - Summer in the City",
+      "date": "2026-07-16",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Volkspark Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=163581",
+      "descriptionDe": "Ein spektakulärer Sommer neigt sich dem Ende: Im September dann das zweite Album, im Oktober die seit Monaten ausverkaufte Arena Tour und was folgt jetzt? Nina Chuba hat noch mehr große Neuigkeiten: 2026 spielt sie ihre bisher größten Open Air Shows. Von der Berliner Wuhlheide über die Hamburger Trabrennbahn bis …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Нина Чуба Live 2026 - Лето в городе",
+      "title": "Nina Chuba Live 2026 - Summer in the City / Нина Чуба Live 2026 - Лето в городе",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "other"
+      ],
+      "descriptionRu": "Спектакулярное лето подходит к концу: в сентябре выходит второй альбом, в октябре — распроданный за месяцы тур по аренам, а что будет дальше? У Нины Чубы есть еще большие новости: в 2026 году она проведет свои самые большие открытые концерты. От берлинской Вулхейде до гамбургской ипподрома и …",
+      "description": "Спектакулярное лето подходит к концу: в сентябре выходит второй альбом, в октябре — распроданный за месяцы тур по аренам, а что будет дальше? У Нины Чубы есть еще большие новости: в 2026 году она проведет свои самые большие открытые концерты. От берлинской Вулхейде до гамбургской ипподрома и …",
+      "personalScore": 75,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:open air"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166620-2026-07-17T11:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Jazz Campus Mainz – Masterclass mit Terence Blanchard",
+      "date": "2026-07-17",
+      "time": "11:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Jazzraum",
+      "url": "https://www.mainz.de/info-networking-event?id=166620",
+      "descriptionDe": "Der Gutenberg Teaching Award-Preisträger Terence Blanchard gibt Einblicke in seine inspirierende Lehrpraxis. Die Masterclass steht allen offen und ist besonders für Lehramtsstudierende und Lehrkräfte interessant.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "master_class",
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Джазовый кампус Майнца – Мастер-класс с Терренсом Бланшаром",
+      "title": "Jazz Campus Mainz – Masterclass mit Terence Blanchard / Джазовый кампус Майнца – Мастер-класс с Терренсом Бланшаром",
+      "type": "master_class",
+      "tags": [
+        "master_class",
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Лауреат премии Гутенберга по преподаванию Терренс Бланшар делится своими вдохновляющими методами преподавания. Мастер-класс открыт для всех и особенно интересен для студентов педагогических специальностей и преподавателей.",
+      "description": "Лауреат премии Гутенберга по преподаванию Терренс Бланшар делится своими вдохновляющими методами преподавания. Мастер-класс открыт для всех и особенно интересен для студентов педагогических специальностей и преподавателей.",
+      "personalScore": 75,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "preferred-keyword:jazz"
+      ]
+    },
+    {
       "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-klangvielfalt-im-doppelpack-900011422-29880-html-naviid-0-2026-08-06-18:30",
       "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
       "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
@@ -121,6 +1135,123 @@
         "preferred-city",
         "preferred-tag:concert",
         "preferred-keyword:klassik"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167385-2026-07-09T09:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Ferienforscher - Pflanzen-Power",
+      "date": "2026-07-09",
+      "time": "09:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Naturhistorisches Museum",
+      "url": "https://www.mainz.de/info-networking-event?id=167385",
+      "descriptionDe": "Spaß an Natur, Forschen und Kreativität! Im Sommer bieten wir euch drei Themen rund um Pflanzen an. Grün und nützlich",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum"
+      ],
+      "titleRu": "Исследователи каникул - Сила растений",
+      "title": "Ferienforscher - Pflanzen-Power / Исследователи каникул - Сила растений",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion",
+        "museum"
+      ],
+      "descriptionRu": "Веселье на природе, исследование и креативность! Летом мы предлагаем вам три темы, связанные с растениями. Зеленые и полезные",
+      "description": "Веселье на природе, исследование и креативность! Летом мы предлагаем вам три темы, связанные с растениями. Зеленые и полезные",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167953-2026-07-09T09:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Mein Morgenstern. Von Hand geschöpft, gesetzt, gedruckt, gebunden. Ein Buch zum 111. Todestag von Christian Morgenstern",
+      "date": "2026-07-09",
+      "time": "09:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Gutenberg-Bibliothek",
+      "url": "https://www.mainz.de/info-networking-event?id=167953",
+      "descriptionDe": "Mit der Wanderausstellung zeigt das Gutenberg-Museum im Lesesaal seiner Bibliothek das gleichnamige buchkünstlerische Projekt des Vereins für die Schwarze Kunst, der sich der Bewahrung des handwerklichen Könnens rund um die traditionellen Berufe des Schriftgießers, Schriftsetzers und Buchdruckers verschrieben hat. …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum",
+        "exhibition"
+      ],
+      "titleRu": "Моя утренняя звезда. Ручная работа, набор, печать, переплет. Книга к 111-й годовщине смерти Кристиана Морганштерна",
+      "title": "Mein Morgenstern. Von Hand geschöpft, gesetzt, gedruckt, gebunden. Ein Buch zum 111. Todestag von Christian Morgenstern / Моя утренняя звезда. Ручная работа, набор, печать, переплет. Книга к 111-й годовщине смерти Кристиана Морганштерна",
+      "type": "exhibition",
+      "tags": [
+        "museum",
+        "exhibition"
+      ],
+      "descriptionRu": "С передвижной выставкой Гутенберг-музей в читальном зале своей библиотеки представляет одноимённый художественный проект Ассоциации черного искусства, которая посвятила себя сохранению ремесленного мастерства, связанного с традиционными профессиями литейщика, наборщика и печатника. …",
+      "description": "С передвижной выставкой Гутенберг-музей в читальном зале своей библиотеки представляет одноимённый художественный проект Ассоциации черного искусства, которая посвятила себя сохранению ремесленного мастерства, связанного с традиционными профессиями литейщика, наборщика и печатника. …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:exhibition",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167793-2026-07-09T14:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Ferienforscher - Pflanzen-Power",
+      "date": "2026-07-09",
+      "time": "14:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Naturhistorisches Museum",
+      "url": "https://www.mainz.de/info-networking-event?id=167793",
+      "descriptionDe": "Spaß an Natur, Forschen und Kreativität!",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum"
+      ],
+      "titleRu": "Исследователи каникул - Сила растений",
+      "title": "Ferienforscher - Pflanzen-Power / Исследователи каникул - Сила растений",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion",
+        "museum"
+      ],
+      "descriptionRu": "Веселье на природе, исследование и креативность!",
+      "description": "Веселье на природе, исследование и креативность!",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
       ]
     },
     {
@@ -163,6 +1294,83 @@
       ]
     },
     {
+      "id": "mainz-info-networking-event-167289-2026-07-09T18:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Schorlesause mit DJ Mahoni im Hof",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Rosenhof Gästehaus und Weinwirtschaft",
+      "url": "https://www.mainz.de/info-networking-event?id=167289",
+      "descriptionDe": "After Work im Rosenhof mit verschiedenen Weinschorlen, spritzigen Drinks, regionaler Weinauswahl und Speisen. Für die Party Vibes sorgt DJ Mahoni.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "fest",
+        "concert"
+      ],
+      "titleRu": "Скорлесау с DJ Mahoni во дворе",
+      "title": "Schorlesause mit DJ Mahoni im Hof / Скорлесау с DJ Mahoni во дворе",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "concert"
+      ],
+      "descriptionRu": "После работы в Розенхофе с различными винными шорлями, игривыми напитками, региональным выбором вин и блюдами. За атмосферу вечеринки отвечает DJ Mahoni.",
+      "description": "После работы в Розенхофе с различными винными шорлями, игривыми напитками, региональным выбором вин и блюдами. За атмосферу вечеринки отвечает DJ Mahoni.",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166285-2026-07-10T17:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Best-Of-Weinerlebnis Weinprobe mit Flammkuchenabend",
+      "date": "2026-07-10",
+      "time": "17:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Meyerhof - Weingut, Vinothek & Gästehaus",
+      "url": "https://www.mainz.de/info-networking-event?id=166285",
+      "descriptionDe": "Bei gutem Wetter starten wir ganz entspannt auf unserer Terrasse mit einem Glas Spritzer Secco und fangen noch ein paar Sonnenstrahlen ein. Danach geht es gemeinsam zu einer kleinen Tour durch unser Weingut – ein angenehmer Einstieg in die Welt unserer Weine. Anschließend verkosten Sie 8 ausgewählte Meyerhof‑Weine, …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "fest"
+      ],
+      "titleRu": "Лучшие винные впечатления: дегустация вин с ужином из фламкухена",
+      "title": "Best-Of-Weinerlebnis Weinprobe mit Flammkuchenabend / Лучшие винные впечатления: дегустация вин с ужином из фламкухена",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "excursion"
+      ],
+      "descriptionRu": "В хорошую погоду мы расслабленно начинаем на нашей террасе с бокалом спритцера Секко и ловим несколько солнечных лучей. Затем мы вместе отправляемся на небольшую экскурсию по нашему винодельне — приятное введение в мир наших вин. После этого вы попробуете 8 отобранных вин Meyerhof, …",
+      "description": "В хорошую погоду мы расслабленно начинаем на нашей террасе с бокалом спритцера Секко и ловим несколько солнечных лучей. Затем мы вместе отправляемся на небольшую экскурсию по нашему винодельне — приятное введение в мир наших вин. После этого вы попробуете 8 отобранных вин Meyerhof, …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
       "id": "idstein-https-www-idstein-de-kalender-2026-maerz-2026-04-10-friday-vibes-musik-an-woche-aus-58474-13-2026-07-10-18:00",
       "sourceName": "Idstein – официальный Veranstaltungskalender города, включая JazzFestival и городские культурные события.",
       "sourceUrl": "https://www.idstein.de/tourismus/erleben-entdecken/veranstaltungskalender/",
@@ -198,6 +1406,354 @@
       "matchReasons": [
         "preferred-city",
         "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167956-2026-07-10T18:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Ausstellung \"Soomee Yu: Kinships – Diving into the In-Between\"",
+      "date": "2026-07-10",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Emde Gallery",
+      "url": "https://www.mainz.de/info-networking-event?id=167956",
+      "descriptionDe": "Die Emde Gallery freut sich, die Ausstellung \"Kinships – Diving into the In-Between\" von Soomee Yu zu präsentieren. Die Ausstellung wurde von Studierenden des Instituts für Kunstgeschichte der Johannes Gutenberg-Universität Mainz im Rahmen des Projektseminars \"Inside the Gallery\" zusammen mit der Emde Gallery …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "course",
+        "exhibition"
+      ],
+      "titleRu": "Выставка \"Соомии Ю: Связи – Погружение в промежуток\"",
+      "title": "Ausstellung \"Soomee Yu: Kinships – Diving into the In-Between\" / Выставка \"Соомии Ю: Связи – Погружение в промежуток\"",
+      "type": "exhibition",
+      "tags": [
+        "exhibition",
+        "course"
+      ],
+      "descriptionRu": "Галерея Эмде рада представить выставку \"Связи – Погружение в промежуток\" Соомии Ю. Выставка была организована студентами Института истории искусств Университета Иоганна Гутенберга в Майнце в рамках проектного семинара \"Внутри галереи\" совместно с Галереей Эмде …",
+      "description": "Галерея Эмде рада представить выставку \"Связи – Погружение в промежуток\" Соомии Ю. Выставка была организована студентами Института истории искусств Университета Иоганна Гутенберга в Майнце в рамках проектного семинара \"Внутри галереи\" совместно с Галереей Эмде …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:exhibition",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167699-2026-07-10T18:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Bachelorprüfung: Leonie Hechler, Mezzosopran",
+      "date": "2026-07-10",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=167699",
+      "descriptionDe": "Klasse Prof. Andreas Karasiak",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках бакалаврского экзамена: Леони Хехлер, меццо-сопрано",
+      "title": "Konzert im Rahmen der Bachelorprüfung: Leonie Hechler, Mezzosopran / Концерт в рамках бакалаврского экзамена: Леони Хехлер, меццо-сопрано",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Андреаса Карасяка",
+      "description": "Класс профессора Андреаса Карасяка",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166978-2026-07-10T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Masterprüfung: Sasou van Oordt, Sopran",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=166978",
+      "descriptionDe": "Klasse Prof. Thomas Dewald",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках магистерского экзамена: Сасу ван Оордт, сопрано",
+      "title": "Konzert im Rahmen der Masterprüfung: Sasou van Oordt, Sopran / Концерт в рамках магистерского экзамена: Сасу ван Оордт, сопрано",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Томаса Девальда",
+      "description": "Класс профессора Томаса Девальда",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165443-2026-07-11T10:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Naturspürnasen MINIS im Naturhistorischen Museum",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Naturhistorisches Museum",
+      "url": "https://www.mainz.de/info-networking-event?id=165443",
+      "descriptionDe": "Lerne die Vielfalt unserer Welt kennen! Werdet Naturspürnasen und erforscht jeden Monat ein neues Tier. Mit kleinen Geschichten, Experimenten oder Basteleien entdeckt ihr dabei spielerisch Zusammenhänge in der Natur. Wer mag, kann sein eigenes „Naturspürnasen-Lexikon\" gestalten.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum"
+      ],
+      "titleRu": "Мини-исследователи природы в Природоведческом музее",
+      "title": "Naturspürnasen MINIS im Naturhistorischen Museum / Мини-исследователи природы в Природоведческом музее",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion",
+        "museum"
+      ],
+      "descriptionRu": "Узнайте о разнообразии нашего мира! Станьте мини-исследователями природы и каждый месяц изучайте новое животное. С помощью небольших историй, экспериментов или поделок вы игриво откроете взаимосвязи в природе. Кто хочет, может создать свой собственный «Лексикон мини-исследователей природы».",
+      "description": "Узнайте о разнообразии нашего мира! Станьте мини-исследователями природы и каждый месяц изучайте новое животное. С помощью небольших историй, экспериментов или поделок вы игриво откроете взаимосвязи в природе. Кто хочет, может создать свой собственный «Лексикон мини-исследователей природы».",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165444-2026-07-11T11:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Naturspürnasen MAXIS im Naturhistorischen Museum",
+      "date": "2026-07-11",
+      "time": "11:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Naturhistorisches Museum",
+      "url": "https://www.mainz.de/info-networking-event?id=165444",
+      "descriptionDe": "Lerne die Vielfalt unserer Welt kennen! Werdet Naturspürnasen und erforscht jeden Monat ein neues Tier. Mit kleinen Geschichten, Experimenten oder Basteleien entdeckt ihr dabei spielerisch Zusammenhänge in der Natur. Wer mag, kann sein eigenes „Naturspürnasen-Lexikon\" gestalten.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum"
+      ],
+      "titleRu": "Максисы-исследователи природы в Естественнонаучном музее",
+      "title": "Naturspürnasen MAXIS im Naturhistorischen Museum / Максисы-исследователи природы в Естественнонаучном музее",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion",
+        "museum"
+      ],
+      "descriptionRu": "Познайте разнообразие нашего мира! Станьте исследователями природы и каждый месяц изучайте новое животное. С помощью небольших историй, экспериментов или поделок вы игриво откроете взаимосвязи в природе. Кто хочет, может создать свой собственный «Лексикон исследователей природы».",
+      "description": "Познайте разнообразие нашего мира! Станьте исследователями природы и каждый месяц изучайте новое животное. С помощью небольших историй, экспериментов или поделок вы игриво откроете взаимосвязи в природе. Кто хочет, может создать свой собственный «Лексикон исследователей природы».",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166759-2026-07-11T11:45:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Das Gutenberg-Museum - Weltmuseum der Druckkunst",
+      "date": "2026-07-11",
+      "time": "11:45",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Gutenberg-Museum MOVED",
+      "url": "https://www.mainz.de/info-networking-event?id=166759",
+      "descriptionDe": "In der einstündigen Führung durch das Gutenberg-Museum erleben Sie während einer Vorführung an der historischen Druckerpresse, wie zu Gutenbergs Zeiten gedruckt wurde, und können den Anblick der Original-Gutenberg-Bibel im Tresor des Museums genießen.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "museum"
+      ],
+      "titleRu": "Музей Гутенберга - Всемирный музей печатного дела",
+      "title": "Das Gutenberg-Museum - Weltmuseum der Druckkunst / Музей Гутенберга - Всемирный музей печатного дела",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "museum"
+      ],
+      "descriptionRu": "Во время часовой экскурсии по Музею Гутенберга вы увидите, как печатали в времена Гутенберга, во время демонстрации на историческом печатном станке, и сможете насладиться видом оригинальной Библии Гутенберга в сейфе музея.",
+      "description": "Во время часовой экскурсии по Музею Гутенберга вы увидите, как печатали в времена Гутенберга, во время демонстрации на историческом печатном станке, и сможете насладиться видом оригинальной Библии Гутенберга в сейфе музея.",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-157469-2026-07-11T12:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Best-Of-Weinerlebnis: WineWalk \"Mainz with a View\" - Stadtführung mit Weintasting",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kupferbergterrasse Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=157469",
+      "descriptionDe": "Folgt uns auf den Spuren der Mainzer Wein- und Sektherstellung, angefangen im 19. Jahrhundert bis heute. Sankt Stephans weltberühmte Chagallfenster gehören ebenso zu unserem WineWalk, wie die Geschichte des Mainzer Holzturms und seine Bedeutung für den berüchtigten Räuberhauptmann Schinderhannes. Erfahrt, welcher …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "fest"
+      ],
+      "titleRu": "Лучшие винные впечатления: WineWalk \"Майнц с высоты\" - экскурсия с дегустацией вина",
+      "title": "Best-Of-Weinerlebnis: WineWalk \"Mainz with a View\" - Stadtführung mit Weintasting / Лучшие винные впечатления: WineWalk \"Майнц с высоты\" - экскурсия с дегустацией вина",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest"
+      ],
+      "descriptionRu": "Следуйте по следам виноделия и игристого вина в Майнце, начиная с 19 века и до наших дней. Всемирно известные витражи Шагала в церкви Святого Стефана также входят в наш WineWalk, как и история знаменитой деревянной башни Майнца и ее значение для печально известного разбойника Шиндерханнеса. Узнайте, какой …",
+      "description": "Следуйте по следам виноделия и игристого вина в Майнце, начиная с 19 века и до наших дней. Всемирно известные витражи Шагала в церкви Святого Стефана также входят в наш WineWalk, как и история знаменитой деревянной башни Майнца и ее значение для печально известного разбойника Шиндерханнеса. Узнайте, какой …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166792-2026-07-11T14:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Golden Mainz and its Sights: Guided Walking Tour",
+      "date": "2026-07-11",
+      "time": "14:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Markt 17, Tourist Information",
+      "url": "https://www.mainz.de/info-networking-event?id=166792",
+      "descriptionDe": "Discover “Golden Mainz” on a guided walk from Roman times to today. Explore St. Martin’s Cathedral and stroll through the charming old town with its half-timbered houses, picturesque squares, and centuries of history and culture.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Золотой Майнц и его достопримечательности: Экскурсия по городу",
+      "title": "Golden Mainz and its Sights: Guided Walking Tour / Золотой Майнц и его достопримечательности: Экскурсия по городу",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "other"
+      ],
+      "descriptionRu": "Откройте для себя «Золотой Майнц» на экскурсии, начиная с римских времен и до наших дней. Исследуйте собор Святого Мартина и прогуляйтесь по очаровательному старому городу с его фахверковыми домами, живописными площадями и многовековой историей и культурой.",
+      "description": "Откройте для себя «Золотой Майнц» на экскурсии, начиная с римских времен и до наших дней. Исследуйте собор Святого Мартина и прогуляйтесь по очаровательному старому городу с его фахверковыми домами, живописными площадями и многовековой историей и культурой.",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-157642-2026-07-11T15:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Best of Mainz-Stadtführung: Typisch Mainz! Höfe, Winkel, Gassen",
+      "date": "2026-07-11",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Ballplatz",
+      "url": "https://www.mainz.de/info-networking-event?id=157642",
+      "descriptionDe": "- Die Geschichte(n) von Mainz in 90 Minuten - Entdecken Sie einen versteckten Garten und manchen Mainzer Winkel - Genießen Sie einen entspannten Spaziergang abseits der üblichen Pfade Entdecken Sie bei unserer charmanten Stadtführung die versteckten Winkel, Gassen und Höfe von Mainz, abseits der üblichen …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion"
+      ],
+      "titleRu": "Лучшее в Майнце - экскурсия по городу: Типичный Майнц! Дворы, уголки, переулки",
+      "title": "Best of Mainz-Stadtführung: Typisch Mainz! Höfe, Winkel, Gassen / Лучшее в Майнце - экскурсия по городу: Типичный Майнц! Дворы, уголки, переулки",
+      "type": "excursion",
+      "tags": [
+        "excursion"
+      ],
+      "descriptionRu": "- Истории Майнца за 90 минут - Откройте для себя скрытый сад и некоторые уголки Майнца - Наслаждайтесь спокойной прогулкой вдали от обычных маршрутов. Откройте для себя скрытые уголки, переулки и дворы Майнца во время нашей очаровательной экскурсии, вдали от привычных …",
+      "description": "- Истории Майнца за 90 минут - Откройте для себя скрытый сад и некоторые уголки Майнца - Наслаждайтесь спокойной прогулкой вдали от обычных маршрутов. Откройте для себя скрытые уголки, переулки и дворы Майнца во время нашей очаровательной экскурсии, вдали от привычных …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
         "weekend"
       ]
     },
@@ -242,6 +1798,120 @@
       ]
     },
     {
+      "id": "mainz-info-networking-event-167690-2026-07-11T19:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "\"Ritter, Ringe, Rüschenkleider\" – Konzert des Sinfonischen Orchester Mainz",
+      "date": "2026-07-11",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Theresianum Gymnasium",
+      "url": "https://www.mainz.de/info-networking-event?id=167690",
+      "descriptionDe": "Klirrende Schwerter, epische Fanfaren und brüllende Orks. Unter dem Motto \"Ritter, Ringe, Rüschenkleider\" reisen wir zu Herrschern und Narren von Skandinavien bis Mittelerde. Niels Gades Overtüre eröffnet die Welt der Intrigen in Shakespeares Hamlet. Bei Grieg geht es um den Zwist zweier Brüder und eine …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "concert"
+      ],
+      "titleRu": "\"Рыцари, кольца, рюшевые платья\" – Концерт Симфонического оркестра Майнца",
+      "title": "\"Ritter, Ringe, Rüschenkleider\" – Konzert des Sinfonischen Orchester Mainz / \"Рыцари, кольца, рюшевые платья\" – Концерт Симфонического оркестра Майнца",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "descriptionRu": "Звон мечей, эпические фанфары и ревущие орки. Под девизом \"Рыцари, кольца, рюшевые платья\" мы отправляемся к правителям и дуракам от Скандинавии до Средиземья. Увертюра Нильса Гаде открывает мир интриг в \"Гамлете\" Шекспира. У Грига речь идет о конфликте двух братьев и …",
+      "description": "Звон мечей, эпические фанфары и ревущие орки. Под девизом \"Рыцари, кольца, рюшевые платья\" мы отправляемся к правителям и дуракам от Скандинавии до Средиземья. Увертюра Нильса Гаде открывает мир интриг в \"Гамлете\" Шекспира. У Грига речь идет о конфликте двух братьев и …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166421-2026-07-12T11:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Pflanzen erobern das Land - Eine Reise durch die Evolutionsgeschichte",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Botanischer Garten der Johannes-Gutenberg-Universität",
+      "url": "https://www.mainz.de/info-networking-event?id=166421",
+      "descriptionDe": "Sonntagsführung mit Prof. Dr. Meret Huber Wenn Sie den Botanischen Garten noch nicht kennen, bilden die öffentlichen Sonntagsführungen den idealen Einstieg. Aber Achtung, unsere Begeisterung für Pflanzen ist ansteckend und kann Ihr Leben nachhaltig verändern! Die Führungen dauern etwa 90 Minuten. Eine Anmeldung …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion"
+      ],
+      "titleRu": "Растения завоевывают землю - Путешествие по истории эволюции",
+      "title": "Pflanzen erobern das Land - Eine Reise durch die Evolutionsgeschichte / Растения завоевывают землю - Путешествие по истории эволюции",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "children"
+      ],
+      "descriptionRu": "Воскресная экскурсия с профессором доктором Мерет Хубер. Если вы еще не знакомы с Ботаническим садом, публичные воскресные экскурсии станут идеальным началом. Но будьте осторожны, наше увлечение растениями заразительно и может изменить вашу жизнь! Экскурсии длятся около 90 минут. Необходима предварительная запись ...",
+      "description": "Воскресная экскурсия с профессором доктором Мерет Хубер. Если вы еще не знакомы с Ботаническим садом, публичные воскресные экскурсии станут идеальным началом. Но будьте осторожны, наше увлечение растениями заразительно и может изменить вашу жизнь! Экскурсии длятся около 90 минут. Необходима предварительная запись ...",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167663-2026-07-12T11:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Radfahren - Sportliche Pedelec- / E-Bike Panoramatour",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Malakoff-Terrasse",
+      "url": "https://www.mainz.de/info-networking-event?id=167663",
+      "descriptionDe": "Von Mainz geht's über die Hiwwelroute nach Zornheim, Nierstein - mit Pause im Eiscafé - und über Roter Hang zurück nach Mainz. Die Strecke enthält ca. 1 km unbefestigte Wege. Strecke: Mainz - Zornheim - Nierstein - Nackenheim - Mainz (Radtour von 65 km Länge und 500 Höhenmetern). Diese Tour wird von einem:r …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "sport",
+        "fest"
+      ],
+      "titleRu": "Велосипедная прогулка - Спортивный панорамный тур на Pedelec / E-Bike",
+      "title": "Radfahren - Sportliche Pedelec- / E-Bike Panoramatour / Велосипедная прогулка - Спортивный панорамный тур на Pedelec / E-Bike",
+      "type": "sport",
+      "tags": [
+        "sport",
+        "excursion"
+      ],
+      "descriptionRu": "Из Майнца мы отправляемся по маршруту Hiwwelroute в Цорнхайм, Нирштайн - с остановкой в кафе-мороженом - и обратно через Ротер Ханг в Майнц. Маршрут включает примерно 1 км грунтовых дорог. Дистанция: Майнц - Цорнхайм - Нирштайн - Наккенхайм - Майнц (велосипедный тур длиной 65 км и 500 метров высоты). Этот тур будет проводиться …",
+      "description": "Из Майнца мы отправляемся по маршруту Hiwwelroute в Цорнхайм, Нирштайн - с остановкой в кафе-мороженом - и обратно через Ротер Ханг в Майнц. Маршрут включает примерно 1 км грунтовых дорог. Дистанция: Майнц - Цорнхайм - Нирштайн - Наккенхайм - Майнц (велосипедный тур длиной 65 км и 500 метров высоты). Этот тур будет проводиться …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
       "id": "bad-schwalbach-https-www-openstreetmap-org-search-query-brunnenstra-c3-9fe-2020-2065307-20bad-20schwalbach-amp-zoom-18-2026-07-12-14:30",
       "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
       "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
@@ -277,6 +1947,200 @@
       "matchReasons": [
         "preferred-city",
         "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-162297-2026-07-12T14:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Exhibition - Das verschwundene Aquarell",
+      "date": "2026-07-12",
+      "time": "14:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Landesmuseum Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=162297",
+      "descriptionDe": "Mystery-Schnitzeljagd im Escape-Room-Stil durch das Museum. Das Aquarell des berühmten britischen Künstlers William Turner schwebt in großer Gefahr! Es gibt Hinweise, dass es von einer Gruppe raffinierter und skrupelloser Kunstdiebe entwendet werden soll. Ihr seid die Einzigen, die es noch retten können. Aber …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum",
+        "exhibition"
+      ],
+      "titleRu": "Выставка - Исчезнувшая акварель",
+      "title": "Exhibition - Das verschwundene Aquarell / Выставка - Исчезнувшая акварель",
+      "type": "exhibition",
+      "tags": [
+        "museum",
+        "exhibition"
+      ],
+      "descriptionRu": "Мистическая охота за сокровищами в стиле побега по музею. Акварель знаменитого британского художника Уильяма Тёрнера находится в большой опасности! Есть подсказки, что её собирается похитить группа изощрённых и безжалостных воришек. Вы - единственные, кто может её спасти. Но ...",
+      "description": "Мистическая охота за сокровищами в стиле побега по музею. Акварель знаменитого британского художника Уильяма Тёрнера находится в большой опасности! Есть подсказки, что её собирается похитить группа изощрённых и безжалостных воришек. Вы - единственные, кто может её спасти. Но ...",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:exhibition",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-164232-2026-07-12T15:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Stadtführung \"Von den Römern über Chagall zum Wein\"",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Bahnhof Römisches Theater",
+      "url": "https://www.mainz.de/info-networking-event?id=164232",
+      "descriptionDe": "Bereits vor acht Jahren war sie eine der beliebtesten Touren in unserem Programm – und nun, im Jubiläumsjahr 10 Jahre Best of Mainz, erlebt sie ihr Comeback: die Stadtführung „Von den Römern über Chagall zum Wein“. Start ist dort, wo alles begann: auf Gleis 4 im Bahnhof Römisches Theater, direkt unterhalb der …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "spektakl",
+        "fest"
+      ],
+      "titleRu": "Экскурсия \"От римлян через Шагала к вину\"",
+      "title": "Stadtführung \"Von den Römern über Chagall zum Wein\" / Экскурсия \"От римлян через Шагала к вину\"",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest"
+      ],
+      "descriptionRu": "Уже восемь лет она была одной из самых популярных экскурсий в нашей программе – и теперь, в юбилейный год 10 лет Best of Mainz, она возвращается: экскурсия «От римлян через Шагала к вину». Начало там, где всё началось: на платформе 4 на вокзале Римского театра, прямо под …",
+      "description": "Уже восемь лет она была одной из самых популярных экскурсий в нашей программе – и теперь, в юбилейный год 10 лет Best of Mainz, она возвращается: экскурсия «От римлян через Шагала к вину». Начало там, где всё началось: на платформе 4 на вокзале Римского театра, прямо под …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-162023-2026-07-12T15:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Stadtführung: Legende und Wahrheit – Irrtümer und Schummeleien zur Mainzer Geschichte",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Fastnachtsbrunnen",
+      "url": "https://www.mainz.de/info-networking-event?id=162023",
+      "descriptionDe": "In Mainz wird geschummelt und geschwindelt, dass sich die Balken biegen – und das seit Generationen. Die Mainzer:innen nehmen dabei weder Rücksicht auf ihren Gutenberg noch St. Martin oder gar die Mainzer Fastnacht. Lernen Sie die „wahren“ Feinheiten der Mainzer Geschichte kennen.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "fest"
+      ],
+      "titleRu": "Экскурсия по городу: Легенда и правда – Ошибки и обман в истории Майнца",
+      "title": "Stadtführung: Legende und Wahrheit – Irrtümer und Schummeleien zur Mainzer Geschichte / Экскурсия по городу: Легенда и правда – Ошибки и обман в истории Майнца",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest"
+      ],
+      "descriptionRu": "В Майнце обманывают и хитрят, что только может выдержать – и это продолжается уже поколения. Майнцеры не обращают внимания ни на своего Гутенберга, ни на Святого Мартина, ни на Майнцкий карнаваль. Узнайте «истинные» тонкости истории Майнца.",
+      "description": "В Майнце обманывают и хитрят, что только может выдержать – и это продолжается уже поколения. Майнцеры не обращают внимания ни на своего Гутенберга, ни на Святого Мартина, ни на Майнцкий карнаваль. Узнайте «истинные» тонкости истории Майнца.",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167959-2026-07-12T18:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert für Kontrabass und Klavier \"Traum und Liebe\"",
+      "date": "2026-07-12",
+      "time": "18:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Vitrine Kultursalon",
+      "url": "https://www.mainz.de/info-networking-event?id=167959",
+      "descriptionDe": "Juwon Lee am Flügel und Yeonju Ok am Kontrabass",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "concert"
+      ],
+      "titleRu": "Концерт для контрабаса и фортепиано \"Мечта и любовь\"",
+      "title": "Konzert für Kontrabass und Klavier \"Traum und Liebe\" / Концерт для контрабаса и фортепиано \"Мечта и любовь\"",
+      "type": "concert",
+      "tags": [
+        "concert"
+      ],
+      "descriptionRu": "Джуон Ли на рояле и Ёнжу Ок на контрабасе",
+      "description": "Джуон Ли на рояле и Ёнжу Ок на контрабасе",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-163737-2026-07-12T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Best-Of-Weinerlebnis: Marcel Adam Quartett Abschiedskonzert",
+      "date": "2026-07-12",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Gut Leben am Morstein",
+      "url": "https://www.mainz.de/info-networking-event?id=163737",
+      "descriptionDe": "Marcel Adam, der sympathische Chansons-, Lieder- und Comedy-Schreiber, Mundartdichter, Sänger, Komponist und Entertainer ist regelmäßiger Gast auf GUT LEBEN am Morstein. Diesmal kommt er mit seinem Quartett und wird sein Abschiedskonzert geben. MIt dabei st auch sein Sohn Yann Loup Adam, Einige von Marcel Adam’s …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "fest",
+        "concert"
+      ],
+      "titleRu": "Лучшие моменты винного опыта: Прощальный концерт квартета Марселя Адама",
+      "title": "Best-Of-Weinerlebnis: Marcel Adam Quartett Abschiedskonzert / Лучшие моменты винного опыта: Прощальный концерт квартета Марселя Адама",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "fest"
+      ],
+      "descriptionRu": "Марсель Адам, симпатичный автор шансонов, песен и комедий, поэт на диалекте, певец, композитор и артист, регулярно выступает в GUT LEBEN am Morstein. На этот раз он приедет со своим квартетом и даст свой прощальный концерт. Также с ним будет его сын Ян Луп Адам, Некоторые из произведений Марселя Адама …",
+      "description": "Марсель Адам, симпатичный автор шансонов, песен и комедий, поэт на диалекте, певец, композитор и артист, регулярно выступает в GUT LEBEN am Morstein. На этот раз он приедет со своим квартетом и даст свой прощальный концерт. Также с ним будет его сын Ян Луп Адам, Некоторые из произведений Марселя Адама …",
+      "personalScore": 70,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert",
         "weekend"
       ]
     },
@@ -358,6 +2222,799 @@
       ]
     },
     {
+      "id": "mainz-info-networking-event-167614-2026-07-09T18:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "PubQuiz Open Air",
+      "date": "2026-07-09",
+      "time": "18:30",
+      "price": {
+        "min": 2.5,
+        "max": 2.5,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kulturbiergarten im Schloss",
+      "url": "https://www.mainz.de/info-networking-event?id=167614",
+      "descriptionDe": "Unser beliebtes Biergartenquiz ist zurück! Das vierte Jahr in Folge und nach wie vor in der schönsten Location: dem Innenhof des altehrwürdigen Mainzer Schlosses - Jeden Donnerstag bis September, Anmeldung startet 18.30, Quiz beginnt um 19 Uhr - vier bis maximal acht Personen pro Team, 2,50 pro Kopf (sorry, Zaphod …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Открытый PubQuiz",
+      "title": "PubQuiz Open Air / Открытый PubQuiz",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Наше популярное квиз-мероприятие в пивном саду возвращается! Четвертый год подряд и по-прежнему в самом красивом месте: во дворе старинного замка Майнца - Каждый четверг до сентября, регистрация начинается в 18:30, квиз начинается в 19:00 - от четырех до восьми человек в команде, 2,50 евро с человека (извините, Зафод …",
+      "description": "Наше популярное квиз-мероприятие в пивном саду возвращается! Четвертый год подряд и по-прежнему в самом красивом месте: во дворе старинного замка Майнца - Каждый четверг до сентября, регистрация начинается в 18:30, квиз начинается в 19:00 - от четырех до восьми человек в команде, 2,50 евро с человека (извините, Зафод …",
+      "personalScore": 65,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-keyword:open air",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167664-2026-07-13T18:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Radfahren - Meenzer Feierabend-Runde",
+      "date": "2026-07-13",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Universität Mainz Haupteingang / Vorplatz",
+      "url": "https://www.mainz.de/info-networking-event?id=167664",
+      "descriptionDe": "Nette Bio-Bike-Radrunde von der Uni Mainz in die Neustadt, über die Kaiserbrücke nach MZ-Kastel und Kostheim. Via Theodor-Heuss-Brücke zurück zum Startpunkt in Mainz. Pedelecs richten sich bitte nach den Teilnehmenden ohne E-Bike. Strecke: Mainz Johannes-Gutenberg-Universität - MZ-Neustadt - MZ-Kastel - MZ-Kostheim …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Велосипедная прогулка - Майнцкая вечерняя кругосветка",
+      "title": "Radfahren - Meenzer Feierabend-Runde / Велосипедная прогулка - Майнцкая вечерняя кругосветка",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "other"
+      ],
+      "descriptionRu": "Приятная велопрогулка на биобайках от Университета Майнца в Новый город, через Императорский мост в МЗ-Кастель и Костхайм. Через мост Теодора-Хойса обратно к стартовой точке в Майнце. Пожалуйста, участники на педеликах должны следовать за участниками без электровелосипедов. Маршрут: Университет Иоганна Гутенберга в Майнце - Новый город МЗ - МЗ-Кастель - МЗ-Костхайм …",
+      "description": "Приятная велопрогулка на биобайках от Университета Майнца в Новый город, через Императорский мост в МЗ-Кастель и Костхайм. Через мост Теодора-Хойса обратно к стартовой точке в Майнце. Пожалуйста, участники на педеликах должны следовать за участниками без электровелосипедов. Маршрут: Университет Иоганна Гутенберга в Майнце - Новый город МЗ - МЗ-Кастель - МЗ-Костхайм …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167454-2026-07-13T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Bachelorprüfung: Judith Quinker, Oboe",
+      "date": "2026-07-13",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=167454",
+      "descriptionDe": "Klasse Prof. Daniela Tessmann",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках бакалавриата: Юдит Квинкер, гобой",
+      "title": "Konzert im Rahmen der Bachelorprüfung: Judith Quinker, Oboe / Концерт в рамках бакалавриата: Юдит Квинкер, гобой",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Даниэлы Тессманн",
+      "description": "Класс профессора Даниэлы Тессманн",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-168072-2026-07-13T20:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Munch",
+      "date": "2026-07-13",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "CinéMayence im Institut Français",
+      "url": "https://www.mainz.de/info-networking-event?id=168072",
+      "descriptionDe": "Munch Dokumentarfilm von Henrik Martin Dahlsbakken, N 2023, OmU, FSK 12 Maler, Exzentriker, Genie: Edvard Munch, Begründer des Expressionismus, ist einer der bedeutendsten Künstler der Moderne. Sein „Der Schrei“ gehört zu den wichtigsten (und teuersten!) Gemälden des 20. Jahrhunderts. Aber wer war Edvard Munch? …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "kino"
+      ],
+      "titleRu": "Мунк",
+      "title": "Munch / Мунк",
+      "type": "kino",
+      "tags": [
+        "kino",
+        "other"
+      ],
+      "descriptionRu": "Мунк Документальный фильм Хенрика Мартина Дальсбаккена, Н 2023, с субтитрами, возрастное ограничение 12. Художник, эксцентрик, гений: Эдвард Мунк, основатель экспрессионизма, является одним из самых значительных художников современности. Его \"Крик\" является одной из самых важных (и дорогих!) картин 20 века. Но кто был Эдвард Мунк? …",
+      "description": "Мунк Документальный фильм Хенрика Мартина Дальсбаккена, Н 2023, с субтитрами, возрастное ограничение 12. Художник, эксцентрик, гений: Эдвард Мунк, основатель экспрессионизма, является одним из самых значительных художников современности. Его \"Крик\" является одной из самых важных (и дорогих!) картин 20 века. Но кто был Эдвард Мунк? …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:kino"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167383-2026-07-14T09:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Ferienforscher - Pflanzen-Power",
+      "date": "2026-07-14",
+      "time": "09:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Naturhistorisches Museum",
+      "url": "https://www.mainz.de/info-networking-event?id=167383",
+      "descriptionDe": "Spaß an Natur, Forschen und Kreativität! Im Sommer bieten wir euch drei Themen rund um Pflanzen an. Grün & lecker",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum"
+      ],
+      "titleRu": "Исследователи каникул - Сила растений",
+      "title": "Ferienforscher - Pflanzen-Power / Исследователи каникул - Сила растений",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion",
+        "museum"
+      ],
+      "descriptionRu": "Увлекательные занятия с природой, исследование и творчество! Летом мы предлагаем вам три темы, связанные с растениями. Зеленые и вкусные",
+      "description": "Увлекательные занятия с природой, исследование и творчество! Летом мы предлагаем вам три темы, связанные с растениями. Зеленые и вкусные",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167773-2026-07-14T09:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Neue Uhrzeit! - Konzert im Rahmen der Masterprüfung: Jiaqi Tang, Klavier",
+      "date": "2026-07-14",
+      "time": "09:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=167773",
+      "descriptionDe": "Klasse Prof. Thomas Hell",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Новое время! - Концерт в рамках магистерского экзамена: Цзяньци Тан, фортепиано",
+      "title": "Neue Uhrzeit! - Konzert im Rahmen der Masterprüfung: Jiaqi Tang, Klavier / Новое время! - Концерт в рамках магистерского экзамена: Цзяньци Тан, фортепиано",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Томаса Хелла",
+      "description": "Класс профессора Томаса Хелла",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167774-2026-07-14T10:50:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Neue Uhrzeit! - Konzert im Rahmen der Bachelorprüfung: Chohyun Park, Klavier",
+      "date": "2026-07-14",
+      "time": "10:50",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=167774",
+      "descriptionDe": "Klasse Prof. Matthias Fuchs",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Новое время! - Концерт в рамках бакалавриата: Чохюн Пак, пиано",
+      "title": "Neue Uhrzeit! - Konzert im Rahmen der Bachelorprüfung: Chohyun Park, Klavier / Новое время! - Концерт в рамках бакалавриата: Чохюн Пак, пиано",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Маттиаса Фукса",
+      "description": "Класс профессора Маттиаса Фукса",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167455-2026-07-14T19:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Masterprüfung: Keumbyeol Hwang, Liedbegleitung",
+      "date": "2026-07-14",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=167455",
+      "descriptionDe": "Klasse Prof. Seung-Jo Cha",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках магистерского экзамена: Кеумбёль Хван, аккомпанемент",
+      "title": "Konzert im Rahmen der Masterprüfung: Keumbyeol Hwang, Liedbegleitung / Концерт в рамках магистерского экзамена: Кеумбёль Хван, аккомпанемент",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Сеунг-Джо Ча",
+      "description": "Класс профессора Сеунг-Джо Ча",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167126-2026-07-14T19:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Mainzer Musiksommer - Constantinople",
+      "date": "2026-07-14",
+      "time": "19:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Mainzer Priesterseminar",
+      "url": "https://www.mainz.de/info-networking-event?id=167126",
+      "descriptionDe": "Ästuar – Die Flussmündung Wenn die westafrikanische Kora und die persische Setar miteinander sprechen, entsteht ein schwebender Klangraum zwischen Kontinenten und Zeiten – ein Ort des Staunens, an dem sich Kulturen im Augenblick begegnen. Sendung in SWR Kultur Programm: Constantinople Kiya Tabassian Setar, Gesang …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "course",
+        "concert"
+      ],
+      "titleRu": "Майнцкий музыкальный летний фестиваль - Константинополь",
+      "title": "Mainzer Musiksommer - Constantinople / Майнцкий музыкальный летний фестиваль - Константинополь",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "course"
+      ],
+      "descriptionRu": "Эстуарий – устье реки. Когда западноафриканская кора и персидская сетар разговаривают друг с другом, возникает парящий звуковой пространство между континентами и временами – место удивления, где культуры встречаются в данный момент. Передача в программе SWR Kultur: Константинополь Кия Табассиан сетар, вокал …",
+      "description": "Эстуарий – устье реки. Когда западноафриканская кора и персидская сетар разговаривают друг с другом, возникает парящий звуковой пространство между континентами и временами – место удивления, где культуры встречаются в данный момент. Передача в программе SWR Kultur: Константинополь Кия Табассиан сетар, вокал …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167384-2026-07-15T09:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Ferienforscher - Pflanzen-Power",
+      "date": "2026-07-15",
+      "time": "09:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Naturhistorisches Museum",
+      "url": "https://www.mainz.de/info-networking-event?id=167384",
+      "descriptionDe": "Spaß an Natur, Forschen und Kreativität! Im Sommer bieten wir euch drei Themen rund um Pflanzen an. Grün und gesund",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum"
+      ],
+      "titleRu": "Исследователи каникул - Сила растений",
+      "title": "Ferienforscher - Pflanzen-Power / Исследователи каникул - Сила растений",
+      "type": "children",
+      "tags": [
+        "children",
+        "excursion",
+        "museum"
+      ],
+      "descriptionRu": "Удовольствие от природы, исследований и творчества! Летом мы предлагаем вам три темы, связанные с растениями. Зеленый и здоровый",
+      "description": "Удовольствие от природы, исследований и творчества! Летом мы предлагаем вам три темы, связанные с растениями. Зеленый и здоровый",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166182-2026-07-15T17:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Wildes Mainz - Stadtspaziergänge mit Naturexpert:innen",
+      "date": "2026-07-15",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Treffpunkt vor Naturhistorischen Museum Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=166182",
+      "descriptionDe": "Lust auf eine Tour durch das wilde Mainz? Spaziert mit unseren Naturexperten zu den grünen Ecken und Enden der Landeshauptstadt! Route & Thema werden spontan festgelegt, so wird jeder Termin zu einer kleinen Überraschung.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "museum",
+        "fest"
+      ],
+      "titleRu": "Дикий Майнц - Городские прогулки с экспертами по природе",
+      "title": "Wildes Mainz - Stadtspaziergänge mit Naturexpert:innen / Дикий Майнц - Городские прогулки с экспертами по природе",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "museum",
+        "fest"
+      ],
+      "descriptionRu": "Хотите отправиться в тур по диким местам Майнца? Прогуляйтесь с нашими экспертами по природе к зеленым уголкам и краям столицы земли! Маршрут и тема будут определены спонтанно, так что каждая встреча станет маленьким сюрпризом.",
+      "description": "Хотите отправиться в тур по диким местам Майнца? Прогуляйтесь с нашими экспертами по природе к зеленым уголкам и краям столицы земли! Маршрут и тема будут определены спонтанно, так что каждая встреча станет маленьким сюрпризом.",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166494-2026-07-15T18:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Masterprüfung: Paula Müller, Gesang",
+      "date": "2026-07-15",
+      "time": "18:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=166494",
+      "descriptionDe": "Klasse Prof. Elisabeth Scholl",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках магистерского экзамена: Паула Мюллер, вокал",
+      "title": "Konzert im Rahmen der Masterprüfung: Paula Müller, Gesang / Концерт в рамках магистерского экзамена: Паула Мюллер, вокал",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс проф. Элизабет Шолл",
+      "description": "Класс проф. Элизабет Шолл",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166621-2026-07-15T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "ABGESAGT - Konzert im Rahmen der Bachelorprüfung – Nikolas Groth, Gesang",
+      "date": "2026-07-15",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=166621",
+      "descriptionDe": "Klasse Prof. Thomas Dewald",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "ОТМЕНА - Концерт в рамках бакалаврского экзамена – Николаус Грот, вокал",
+      "title": "ABGESAGT - Konzert im Rahmen der Bachelorprüfung – Nikolas Groth, Gesang / ОТМЕНА - Концерт в рамках бакалаврского экзамена – Николаус Грот, вокал",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Томаса Девальда",
+      "description": "Класс профессора Томаса Девальда",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166622-2026-07-15T20:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Konzert im Rahmen der Masterprüfung: Lijun Meng, Gesang",
+      "date": "2026-07-15",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Hochschule für Musik, Roter Saal",
+      "url": "https://www.mainz.de/info-networking-event?id=166622",
+      "descriptionDe": "Klasse Prof. Thomas Dewald",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "student_concert",
+        "concert"
+      ],
+      "titleRu": "Концерт в рамках магистерского экзамена: Лицзюнь Мэнг, вокал",
+      "title": "Konzert im Rahmen der Masterprüfung: Lijun Meng, Gesang / Концерт в рамках магистерского экзамена: Лицзюнь Мэнг, вокал",
+      "type": "student_concert",
+      "tags": [
+        "student_concert",
+        "concert"
+      ],
+      "descriptionRu": "Класс профессора Томаса Девальда",
+      "description": "Класс профессора Томаса Девальда",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-168010-2026-07-16T12:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Morgenstern zum Mittag",
+      "date": "2026-07-16",
+      "time": "12:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Gutenberg-Bibliothek",
+      "url": "https://www.mainz.de/info-networking-event?id=168010",
+      "descriptionDe": "Eine kurze Mittagspausenführung erlaubt spannende Einblicke in die Bibliothek, das Leben des Dichters und die buchkünstlerische Auseinandersetzung mit seinem Werk.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion"
+      ],
+      "titleRu": "Утреннее солнце в полдень",
+      "title": "Morgenstern zum Mittag / Утреннее солнце в полдень",
+      "type": "excursion",
+      "tags": [
+        "excursion"
+      ],
+      "descriptionRu": "Краткая экскурсия во время обеденного перерыва позволяет получить увлекательные взгляды на библиотеку, жизнь поэта и художественное взаимодействие с его произведением.",
+      "description": "Краткая экскурсия во время обеденного перерыва позволяет получить увлекательные взгляды на библиотеку, жизнь поэта и художественное взаимодействие с его произведением.",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165458-2026-07-16T18:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Führung \"Hechtsheim und seine Winzerinnen\"",
+      "date": "2026-07-16",
+      "time": "18:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Hechtsheimer Weingüter",
+      "url": "https://www.mainz.de/info-networking-event?id=165458",
+      "descriptionDe": "Zum Abschluss der Themenreihe „Hechtsheim und seine Winzerinnen“ geht es zum Christophorus-Hof. Das Mitten im Ortskern von Mainz-Hechtsheim liegende Weingut wird seit 2009 von der Weintechnikerin Simone Schmitt-Rieth betrieben. Das kleine aber feine Weingut mit rund 7ha Anbaufläche bietet eine Vielzahl an prämierten …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "fest"
+      ],
+      "titleRu": "Экскурсия \"Хехтсхайм и его виноделы\"",
+      "title": "Führung \"Hechtsheim und seine Winzerinnen\" / Экскурсия \"Хехтсхайм и его виноделы\"",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest"
+      ],
+      "descriptionRu": "В завершение темы \"Хехтсхайм и его виноделы\" мы отправимся в Хоф Кристофоруса. Винодельня, расположенная в центре Хехтсхайма, работает с 2009 года под руководством винного техника Симоны Шмитт-Риет. Небольшая, но изысканная винодельня с площадью около 7 гектаров предлагает множество награжденных …",
+      "description": "В завершение темы \"Хехтсхайм и его виноделы\" мы отправимся в Хоф Кристофоруса. Винодельня, расположенная в центре Хехтсхайма, работает с 2009 года под руководством винного техника Симоны Шмитт-Риет. Небольшая, но изысканная винодельня с площадью около 7 гектаров предлагает множество награжденных …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167834-2026-07-16T23:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "All You Can Dance",
+      "date": "2026-07-16",
+      "time": "23:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kulturclub schon schön",
+      "url": "https://www.mainz.de/info-networking-event?id=167834",
+      "descriptionDe": "Das heutige Motto ist All You Can Dance und das nehmen wir mehr als Ernst! Die feinsten Hits verzücken uns den Donnerstag und machen ihn so automatisch zum kleinen Freitag, denn der Soundtrack aus bester Tanzmusik schmeckt schon förmlich nach Wochenende also was solls, heute machen wir die Nacht zum Tag!",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "spektakl",
+        "concert"
+      ],
+      "titleRu": "Танцуй сколько хочешь",
+      "title": "All You Can Dance / Танцуй сколько хочешь",
+      "type": "concert",
+      "tags": [
+        "concert",
+        "spektakl"
+      ],
+      "descriptionRu": "Сегодняшний девиз — Танцуй сколько хочешь, и мы воспринимаем это более чем серьезно! Лучшие хиты радуют нас в четверг и делают его автоматически маленькой пятницей, ведь саундтрек из лучшей танцевальной музыки уже буквально пахнет выходными, так что, что с того, сегодня мы сделаем ночь днем!",
+      "description": "Сегодняшний девиз — Танцуй сколько хочешь, и мы воспринимаем это более чем серьезно! Лучшие хиты радуют нас в четверг и делают его автоматически маленькой пятницей, ведь саундтрек из лучшей танцевальной музыки уже буквально пахнет выходными, так что, что с того, сегодня мы сделаем ночь днем!",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:concert"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-157412-2026-07-17T16:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "WineWalk \"Best of Goldisch Meenz\" - Stadtführung mit Weintasting",
+      "date": "2026-07-17",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JAoderWEIN - Der Weinladen für Freunde und Nachbarn",
+      "url": "https://www.mainz.de/info-networking-event?id=157412",
+      "descriptionDe": "Short Facts: 6 mehr oder weniger bekannte Mainzer Orte und ihre garantiert unbekannten Geschichten 3 besondere Weine der Region Wir erleben gemeinsam die Stadt und verlassen so oft wie möglich die üblichen Touristenpfade, um in die Mainzer Geschichte einzutauchen. An besonders schönen Stellen, lassen wir uns ein …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "fest"
+      ],
+      "titleRu": "WineWalk \"Лучшее из Голдиш Майнц\" - Экскурсия по городу с дегустацией вин",
+      "title": "WineWalk \"Best of Goldisch Meenz\" - Stadtführung mit Weintasting / WineWalk \"Лучшее из Голдиш Майнц\" - Экскурсия по городу с дегустацией вин",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest"
+      ],
+      "descriptionRu": "Краткие факты: 6 более или менее известных мест в Майнце и их гарантированно неизвестные истории 3 особых вина региона Мы вместе исследуем город и стараемся как можно чаще покидать обычные туристические маршруты, чтобы погрузиться в историю Майнца. В особенно красивых местах мы позволяем себе …",
+      "description": "Краткие факты: 6 более или менее известных мест в Майнце и их гарантированно неизвестные истории 3 особых вина региона Мы вместе исследуем город и стараемся как можно чаще покидать обычные туристические маршруты, чтобы погрузиться в историю Майнца. В особенно красивых местах мы позволяем себе …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165984-2026-07-17T17:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "\"Wein, Weiber und Geschichten\" - Weinevent auf der Zitadelle - Führung mit Weinprobe",
+      "date": "2026-07-17",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Zitadelle Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=165984",
+      "descriptionDe": "Spannende und schmackhafte 2 Stunden verspricht dieses historische Weinevent – Geschichte erleben, begreifen und schmecken! Der Eichelstein, das Jakobskloster und Adolphusbollwerk sind nur drei Stationen auf unserem Weg durch zwei Jahrtausende Mainzer Stadtgeschichte. Höhepunkt des Rundgangs mit Julchen, der …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "fest"
+      ],
+      "titleRu": "«Вино, женщины и истории» - винное событие в цитадели - экскурсия с дегустацией вина",
+      "title": "\"Wein, Weiber und Geschichten\" - Weinevent auf der Zitadelle - Führung mit Weinprobe / «Вино, женщины и истории» - винное событие в цитадели - экскурсия с дегустацией вина",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest"
+      ],
+      "descriptionRu": "Увлекательные и вкусные 2 часа обещает это историческое винное событие - пережить, понять и попробовать историю! Эйхельштайн, Якобсклостер и Адольфусбольверк - это всего лишь три станции на нашем пути через две тысячи лет истории города Майнц. Кульминацией экскурсии с Юльчен, …",
+      "description": "Увлекательные и вкусные 2 часа обещает это историческое винное событие - пережить, понять и попробовать историю! Эйхельштайн, Якобсклостер и Адольфусбольверк - это всего лишь три станции на нашем пути через две тысячи лет истории города Майнц. Кульминацией экскурсии с Юльчен, …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-164727-2026-07-17T17:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Freitagabend! – „Kannst du Mainz?“ Stadtführung mit Quiz (inkl. Wein)",
+      "date": "2026-07-17",
+      "time": "17:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Wein & More Kirschgarten29",
+      "url": "https://www.mainz.de/info-networking-event?id=164727",
+      "descriptionDe": "Der perfekte Einstieg ins Wochenende! Bei dieser besonderen Stadtführung heißt es: Miträtseln, Staunen und Genießen! Erleben Sie Mainz auf unterhaltsame Weise bei einer interaktiven Quiz-Tour durch die Altstadt. Woher weiß der Mainzer, wie das Wetter wird? Wo befindet sich der Heilige Spuckes? Und wo lässt es sich …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "excursion",
+        "fest"
+      ],
+      "titleRu": "Пятничный вечер! – «Ты знаешь Майнц?» Экскурсия по городу с викториной (включая вино)",
+      "title": "Freitagabend! – „Kannst du Mainz?“ Stadtführung mit Quiz (inkl. Wein) / Пятничный вечер! – «Ты знаешь Майнц?» Экскурсия по городу с викториной (включая вино)",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "fest"
+      ],
+      "descriptionRu": "Идеальный старт выходных! На этой особой экскурсии по городу вам предстоит разгадывать загадки, удивляться и наслаждаться! Откройте для себя Майнц увлекательным образом на интерактивной викторине по старому городу. Откуда майнцер знает, какая будет погода? Где находится Святой Спукес? И где можно …",
+      "description": "Идеальный старт выходных! На этой особой экскурсии по городу вам предстоит разгадывать загадки, удивляться и наслаждаться! Откройте для себя Майнц увлекательным образом на интерактивной викторине по старому городу. Откуда майнцер знает, какая будет погода? Где находится Святой Спукес? И где можно …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166719-2026-07-17T18:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "FILMZ – Muschelkino: BlacKKKlansman",
+      "date": "2026-07-17",
+      "time": "18:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Muschel",
+      "url": "https://www.mainz.de/info-networking-event?id=166719",
+      "descriptionDe": "Colorado Springs, Ende der 1970er Jahre: Ron Stallworth, ein Schwarzer Polizist, und Flip Zimmerman, sein jüdischer Kollege, führen eine verdeckte Ermittlung durch, um den Ku-Klux-Klan zu infiltrieren. Ein ganz besonderer Gast für den letzten Muschelkino-Abend in diesem Sommer: Der Komponist des Film-Soundtracks, …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "kino"
+      ],
+      "titleRu": "FILMZ – Мушелькино: БлэкКклансман",
+      "title": "FILMZ – Muschelkino: BlacKKKlansman / FILMZ – Мушелькино: БлэкКклансман",
+      "type": "kino",
+      "tags": [
+        "kino",
+        "other"
+      ],
+      "descriptionRu": "Колорадо-Спрингс, конец 1970-х годов: Рон Столворт, чернокожий полицейский, и Флип Циммерман, его еврейский коллега, проводят секретное расследование, чтобы внедриться в Ку-клукс-клан. Особый гость последнего вечера Мушелькино этим летом: композитор саундтрека к фильму, …",
+      "description": "Колорадо-Спрингс, конец 1970-х годов: Рон Столворт, чернокожий полицейский, и Флип Циммерман, его еврейский коллега, проводят секретное расследование, чтобы внедриться в Ку-клукс-клан. Особый гость последнего вечера Мушелькино этим летом: композитор саундтрека к фильму, …",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:kino"
+      ]
+    },
+    {
       "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-om-chanting-im-familienzentrum-mueze-900011431-29880-html-naviid-0-2026-07-17-19:00",
       "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
       "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
@@ -388,6 +3045,43 @@
       ],
       "descriptionRu": "Испытай трансформирующую силу первозданного звука ОМ в особой практике сообщества.",
       "description": "Испытай трансформирующую силу первозданного звука ОМ в особой практике сообщества.",
+      "personalScore": 60,
+      "matchReasons": [
+        "preferred-city",
+        "preferred-tag:excursion"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167954-2026-07-17T19:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Die verschwundenen Bücher. Escape Event in der Öffentlichen Bücherei - Anna Seghers",
+      "date": "2026-07-17",
+      "time": "19:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Öffentliche Bücherei - Anna Seghers",
+      "url": "https://www.mainz.de/info-networking-event?id=167954",
+      "descriptionDe": "Am 17. Juni findet in der Öffentlichen Bücherei – Anna Seghers ein besonderes Escape-Event statt. Beim Escape-Spiel „Die verschwundenen Bücher” erwartet die Teilnehmenden eine 90-minütige Rätseljagd durch die Bücherei. In Gruppen von vier bis sechs Personen müssen sie verschwundene Bücher rechtzeitig wiederfinden, …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Пропавшие книги. Эскейп-мероприятие в Общественной библиотеке - Анна Зегерс",
+      "title": "Die verschwundenen Bücher. Escape Event in der Öffentlichen Bücherei - Anna Seghers / Пропавшие книги. Эскейп-мероприятие в Общественной библиотеке - Анна Зегерс",
+      "type": "excursion",
+      "tags": [
+        "excursion",
+        "other"
+      ],
+      "descriptionRu": "17 июня в Общественной библиотеке - Анна Зегерс пройдет особое эскейп-мероприятие. Участников ожидает 90-минутная охота за загадками по библиотеке. В группах от четырех до шести человек они должны вовремя найти пропавшие книги, …",
+      "description": "17 июня в Общественной библиотеке - Анна Зегерс пройдет особое эскейп-мероприятие. Участников ожидает 90-минутная охота за загадками по библиотеке. В группах от четырех до шести человек они должны вовремя найти пропавшие книги, …",
       "personalScore": 60,
       "matchReasons": [
         "preferred-city",
@@ -467,6 +3161,116 @@
       ]
     },
     {
+      "id": "mainz-info-networking-event-167725-2026-07-09T16:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Kindertheater \"Rapunzel\"",
+      "date": "2026-07-09",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Mombacher Schwimmbad",
+      "url": "https://www.mainz.de/info-networking-event?id=167725",
+      "descriptionDe": "Rapunzel lebt hoch oben in einem Turm, abgeschirmt von der Welt – behütet von einer alten zauberhaften Frau, die Rapunzel wie ihr eigenes Kind aufgezogen hat. Doch die Sehnsucht nach Freiheit und Abenteuern lässt sich nicht einsperren! Als eines Tages ein Prinz zufällig den Turm entdeckt, beginnt eine spannende und …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "children",
+        "spektakl"
+      ],
+      "titleRu": "Детский театр \"Рапунцель\"",
+      "title": "Kindertheater \"Rapunzel\" / Детский театр \"Рапунцель\"",
+      "type": "spektakl",
+      "tags": [
+        "children",
+        "spektakl"
+      ],
+      "descriptionRu": "Рапунцель живет высоко в башне, изолированной от мира – под защитой старой волшебной женщины, которая вырастила Рапунцель как свое собственное дитя. Но тоска по свободе и приключениям не может быть заперта! Однажды, когда принц случайно находит башню, начинается захватывающая и …",
+      "description": "Рапунцель живет высоко в башне, изолированной от мира – под защитой старой волшебной женщины, которая вырастила Рапунцель как свое собственное дитя. Но тоска по свободе и приключениям не может быть заперта! Однажды, когда принц случайно находит башню, начинается захватывающая и …",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166061-2026-07-10T13:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Live Video-Chat: International Business B.Sc.",
+      "date": "2026-07-10",
+      "time": "13:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Online-Plattform Zoom",
+      "url": "https://www.mainz.de/info-networking-event?id=166061",
+      "descriptionDe": "Informationen kompakt, spannend und aus erster Hand. Online und interaktiv. Sie möchten mehr über International Business B.Sc. im Live Video-Chat erfahren? Sie haben die Wahl: Einfach zuhören, Fragen stellen oder sich im Chat beteiligen. Pluspunkte für Ihr Studium Wollten Sie schon immer International Business in …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Живой видеочат: Международный бизнес B.Sc.",
+      "title": "Live Video-Chat: International Business B.Sc. / Живой видеочат: Международный бизнес B.Sc.",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Компактная, захватывающая информация из первых уст. Онлайн и интерактивно. Хотите узнать больше о Международном бизнесе B.Sc. в живом видеочате? У вас есть выбор: просто слушать, задавать вопросы или участвовать в чате. Плюсы для вашего обучения. Вы всегда хотели изучать Международный бизнес в …",
+      "description": "Компактная, захватывающая информация из первых уст. Онлайн и интерактивно. Хотите узнать больше о Международном бизнесе B.Sc. в живом видеочате? У вас есть выбор: просто слушать, задавать вопросы или участвовать в чате. Плюсы для вашего обучения. Вы всегда хотели изучать Международный бизнес в …",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166790-2026-07-10T17:30:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Reparaturtreff Lerchenberg",
+      "date": "2026-07-10",
+      "time": "17:30",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Stadtteilladen Lerchenberg, Einkaufszentrum",
+      "url": "https://www.mainz.de/info-networking-event?id=166790",
+      "descriptionDe": "Im Stadtteil Mainz-Lerchenberg gibt es im Stadtteilladen im Einkaufszentrum regelmäßig einen Reparatur Treff, der sich großer Beliebtheit erfreut. Ehrenamtliche unterstützen bei der Reparatur von Elektrogeräten, Kleingeräten und Fahrrädern. Der Treff sucht weiterhin ehrenamtliche Helfer:innen, die Spaß am Schrauben …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Встреча по ремонту в Леркенберге",
+      "title": "Reparaturtreff Lerchenberg / Встреча по ремонту в Леркенберге",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "В районе Майнц-Леркенберг в Stadtteilladen в торговом центре регулярно проходит встреча по ремонту, которая пользуется большой популярностью. Волонтеры помогают в ремонте электроники, мелких приборов и велосипедов. Встреча также ищет волонтеров, которым нравится работать с инструментами ...",
+      "description": "В районе Майнц-Леркенберг в Stadtteilladen в торговом центре регулярно проходит встреча по ремонту, которая пользуется большой популярностью. Волонтеры помогают в ремонте электроники, мелких приборов и велосипедов. Встреча также ищет волонтеров, которым нравится работать с инструментами ...",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
       "id": "taunusstein-https-www-taunusstein-de-regional-veranstaltungen-orler-freitagstreff-alte-feuerwehr-900011302-29880-html-naviid-0-2026-07-10-19:00",
       "sourceName": "Alle Veranstaltungen Stadt Taunusstein",
       "sourceUrl": "https://www.taunusstein.de/mein-taunusstein/veranstaltungen/",
@@ -541,6 +3345,154 @@
       ]
     },
     {
+      "id": "mainz-info-networking-event-167841-2026-07-10T23:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Tanzattacke – 80er90er00er",
+      "date": "2026-07-10",
+      "time": "23:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kulturclub schon schön",
+      "url": "https://www.mainz.de/info-networking-event?id=167841",
+      "descriptionDe": "Einmal bitte das Partydress aus dem Schrank holen und direkt gute Laune sowie Pailletten ins Gesicht zaubern: Wir blasen zur Tanz-Attacke! Alles kann, alles muss. Mit den 80er, 90er und 00er-Jahren geben sich im ultimativen Genremix drei absolute Kracher-Jahrzehnte die Ehre. Ob Synthie-Pop, Eurodance, NDW oder …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "titleRu": "Танцевальная атака – 80-е, 90-е, 00-е",
+      "title": "Tanzattacke – 80er90er00er / Танцевальная атака – 80-е, 90-е, 00-е",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "spektakl"
+      ],
+      "descriptionRu": "Пожалуйста, достаньте наряд для вечеринки из шкафа и сразу же создайте хорошее настроение и блестки на лице: мы начинаем танцевальную атаку! Всё возможно, всё обязательно. В ультимативном жанровом миксе три абсолютных хита десятилетия 80-х, 90-х и 00-х. Будь то синти-поп, евро-данс, NDW или ...",
+      "description": "Пожалуйста, достаньте наряд для вечеринки из шкафа и сразу же создайте хорошее настроение и блестки на лице: мы начинаем танцевальную атаку! Всё возможно, всё обязательно. В ультимативном жанровом миксе три абсолютных хита десятилетия 80-х, 90-х и 00-х. Будь то синти-поп, евро-данс, NDW или ...",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166020-2026-07-11T09:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Marktfrühstück am Rheinufer, Höhe Fischtorplatz",
+      "date": "2026-07-11",
+      "time": "09:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Rheinufer / Höhe Fischtorplatz",
+      "url": "https://www.mainz.de/info-networking-event?id=166020",
+      "descriptionDe": "Vom 7. März bis 26. September 2026 , immer samstags von 9 bis 15 Uhr Das Marktfrühstück der Mainzer Winzer zieht jedes Jahr von März bis Oktober samstags Menschen aus allen Generationen in die Innenstadt und ist mittlerweile weit über die Grenzen der Stadt bekannt. Aufgrund der Um- und Neubaumaßnahmen am …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Рынок завтраков на набережной Рейна, у площади Фишторплац",
+      "title": "Marktfrühstück am Rheinufer, Höhe Fischtorplatz / Рынок завтраков на набережной Рейна, у площади Фишторплац",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "other"
+      ],
+      "descriptionRu": "С 7 марта по 26 сентября 2026 года, каждую субботу с 9 до 15 часов. Рынок завтраков виноделов Майнца каждый год с марта по октябрь привлекает людей всех поколений в центр города и уже давно известен далеко за пределами города. В связи с работами по реконструкции и новому строительству …",
+      "description": "С 7 марта по 26 сентября 2026 года, каждую субботу с 9 до 15 часов. Рынок завтраков виноделов Майнца каждый год с марта по октябрь привлекает людей всех поколений в центр города и уже давно известен далеко за пределами города. В связи с работами по реконструкции и новому строительству …",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167347-2026-07-11T13:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Workshop für Erwachsene: Druckexperimente",
+      "date": "2026-07-11",
+      "time": "13:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Landesmuseum Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=167347",
+      "descriptionDe": "Lust auf kreative Betätigung, Begegnung mit den Originalen und eine erfahrene Anleitung? Wir bieten Workshops in kleinen Gruppen für Erwachsene an. Vorkenntnisse benötigen Sie keine, nur Lust auf Ausprobieren. Sie haben dabei die Auswahl zwischen verschiedenen Themen und Techniken. Preis: 40,00 € pro Person inkl. …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "master_class",
+        "museum"
+      ],
+      "titleRu": "Мастерская для взрослых: Эксперименты с печатью",
+      "title": "Workshop für Erwachsene: Druckexperimente / Мастерская для взрослых: Эксперименты с печатью",
+      "type": "master_class",
+      "tags": [
+        "master_class",
+        "museum"
+      ],
+      "descriptionRu": "Хотите заняться творчеством, встретиться с оригиналами и получить опытное руководство? Мы предлагаем мастерские в небольших группах для взрослых. Предварительные знания не требуются, только желание попробовать. У вас есть выбор между различными темами и техниками. Цена: 40,00 € с человека, включая ...",
+      "description": "Хотите заняться творчеством, встретиться с оригиналами и получить опытное руководство? Мы предлагаем мастерские в небольших группах для взрослых. Предварительные знания не требуются, только желание попробовать. У вас есть выбор между различными темами и техниками. Цена: 40,00 € с человека, включая ...",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-165720-2026-07-11T15:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Biertasting in der Traditionsstraßenbahn in Mainz",
+      "date": "2026-07-11",
+      "time": "15:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Straßenbahnhaltestelle \"Straßenbahnamt Mainz\"",
+      "url": "https://www.mainz.de/info-networking-event?id=165720",
+      "descriptionDe": "Unterwegs in der Straßenbahn - das fahrende Biertasting Eine Bierverkostung mit der Mainzer Straßenbahn durch Mainz. Quer durch die Stadt Mainz geht die Fahrt mit der Bahn. Bei diesem gemütlichen Biertasting verkosten Sie 5 Biere und ein Spezial von ausgesuchten rheinhessischen Brauereien. Für den Hunger …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Дегустация пива в традиционном трамвае в Майнце",
+      "title": "Biertasting in der Traditionsstraßenbahn in Mainz / Дегустация пива в традиционном трамвае в Майнце",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "В пути на трамвае - передвижная дегустация пива. Дегустация пива с трамваем Майнца по Майнцу. По всему городу Майнц проходит поездка на трамвае. На этой уютной дегустации пива вы попробуете 5 сортов пива и специальный напиток от отобранных рейнхессенских пивоварен. Для голода …",
+      "description": "В пути на трамвае - передвижная дегустация пива. Дегустация пива с трамваем Майнца по Майнцу. По всему городу Майнц проходит поездка на трамвае. На этой уютной дегустации пива вы попробуете 5 сортов пива и специальный напиток от отобранных рейнхессенских пивоварен. Для голода …",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
       "id": "bad-schwalbach-https-www-openstreetmap-org-search-query-burgstra-c3-9fe-2012-2065329-20hohenstein-amp-zoom-18-2026-07-11-20:00",
       "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
       "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
@@ -571,6 +3523,116 @@
       ],
       "descriptionRu": "Замок Хоэнштайн, Бургштрассе 12, 65329 Хоэнштайн",
       "description": "Замок Хоэнштайн, Бургштрассе 12, 65329 Хоэнштайн",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-168039-2026-07-11T22:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "90er und 2000er Party!",
+      "date": "2026-07-11",
+      "time": "22:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Altes Postlager Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=168039",
+      "descriptionDe": "Kommt ihr mit in unsere Kindheit und Jugend? Die Zeitmaschine steht bereit! DJ: Lenz Style: Alles aus den 90ern und 2000ern Wir freuen uns auf euch!",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Вечеринка 90-х и 2000-х!",
+      "title": "90er und 2000er Party! / Вечеринка 90-х и 2000-х!",
+      "type": "fest",
+      "tags": [
+        "fest",
+        "other"
+      ],
+      "descriptionRu": "Приходите с нами в наше детство и юность? Временная машина готова! DJ: Lenz Стиль: Всё из 90-х и 2000-х. Мы вас ждём!",
+      "description": "Приходите с нами в наше детство и юность? Временная машина готова! DJ: Lenz Стиль: Всё из 90-х и 2000-х. Мы вас ждём!",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167842-2026-07-11T23:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "80s Baby - The Music is geil!",
+      "date": "2026-07-11",
+      "time": "23:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kulturclub schon schön",
+      "url": "https://www.mainz.de/info-networking-event?id=167842",
+      "descriptionDe": "Die nächste wilde 80er Sause steht an. Mit noch mehr grandiosen Hits, flashigen Disco-Lights und Achtzigerjahre-Flair. Freut Euch auf beste D-Mark-Mukke von New Wave, NDW, Pop, Indie, Rock, EBM, R&B, bis hin zu Rap und Hip-Hop. Wir präsentieren Euch eindringliche Eintagsfliegen und dauerhafte Ohrwürmer! Alles tanzbar …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "titleRu": "80-е, детка - Музыка классная!",
+      "title": "80s Baby - The Music is geil! / 80-е, детка - Музыка классная!",
+      "type": "spektakl",
+      "tags": [
+        "spektakl",
+        "other"
+      ],
+      "descriptionRu": "Следующая дикая вечеринка 80-х на подходе. С еще большим количеством грандиозных хитов, яркими диско-огнями и атмосферой восьмидесятых. Ожидайте лучшую музыку D-Mark от New Wave, NDW, Pop, Indie, Rock, EBM, R&B, до Rap и Hip-Hop. Мы представим вам запоминающиеся хиты и вечные мелодии! Все танцевально ...",
+      "description": "Следующая дикая вечеринка 80-х на подходе. С еще большим количеством грандиозных хитов, яркими диско-огнями и атмосферой восьмидесятых. Ожидайте лучшую музыку D-Mark от New Wave, NDW, Pop, Indie, Rock, EBM, R&B, до Rap и Hip-Hop. Мы представим вам запоминающиеся хиты и вечные мелодии! Все танцевально ...",
+      "personalScore": 50,
+      "matchReasons": [
+        "preferred-city",
+        "weekend"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-166888-2026-07-12T11:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Boule und Pétanque in Mainz-Drais",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Boulodrome Drais - Bouleplatz",
+      "url": "https://www.mainz.de/info-networking-event?id=166888",
+      "descriptionDe": "Der 1.ABCD Mainz-Drais : Boule / Pétanque Seit 1996 treffen sich Mitglieder und Freunde des ABCD (Allgemeiner Boule-Club Drais) jeden Sonntag von 11.00 bis 13.00 Uhr auf dem Spielplatz (Boulodrome) in Mainz-Drais, An den Platzäckern / Universitätsstrasse – auch bei Minus-Graden – und frönen dem Spiel mit den Kugeln. …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "Буле и пэтанк в Майнце-Драйс",
+      "title": "Boule und Pétanque in Mainz-Drais / Буле и пэтанк в Майнце-Драйс",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "1-й ABCD Mainz-Drais: Буле / Пэтанк С 1996 года члены и друзья ABCD (Общий клуб буле Драйс) встречаются каждое воскресенье с 11:00 до 13:00 на игровой площадке (бульодром) в Майнце-Драйс, на улице Ан ден Плацеккерн / Университетская улица – даже при минусовых температурах – и предаются игре с шарами. …",
+      "description": "1-й ABCD Mainz-Drais: Буле / Пэтанк С 1996 года члены и друзья ABCD (Общий клуб буле Драйс) встречаются каждое воскресенье с 11:00 до 13:00 на игровой площадке (бульодром) в Майнце-Драйс, на улице Ан ден Плацеккерн / Университетская улица – даже при минусовых температурах – и предаются игре с шарами. …",
       "personalScore": 50,
       "matchReasons": [
         "preferred-city",
@@ -758,6 +3820,42 @@
       ]
     },
     {
+      "id": "mainz-info-networking-event-167133-2026-07-13T17:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Kreativnachmittag: Parcours bauen mit Beebot und Cubetto",
+      "date": "2026-07-13",
+      "time": "17:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Öffentliche Bücherei - Anna Seghers",
+      "url": "https://www.mainz.de/info-networking-event?id=167133",
+      "descriptionDe": "Von 17 bis 18 Uhr findet jeden Monat montags in der Öffentlichen Bücherei – Anna Seghers ein kreativer Robotik-Nachmittag statt. Im Juli können Kinder im Alter von 5 bis 8 Jahren eigene Parcours entwickeln, erste Programmiererfahrungen sammeln und die Roboter durch ihre selbst erstellen Parcours steuern.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "children"
+      ],
+      "titleRu": "Творческий вечер: Создание трасс с Beebot и Cubetto",
+      "title": "Kreativnachmittag: Parcours bauen mit Beebot und Cubetto / Творческий вечер: Создание трасс с Beebot и Cubetto",
+      "type": "children",
+      "tags": [
+        "children",
+        "master_class"
+      ],
+      "descriptionRu": "С 17:00 до 18:00 каждый месяц по понедельникам в Общественной библиотеке – Анна Зегерс проходит творческий вечер по робототехнике. В июле дети в возрасте от 5 до 8 лет смогут разрабатывать свои собственные трассы, получать первые навыки программирования и управлять роботами по созданным ими трассам.",
+      "description": "С 17:00 до 18:00 каждый месяц по понедельникам в Общественной библиотеке – Анна Зегерс проходит творческий вечер по робототехнике. В июле дети в возрасте от 5 до 8 лет смогут разрабатывать свои собственные трассы, получать первые навыки программирования и управлять роботами по созданным ими трассам.",
+      "personalScore": 40,
+      "matchReasons": [
+        "preferred-city"
+      ]
+    },
+    {
       "id": "bad-schwalbach-https-www-openstreetmap-org-search-query-emser-20stra-c3-9fe-203-20-vereinsr-c3-a4ume-2065307-20bad-20schwalbach-amp-zoom-18-2026-07-15-17:00",
       "sourceName": "Bad Schwalbach – официальный Veranstaltungskalender города и событий в Kurpark и окрестностях.",
       "sourceUrl": "https://www.bad-schwalbach.de/freizeit-tourismus/veranstaltungen-mehr/veranstaltungskalender/",
@@ -788,6 +3886,190 @@
       ],
       "descriptionRu": "„Узнайте о воде…",
       "description": "„Узнайте о воде…",
+      "personalScore": 40,
+      "matchReasons": [
+        "preferred-city"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167950-2026-07-15T20:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Horror-Komödie \"The Gal Who Didn't Like Musicals\"",
+      "date": "2026-07-15",
+      "time": "20:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "JGU - Philosophicum, Hörsaal P 1",
+      "url": "https://www.mainz.de/info-networking-event?id=167950",
+      "descriptionDe": "Paula lebt ein normales Leben, bis sich nach einem Meteoriteneinschlag ihre Mitmenschen verhalten, als wären sie in einem grotesken Musical. \"The Gal Who Didn't Like Musicals\" ist eine Horror-Komödie inszeniert und aufgeführt von der Musicaltheatergruppe Vorgewaschen. Bei der Vorlage \"The Guy Who Didn't Like …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "spektakl"
+      ],
+      "titleRu": "Хоррор-комедия \"Девушка, которой не нравились мюзиклы\"",
+      "title": "Horror-Komödie \"The Gal Who Didn't Like Musicals\" / Хоррор-комедия \"Девушка, которой не нравились мюзиклы\"",
+      "type": "spektakl",
+      "tags": [
+        "spektakl",
+        "other"
+      ],
+      "descriptionRu": "Паула живет обычной жизнью, пока после падения метеорита ее окружающие не начинают вести себя так, как будто они в grotesque мюзикле. \"Девушка, которой не нравились мюзиклы\" — это хоррор-комедия, поставленная и исполненная театральной группой мюзиклов Vorgewaschen.",
+      "description": "Паула живет обычной жизнью, пока после падения метеорита ее окружающие не начинают вести себя так, как будто они в grotesque мюзикле. \"Девушка, которой не нравились мюзиклы\" — это хоррор-комедия, поставленная и исполненная театральной группой мюзиклов Vorgewaschen.",
+      "personalScore": 40,
+      "matchReasons": [
+        "preferred-city"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-168052-2026-07-15T21:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "PUBLIC VIEWING - HALBFINALE",
+      "date": "2026-07-15",
+      "time": "21:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kulturbiergarten im Schloss",
+      "url": "https://www.mainz.de/info-networking-event?id=168052",
+      "descriptionDe": "Das Turnier geht in die heiße Phase – sei live dabei! ⚽ Erlebe die packenden Spiele gemeinsam mit anderen Fans beim Public Viewing. Egal, für welches Team dein Herz schlägt – die einzigartige Atmosphäre, das gemeinsame Mitfiebern und der Jubel nach jedem Tor machen jedes Spiel zu einem besonderen Erlebnis. Wir …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "ПУБЛИЧНЫЙ ПРОСМОТР - ПОЛУФИНАЛ",
+      "title": "PUBLIC VIEWING - HALBFINALE / ПУБЛИЧНЫЙ ПРОСМОТР - ПОЛУФИНАЛ",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Турнир вступает в горячую фазу – будь с нами вживую! ⚽ Испытай захватывающие игры вместе с другими фанатами на публичном просмотре. Независимо от того, за какую команду бьется твое сердце – уникальная атмосфера, совместное переживание и радость после каждого гола делают каждую игру особенным событием. Мы …",
+      "description": "Турнир вступает в горячую фазу – будь с нами вживую! ⚽ Испытай захватывающие игры вместе с другими фанатами на публичном просмотре. Независимо от того, за какую команду бьется твое сердце – уникальная атмосфера, совместное переживание и радость после каждого гола делают каждую игру особенным событием. Мы …",
+      "personalScore": 40,
+      "matchReasons": [
+        "preferred-city"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167832-2026-07-15T23:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "ES IST MITTWOCH - 2000er und mehr",
+      "date": "2026-07-15",
+      "time": "23:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Kulturclub schon schön",
+      "url": "https://www.mainz.de/info-networking-event?id=167832",
+      "descriptionDe": "DJ bÄrts Künste die 2000er wiederaufleben zu lassen sind uns ja seit Jahren wohlbekannt, doch diesmal gibts das ganze schon Mittwochs im Mix mit Pop und Classics aus allen Zeiten. DJ bÄrt wirft uns dabei die besten Partyperlen um die Ohren, lässt uns aber auch bei dem ein oder anderen Trash und Guilty-Pleasure Song …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "other"
+      ],
+      "titleRu": "СРЕДА - 2000-е и больше",
+      "title": "ES IST MITTWOCH - 2000er und mehr / СРЕДА - 2000-е и больше",
+      "type": "other",
+      "tags": [
+        "other"
+      ],
+      "descriptionRu": "Творчество DJ bÄrta по воскрешению 2000-х нам хорошо известно уже много лет, но на этот раз все это будет происходить по средам в миксе с поп-музыкой и классикой из всех времен. DJ bÄrt будет бросать нам лучшие вечеринки, но также даст возможность насладиться некоторыми трэшевыми и «виновными удовольствиями» …",
+      "description": "Творчество DJ bÄrta по воскрешению 2000-х нам хорошо известно уже много лет, но на этот раз все это будет происходить по средам в миксе с поп-музыкой и классикой из всех времен. DJ bÄrt будет бросать нам лучшие вечеринки, но также даст возможность насладиться некоторыми трэшевыми и «виновными удовольствиями» …",
+      "personalScore": 40,
+      "matchReasons": [
+        "preferred-city"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167494-2026-07-16T10:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Ferienworkshop MINI (zweitägig)",
+      "date": "2026-07-16",
+      "time": "10:00",
+      "price": {
+        "min": 30,
+        "max": 30,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Landesmuseum Mainz",
+      "url": "https://www.mainz.de/info-networking-event?id=167494",
+      "descriptionDe": "Wir gehen im Museum auf Spurensuche nach spannenden Objekten und ihren Geschichten. Nach der Entdeckungstour arbeiten wir im Werkraum an unseren eigenen künstlerischen Projekten. Alter: für Kinder von 5 bis 8 Jahren Termin: 16. + 17.07.2026 Uhrzeit: jeweils 10:00 bis 13:00 Uhr Kursgebühr: 30,00 € für beide Termine …",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "children",
+        "master_class",
+        "course",
+        "museum"
+      ],
+      "titleRu": "Каникулы: Мини-мастерская (двухдневная)",
+      "title": "Ferienworkshop MINI (zweitägig) / Каникулы: Мини-мастерская (двухдневная)",
+      "type": "master_class",
+      "tags": [
+        "children",
+        "master_class",
+        "course",
+        "museum"
+      ],
+      "descriptionRu": "Мы отправимся в музей на поиски увлекательных объектов и их историй. После экскурсии мы будем работать в мастерской над нашими собственными художественными проектами. Возраст: для детей от 5 до 8 лет Даты: 16 и 17 июля 2026 года Время: с 10:00 до 13:00 каждый день Плата за курс: 30,00 € за оба дня …",
+      "description": "Мы отправимся в музей на поиски увлекательных объектов и их историй. После экскурсии мы будем работать в мастерской над нашими собственными художественными проектами. Возраст: для детей от 5 до 8 лет Даты: 16 и 17 июля 2026 года Время: с 10:00 до 13:00 каждый день Плата за курс: 30,00 € за оба дня …",
+      "personalScore": 40,
+      "matchReasons": [
+        "preferred-city"
+      ]
+    },
+    {
+      "id": "mainz-info-networking-event-167726-2026-07-16T16:00:00+02:00",
+      "sourceName": "Veranstaltungskalender | Landeshauptstadt Mainz",
+      "sourceUrl": "https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender",
+      "titleDe": "Kindertheater \"Prinzessin auf der Erbse\"",
+      "date": "2026-07-16",
+      "time": "16:00",
+      "price": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "city": "Mainz",
+      "venue": "Mombacher Schwimmbad",
+      "url": "https://www.mainz.de/info-networking-event?id=167726",
+      "descriptionDe": "Ein Prinz soll unter dem Druck seiner Mutter endlich eine echte Prinzessin zur Frau nehmen. Viele „falsche“ Prinzessinnen präsentieren sich ihm… Doch welche ist die wirkliche Prinzessin? Der „königliche Prinzessinnenerbsentest“ soll es an den Tag bringen, welche Frau die Richtige ist.",
+      "rawType": "Veranstaltungskalender",
+      "exportedAt": "2026-07-09T12:12:34.751Z",
+      "rawCategoryHints": [
+        "children",
+        "spektakl"
+      ],
+      "titleRu": "Детский театр \"Принцесса на горошине\"",
+      "title": "Kindertheater \"Prinzessin auf der Erbse\" / Детский театр \"Принцесса на горошине\"",
+      "type": "spektakl",
+      "tags": [
+        "children",
+        "spektakl"
+      ],
+      "descriptionRu": "Принц под давлением своей матери должен наконец-то взять в жены настоящую принцессу. Многие «ложные» принцессы представляют себя ему... Но кто же настоящая принцесса? «Королевский тест на принцессу» должен показать, какая женщина является правильной.",
+      "description": "Принц под давлением своей матери должен наконец-то взять в жены настоящую принцессу. Многие «ложные» принцессы представляют себя ему... Но кто же настоящая принцесса? «Королевский тест на принцессу» должен показать, какая женщина является правильной.",
       "personalScore": 40,
       "matchReasons": [
         "preferred-city"
@@ -2061,6 +5343,13 @@
     }
   ],
   "hiddenEvents": [
+    {
+      "id": "mainz-info-networking-event-166581-2026-07-09T19:30:00+02:00",
+      "score": -100,
+      "reasons": [
+        "excluded-keyword:abschlusskonzert"
+      ]
+    },
     {
       "id": "eventfinder-3168361-2026-08-01-17:00",
       "score": 10,

@@ -42,7 +42,7 @@ These sources either produced raw items that were fully deduplicated or they onl
 | `https://www.staatstheater-wiesbaden.de` | no dated records | 0 | 0 | Homepage; no event list extracted yet. |
 | `https://www.staatstheater-wiesbaden.de/spielplan/` | no dated records | 0 | 0 | Selected page did not expose dated event cards in the current parser. |
 | `https://www.mainz-tourismus.com/entdecken-erleben/kultur-erleben/musik-konzerte` | no dated records | 0 | 0 | Discovery page only. |
-| `https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender` | no dated records | 0 | 0 | Calendar shell present, but no extractable dated records yet. |
+| `https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender` | parsed | 501 | 86 | Official Mainz GraphQL calendar is working; loaded in staged chunks because one full AI pass is too large for a single foreground run. |
 | `https://rausgegangen.de/mainz/` | no dated records | 0 | 0 | Discovery page only. |
 | `https://staatstheater-mainz.com` | no dated records | 0 | 0 | Homepage only. |
 | `https://www.staatstheater-mainz.com/uebersicht/maerz` | no dated records | 0 | 0 | Selected monthly page did not yield extractable records yet. |
@@ -74,11 +74,11 @@ These sources either produced raw items that were fully deduplicated or they onl
 - Taunusstein now has a real official city feed instead of only aggregator placeholders.
 - Bad Schwalbach and Idstein now also have real official city feeds through their TVM calendars.
 - Limburg, Frankfurt24, BiletKartina, and Artist Production add real value.
-- Mainz is present in `sources.json`, but the current parser still does not extract dated events from its official pages.
+- Mainz now has a working official city calendar feed with meaningful coverage, though the raw feed is large and benefits from staged ingestion.
 - A lot of the remaining sources are discovery pages, redirects, or blocked pages. They are useful as source pointers, but not as event feeds yet.
 
 ## Next Useful Work
 
-1. Build dedicated parsers for Mainz if we want real Mainz coverage.
+1. Continue staged ingestion / quality cleanup for Mainz (children, online, civic-ish edge cases) now that the official feed works.
 2. Decide whether `Meinestadt` sources are worth a browser-based or API-based path, since the current fetch-based approach times out.
 3. Keep discovery pages in `sources.json` only if they are useful as source pointers; otherwise they can be pruned later.

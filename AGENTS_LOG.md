@@ -2,6 +2,10 @@
 
 ## 2026-07-09
 
+- Проверен и подтвержден рабочий официальный GraphQL-календарь Mainz (`https://www.mainz.de/angebote-entdecken/freizeit/feste-und-veranstaltungen/veranstaltungskalender`): отдельный live scrape дал 501 raw events на окно до `2026-09-09`.
+- Для безопасной загрузки большого Mainz-feed использован поэтапный режим `SKIP_SCRAPE=true ITEMS_FOR_TEST=40 npm run update:sources`; выполнено 3 прохода подряд. В результате в `sourceBase.json` добавлено 86 событий Mainz (база выросла с 71 до 157), а `personalIndex.json` вырос до 143 событий.
+- После усиления Mainz выполнены `npm run build`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`; live-сайт теперь показывает 157 актуальных событий, из них 86 из Mainz.
+
 - В `scripts/lib/source-workflow.mjs` добавлена `pruneStoreByDate()`, а `scripts/update-sources.mjs` теперь автоматически очищает `sourceBase.json` и `exceptedItems.json` от прошедших событий перед дальнейшим workflow.
 - Выполнен `SKIP_SCRAPE=true ITEMS_FOR_TEST=0 npm run update:sources`: из `sourceBase.json` удалено 511 прошедших событий, база сокращена с 582 до 71 актуального события; из `exceptedItems.json` удалено 93 старых исключения.
 - Выполнены `npm run build`, публикация `public/` в `/var/www/sites/afisha/public/` и remote smoke-test `TEST_URL=https://afisha.softdock.de npm test`; live-сайт теперь показывает 71 актуальное событие и проходит smoke-test.
